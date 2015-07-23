@@ -1,0 +1,2303 @@
+15-03-25 09:45:37 : use mall
+15-03-25 09:45:37 : set names utf8
+15-03-25 09:45:37 : select cat_id,cat_name,parent_id from category
+15-03-25 09:45:37 : select cat_id,cat_name,parent_id from category
+15-03-25 09:45:48 : use mall
+15-03-25 09:45:48 : set names utf8
+15-03-25 09:45:48 : select cat_id,cat_name,parent_id from category
+15-03-25 09:45:48 : select cat_id,cat_name,parent_id from category
+15-03-25 09:46:25 : use mall
+15-03-25 09:46:25 : set names utf8
+15-03-25 09:46:25 : insert into category (cat_name,parent_id,intro) values ('中国风','3','ddd')
+15-03-25 09:46:35 : use mall
+15-03-25 09:46:35 : set names utf8
+15-03-25 09:46:35 : select cat_id,cat_name,parent_id from category
+15-03-25 09:46:35 : select cat_id,cat_name,parent_id from category
+15-03-25 09:46:36 : use mall
+15-03-25 09:46:36 : set names utf8
+15-03-25 09:46:36 : select cat_id,cat_name,parent_id from category
+15-03-25 09:46:36 : select cat_id,cat_name,parent_id from category
+15-03-25 09:46:39 : use mall
+15-03-25 09:46:39 : set names utf8
+15-03-25 09:46:39 : select cat_id,cat_name,parent_id from category
+15-03-25 09:46:39 : select cat_id,cat_name,parent_id from category
+15-03-25 09:47:36 : use mall
+15-03-25 09:47:36 : set names utf8
+15-03-25 09:47:36 : select cat_id,cat_name,parent_id from category
+15-03-25 09:47:36 : select cat_id,cat_name,parent_id from category
+15-03-25 09:47:41 : use mall
+15-03-25 09:47:41 : set names utf8
+15-03-25 09:47:41 : select cat_id,cat_name,parent_id from category
+15-03-25 09:47:41 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:02 : use mall
+15-03-25 09:48:02 : set names utf8
+15-03-25 09:48:02 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:02 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:03 : use mall
+15-03-25 09:48:03 : set names utf8
+15-03-25 09:48:03 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:03 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:08 : use mall
+15-03-25 09:48:08 : set names utf8
+15-03-25 09:48:08 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:08 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:09 : use mall
+15-03-25 09:48:09 : set names utf8
+15-03-25 09:48:09 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:09 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:51 : use mall
+15-03-25 09:48:51 : set names utf8
+15-03-25 09:48:51 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:51 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:52 : use mall
+15-03-25 09:48:52 : set names utf8
+15-03-25 09:48:52 : select cat_id,cat_name,parent_id from category
+15-03-25 09:48:52 : select cat_id,cat_name,parent_id from category
+15-03-25 09:49:45 : use mall
+15-03-25 09:49:45 : set names utf8
+15-03-25 09:49:45 : select cat_id,cat_name,parent_id from category
+15-03-25 09:49:45 : select cat_id,cat_name,parent_id from category
+15-03-25 09:49:47 : use mall
+15-03-25 09:49:47 : set names utf8
+15-03-25 09:49:47 : select cat_id,cat_name,parent_id from category
+15-03-25 09:49:47 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:50 : use mall
+15-03-25 09:50:50 : set names utf8
+15-03-25 09:50:50 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:50 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:52 : use mall
+15-03-25 09:50:52 : set names utf8
+15-03-25 09:50:52 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:52 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:53 : use mall
+15-03-25 09:50:53 : set names utf8
+15-03-25 09:50:53 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:53 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:53 : use mall
+15-03-25 09:50:53 : set names utf8
+15-03-25 09:50:53 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:53 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:54 : use mall
+15-03-25 09:50:54 : set names utf8
+15-03-25 09:50:54 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:54 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:55 : use mall
+15-03-25 09:50:55 : set names utf8
+15-03-25 09:50:55 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:55 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:56 : use mall
+15-03-25 09:50:56 : set names utf8
+15-03-25 09:50:56 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:56 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:57 : use mall
+15-03-25 09:50:57 : set names utf8
+15-03-25 09:50:57 : select cat_id,cat_name,parent_id from category
+15-03-25 09:50:57 : select cat_id,cat_name,parent_id from category
+15-03-25 09:51:01 : use mall
+15-03-25 09:51:01 : set names utf8
+15-03-25 09:51:01 : select cat_id,cat_name,parent_id from category
+15-03-25 09:51:01 : select cat_id,cat_name,parent_id from category
+15-03-25 09:51:06 : use mall
+15-03-25 09:51:06 : set names utf8
+15-03-25 09:51:06 : select cat_id,cat_name,parent_id from category
+15-03-25 09:51:06 : select cat_id,cat_name,parent_id from category
+15-03-25 09:52:39 : use mall
+15-03-25 09:52:39 : set names utf8
+15-03-25 09:52:39 : select cat_id,cat_name,parent_id from category
+15-03-25 09:52:39 : select cat_id,cat_name,parent_id from category
+15-03-25 09:52:41 : use mall
+15-03-25 09:52:41 : set names utf8
+15-03-25 09:52:41 : select cat_id,cat_name,parent_id from category
+15-03-25 09:52:41 : select cat_id,cat_name,parent_id from category
+15-03-26 10:23:31 : use mall
+15-03-26 10:23:31 : set names utf8
+15-03-26 10:23:31 : select cat_id,cat_name,parent_id from category
+15-03-26 10:23:31 : select cat_id,cat_name,parent_id from category
+15-03-26 10:23:32 : use mall
+15-03-26 10:23:32 : set names utf8
+15-03-26 10:23:32 : select cat_id,cat_name,parent_id from category
+15-03-26 10:23:32 : select cat_id,cat_name,parent_id from category
+15-03-26 10:23:35 : use mall
+15-03-26 10:23:35 : set names utf8
+15-03-26 10:23:35 : insert into category (cat_name,parent_id,intro) values ('','0','')
+15-03-26 10:24:36 : use mall
+15-03-26 10:24:36 : set names utf8
+15-03-26 10:24:36 : select cat_id,cat_name,parent_id from category
+15-03-26 10:24:36 : select cat_id,cat_name,parent_id from category
+15-03-26 10:24:37 : use mall
+15-03-26 10:24:37 : set names utf8
+15-03-26 10:24:37 : select cat_id,cat_name,parent_id from category
+15-03-26 10:24:37 : select cat_id,cat_name,parent_id from category
+15-03-26 10:25:38 : use mall
+15-03-26 10:25:38 : set names utf8
+15-03-26 10:25:38 : insert into category (cat_name,parent_id,intro) values ('a','0','')
+15-03-26 10:26:05 : use mall
+15-03-26 10:26:05 : set names utf8
+15-03-26 10:26:05 : select cat_id,cat_name,parent_id from category
+15-03-26 10:26:05 : select cat_id,cat_name,parent_id from category
+15-03-26 10:26:09 : use mall
+15-03-26 10:26:09 : set names utf8
+15-03-26 10:26:09 : select cat_id,cat_name,parent_id from category
+15-03-26 10:26:09 : select cat_id,cat_name,parent_id from category
+15-03-26 10:26:13 : use mall
+15-03-26 10:26:13 : set names utf8
+15-03-26 10:26:13 : select cat_id,cat_name,parent_id from category
+15-03-26 10:26:13 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:21 : use mall
+15-03-26 10:27:21 : set names utf8
+15-03-26 10:27:21 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:21 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:22 : use mall
+15-03-26 10:27:22 : set names utf8
+15-03-26 10:27:22 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:22 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:22 : use mall
+15-03-26 10:27:22 : set names utf8
+15-03-26 10:27:22 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:22 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:23 : use mall
+15-03-26 10:27:23 : set names utf8
+15-03-26 10:27:23 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:23 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:26 : use mall
+15-03-26 10:27:26 : set names utf8
+15-03-26 10:27:26 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:26 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:36 : use mall
+15-03-26 10:27:36 : set names utf8
+15-03-26 10:27:36 : select cat_id,cat_name,parent_id from category
+15-03-26 10:27:36 : select cat_id,cat_name,parent_id from category
+15-03-26 10:29:21 : use mall
+15-03-26 10:29:21 : set names utf8
+15-03-26 10:29:21 : select cat_id,cat_name,parent_id from category
+15-03-26 10:29:21 : select cat_id,cat_name,parent_id from category
+15-03-26 10:29:23 : use mall
+15-03-26 10:29:23 : set names utf8
+15-03-26 10:29:23 : select cat_id,cat_name,parent_id from category
+15-03-26 10:29:23 : select cat_id,cat_name,parent_id from category
+15-03-26 10:29:41 : use mall
+15-03-26 10:29:41 : set names utf8
+15-03-26 10:29:41 : insert into category (cat_name,parent_id,intro) values ('男士正装','1','eee')
+15-03-26 10:30:10 : use mall
+15-03-26 10:30:10 : set names utf8
+15-03-26 10:30:10 : select cat_id,cat_name,parent_id from category
+15-03-26 10:30:10 : select cat_id,cat_name,parent_id from category
+15-03-26 10:50:27 : use mall
+15-03-26 10:50:27 : set names utf8
+15-03-26 10:50:27 : select cat_id,cat_name,parent_id from category
+15-03-26 10:50:27 : select cat_id,cat_name,parent_id from category
+15-03-26 11:03:33 : use mall
+15-03-26 11:03:33 : set names utf8
+15-03-26 11:03:33 : select cat_id,cat_name,parent_id from category
+15-03-26 11:03:33 : select cat_id,cat_name,parent_id from category
+15-03-26 11:03:34 : use mall
+15-03-26 11:03:34 : set names utf8
+15-03-26 11:03:34 : select cat_id,cat_name,parent_id from category
+15-03-26 11:03:34 : select cat_id,cat_name,parent_id from category
+15-03-27 12:07:57 : use mall
+15-03-27 12:07:57 : set names utf8
+15-03-27 12:07:57 : select cat_id,cat_name,parent_id from category
+15-03-27 12:07:57 : select cat_id,cat_name,parent_id from category
+15-03-27 12:15:34 : use mall
+15-03-27 12:15:34 : set names utf8
+15-03-27 12:15:34 : select cat_id,cat_name,parent_id from category
+15-03-27 12:15:34 : select cat_id,cat_name,parent_id from category
+15-03-27 12:17:18 : use mall
+15-03-27 12:17:18 : set names utf8
+15-03-27 12:17:18 : select cat_id,cat_name,parent_id from category
+15-03-27 12:17:18 : select cat_id,cat_name,parent_id from category
+15-03-27 07:53:52 : use mall
+15-03-27 07:53:52 : set names utf8
+15-03-27 07:53:52 : select cat_id,cat_name,parent_id from category
+15-03-27 07:53:52 : select cat_id,cat_name,parent_id from category
+15-03-27 07:54:19 : use mall
+15-03-27 07:54:19 : set names utf8
+15-03-27 07:54:19 : select cat_id,cat_name,parent_id from category
+15-03-27 07:54:19 : select cat_id,cat_name,parent_id from category
+15-03-27 07:54:34 : use mall
+15-03-27 07:54:34 : set names utf8
+15-03-27 07:54:34 : select cat_id,cat_name,parent_id from category
+15-03-27 07:54:34 : select cat_id,cat_name,parent_id from category
+15-03-27 07:54:36 : use mall
+15-03-27 07:54:36 : set names utf8
+15-03-27 07:54:36 : select cat_id,cat_name,parent_id from category
+15-03-27 07:54:36 : select cat_id,cat_name,parent_id from category
+15-03-27 07:54:50 : use mall
+15-03-27 07:54:50 : set names utf8
+15-03-27 07:54:50 : select cat_id,cat_name,parent_id from category
+15-03-27 07:54:50 : select cat_id,cat_name,parent_id from category
+15-03-27 07:55:41 : use mall
+15-03-27 07:55:41 : set names utf8
+15-03-27 07:55:41 : select cat_id,cat_name,parent_id from category
+15-03-27 07:55:41 : select cat_id,cat_name,parent_id from category
+15-03-27 07:55:52 : use mall
+15-03-27 07:55:52 : set names utf8
+15-03-27 07:55:52 : select cat_id,cat_name,parent_id from category
+15-03-27 07:55:52 : select cat_id,cat_name,parent_id from category
+15-03-27 07:57:01 : use mall
+15-03-27 07:57:01 : set names utf8
+15-03-27 07:57:01 : select cat_id,cat_name,parent_id from category
+15-03-27 07:57:01 : select cat_id,cat_name,parent_id from category
+15-03-27 07:57:14 : use mall
+15-03-27 07:57:14 : set names utf8
+15-03-27 07:57:14 : select cat_id,cat_name,parent_id from category
+15-03-27 07:57:14 : select cat_id,cat_name,parent_id from category
+15-03-27 07:59:51 : use mall
+15-03-27 07:59:51 : set names utf8
+15-03-27 07:59:51 : select cat_id,cat_name,parent_id from category
+15-03-27 07:59:51 : select cat_id,cat_name,parent_id from category
+15-03-27 08:00:07 : use mall
+15-03-27 08:00:07 : set names utf8
+15-03-27 08:00:07 : select cat_id,cat_name,parent_id from category
+15-03-27 08:00:07 : select cat_id,cat_name,parent_id from category
+15-03-27 08:00:23 : use mall
+15-03-27 08:00:23 : set names utf8
+15-03-27 08:00:23 : select cat_id,cat_name,parent_id from category
+15-03-27 08:00:23 : select cat_id,cat_name,parent_id from category
+15-03-27 08:01:18 : use mall
+15-03-27 08:01:18 : set names utf8
+15-03-27 08:01:18 : select cat_id,cat_name,parent_id from category
+15-03-27 08:01:18 : select cat_id,cat_name,parent_id from category
+15-03-27 08:01:49 : use mall
+15-03-27 08:01:49 : set names utf8
+15-03-27 08:01:49 : select cat_id,cat_name,parent_id from category
+15-03-27 08:01:49 : select cat_id,cat_name,parent_id from category
+15-03-27 08:02:28 : use mall
+15-03-27 08:02:28 : set names utf8
+15-03-27 08:02:28 : select cat_id,cat_name,parent_id from category
+15-03-27 08:02:28 : select cat_id,cat_name,parent_id from category
+15-03-27 08:04:26 : use mall
+15-03-27 08:04:26 : set names utf8
+15-03-27 08:04:26 : select cat_id,cat_name,parent_id from category
+15-03-27 08:04:26 : select cat_id,cat_name,parent_id from category
+15-03-27 08:05:30 : use mall
+15-03-27 08:05:30 : set names utf8
+15-03-27 08:05:30 : select cat_id,cat_name,parent_id from category
+15-03-27 08:05:30 : select cat_id,cat_name,parent_id from category
+15-03-27 08:05:46 : use mall
+15-03-27 08:05:46 : set names utf8
+15-03-27 08:05:46 : select cat_id,cat_name,parent_id from category
+15-03-27 08:05:46 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:02 : use mall
+15-03-27 08:06:02 : set names utf8
+15-03-27 08:06:02 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:02 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:03 : use mall
+15-03-27 08:06:03 : set names utf8
+15-03-27 08:06:03 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:03 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:37 : use mall
+15-03-27 08:06:37 : set names utf8
+15-03-27 08:06:37 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:37 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:39 : use mall
+15-03-27 08:06:39 : set names utf8
+15-03-27 08:06:39 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:39 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:57 : use mall
+15-03-27 08:06:57 : set names utf8
+15-03-27 08:06:57 : select cat_id,cat_name,parent_id from category
+15-03-27 08:06:57 : select cat_id,cat_name,parent_id from category
+15-03-27 08:07:14 : use mall
+15-03-27 08:07:14 : set names utf8
+15-03-27 08:07:14 : select cat_id,cat_name,parent_id from category
+15-03-27 08:07:14 : select cat_id,cat_name,parent_id from category
+15-03-27 08:07:29 : use mall
+15-03-27 08:07:29 : set names utf8
+15-03-27 08:07:29 : select cat_id,cat_name,parent_id from category
+15-03-27 08:07:29 : select cat_id,cat_name,parent_id from category
+15-03-27 08:10:02 : use mall
+15-03-27 08:10:02 : set names utf8
+15-03-27 08:10:02 : select cat_id,cat_name,parent_id from category
+15-03-27 08:10:02 : select cat_id,cat_name,parent_id from category
+15-03-27 08:10:36 : use mall
+15-03-27 08:10:36 : set names utf8
+15-03-27 08:10:36 : select cat_id,cat_name,parent_id from category
+15-03-27 08:10:36 : select cat_id,cat_name,parent_id from category
+15-03-27 08:11:31 : use mall
+15-03-27 08:11:31 : set names utf8
+15-03-27 08:11:31 : select cat_id,cat_name,parent_id from category
+15-03-27 08:11:31 : select cat_id,cat_name,parent_id from category
+15-03-27 08:11:38 : use mall
+15-03-27 08:11:38 : set names utf8
+15-03-27 08:11:38 : select cat_id,cat_name,parent_id from category
+15-03-27 08:11:38 : select cat_id,cat_name,parent_id from category
+15-03-27 08:12:33 : use mall
+15-03-27 08:12:33 : set names utf8
+15-03-27 08:12:33 : select cat_id,cat_name,parent_id from category
+15-03-27 08:12:33 : select cat_id,cat_name,parent_id from category
+15-03-27 08:13:13 : use mall
+15-03-27 08:13:13 : set names utf8
+15-03-27 08:13:13 : select cat_id,cat_name,parent_id from category
+15-03-27 08:13:13 : select cat_id,cat_name,parent_id from category
+15-03-27 08:13:17 : use mall
+15-03-27 08:13:17 : set names utf8
+15-03-27 08:14:49 : use mall
+15-03-27 08:14:49 : set names utf8
+15-03-27 08:14:49 : select cat_id,cat_name,parent_id from category
+15-03-27 08:14:49 : select cat_id,cat_name,parent_id from category
+15-03-27 08:14:50 : use mall
+15-03-27 08:14:50 : set names utf8
+15-03-27 08:14:50 : select cat_id,cat_name,parent_id from category
+15-03-27 08:14:50 : select cat_id,cat_name,parent_id from category
+15-03-27 08:15:39 : use mall
+15-03-27 08:15:39 : set names utf8
+15-03-27 08:15:39 : select cat_id,cat_name,parent_id from category
+15-03-27 08:15:39 : select cat_id,cat_name,parent_id from category
+15-03-27 08:15:40 : use mall
+15-03-27 08:15:40 : set names utf8
+15-03-27 08:15:40 : select cat_id,cat_name,parent_id from category
+15-03-27 08:15:40 : select cat_id,cat_name,parent_id from category
+15-03-27 08:20:14 : use mall
+15-03-27 08:20:14 : set names utf8
+15-03-27 08:20:14 : select cat_id,cat_name,parent_id from category
+15-03-27 08:20:14 : select cat_id,cat_name,parent_id from category
+15-03-27 08:20:15 : use mall
+15-03-27 08:20:15 : set names utf8
+15-03-27 08:20:15 : select cat_id,cat_name,parent_id from category
+15-03-27 08:20:15 : select cat_id,cat_name,parent_id from category
+15-03-27 08:20:37 : use mall
+15-03-27 08:20:37 : set names utf8
+15-03-27 08:20:37 : insert into category (cat_name,parent_id,intro) values ('复古','1','jjj')
+15-03-27 08:22:08 : use mall
+15-03-27 08:22:08 : set names utf8
+15-03-27 08:22:08 : select cat_id,cat_name,parent_id from category
+15-03-27 08:22:08 : select cat_id,cat_name,parent_id from category
+15-03-27 08:22:11 : use mall
+15-03-27 08:22:11 : set names utf8
+15-03-27 08:22:11 : select cat_id,cat_name,parent_id from category
+15-03-27 08:22:11 : select cat_id,cat_name,parent_id from category
+15-03-27 08:22:52 : use mall
+15-03-27 08:22:52 : set names utf8
+15-03-27 08:22:52 : insert into category (cat_name,parent_id,intro) values ('少女','3','vvv')
+15-03-27 08:22:55 : use mall
+15-03-27 08:22:55 : set names utf8
+15-03-27 08:22:55 : select cat_id,cat_name,parent_id from category
+15-03-27 08:22:55 : select cat_id,cat_name,parent_id from category
+15-03-27 08:26:27 : use mall
+15-03-27 08:26:27 : set names utf8
+15-03-27 11:21:15 : use mall
+15-03-27 11:21:15 : set names utf8
+15-03-27 11:21:15 : select cat_id,cat_name,parent_id from category
+15-03-27 11:21:15 : select cat_id,cat_name,parent_id from category
+15-03-27 11:21:19 : use mall
+15-03-27 11:21:19 : set names utf8
+15-03-27 11:21:19 : select cat_id,cat_name,parent_id from category
+15-03-27 11:21:19 : select cat_id,cat_name,parent_id from category
+15-03-28 09:59:24 : use mall
+15-03-28 09:59:25 : set names utf8
+15-03-28 09:59:25 : select cat_id,cat_name,parent_id from category
+15-03-28 09:59:25 : select cat_id,cat_name,parent_id from category
+15-03-28 10:19:45 : use mall
+15-03-28 10:19:45 : set names utf8
+15-03-28 10:19:45 : select cat_id,cat_name,parent_id from category
+15-03-28 10:19:45 : select cat_id,cat_name,parent_id from category
+15-03-28 10:19:50 : use mall
+15-03-28 10:19:50 : set names utf8
+15-03-28 10:19:50 : delete from category where cat_id=8
+15-03-28 10:19:57 : use mall
+15-03-28 10:19:57 : set names utf8
+15-03-28 10:19:57 : select cat_id,cat_name,parent_id from category
+15-03-28 10:19:57 : select cat_id,cat_name,parent_id from category
+15-03-28 10:20:58 : use mall
+15-03-28 10:20:58 : set names utf8
+15-03-28 10:20:58 : select cat_id,cat_name,parent_id from category
+15-03-28 10:20:58 : select cat_id,cat_name,parent_id from category
+15-03-28 10:21:03 : use mall
+15-03-28 10:21:03 : set names utf8
+15-03-28 10:21:03 : delete from category where cat_id=7
+15-03-28 10:21:08 : use mall
+15-03-28 10:21:08 : set names utf8
+15-03-28 10:21:08 : select cat_id,cat_name,parent_id from category
+15-03-28 10:21:08 : select cat_id,cat_name,parent_id from category
+15-03-28 10:22:08 : use mall
+15-03-28 10:22:08 : set names utf8
+15-03-28 10:22:08 : select cat_id,cat_name,parent_id from category
+15-03-28 10:22:08 : select cat_id,cat_name,parent_id from category
+15-03-28 10:23:09 : use mall
+15-03-28 10:23:09 : set names utf8
+15-03-28 10:23:09 : select cat_id,cat_name,parent_id from category
+15-03-28 10:23:09 : select cat_id,cat_name,parent_id from category
+15-03-28 10:23:25 : use mall
+15-03-28 10:23:25 : set names utf8
+15-03-28 10:23:25 : select cat_id,cat_name,parent_id from category
+15-03-28 10:23:25 : select cat_id,cat_name,parent_id from category
+15-03-28 10:23:30 : use mall
+15-03-28 10:23:30 : set names utf8
+15-03-28 10:23:30 : select cat_id,cat_name,parent_id from category
+15-03-28 10:23:30 : select cat_id,cat_name,parent_id from category
+15-03-28 10:23:44 : use mall
+15-03-28 10:23:44 : set names utf8
+15-03-28 10:23:44 : insert into category (cat_name,parent_id,intro) values ('正装','1','faewf')
+15-03-28 10:23:48 : use mall
+15-03-28 10:23:48 : set names utf8
+15-03-28 10:23:48 : select cat_id,cat_name,parent_id from category
+15-03-28 10:23:48 : select cat_id,cat_name,parent_id from category
+15-03-28 10:32:41 : use mall
+15-03-28 10:32:41 : set names utf8
+15-03-28 10:32:41 : select cat_id,cat_name,parent_id from category
+15-03-28 10:32:41 : select cat_id,cat_name,parent_id from category
+15-03-28 10:32:44 : use mall
+15-03-28 10:32:44 : set names utf8
+15-03-28 10:32:44 : delete from category where cat_id=10
+15-03-28 10:32:50 : use mall
+15-03-28 10:32:50 : set names utf8
+15-03-28 10:32:50 : select cat_id,cat_name,parent_id from category
+15-03-28 10:32:50 : select cat_id,cat_name,parent_id from category
+15-03-28 10:32:57 : use mall
+15-03-28 10:32:57 : set names utf8
+15-03-28 10:32:57 : select cat_id,cat_name,parent_id from category
+15-03-28 10:32:57 : select cat_id,cat_name,parent_id from category
+15-03-28 10:33:11 : use mall
+15-03-28 10:33:11 : set names utf8
+15-03-28 10:33:11 : insert into category (cat_name,parent_id,intro) values ('正装','1','afs')
+15-03-28 10:33:14 : use mall
+15-03-28 10:33:14 : set names utf8
+15-03-28 10:33:14 : select cat_id,cat_name,parent_id from category
+15-03-28 10:33:14 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:09 : use mall
+15-03-28 10:35:09 : set names utf8
+15-03-28 10:35:09 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:09 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:12 : use mall
+15-03-28 10:35:12 : set names utf8
+15-03-28 10:35:12 : delete from category where cat_id=11
+15-03-28 10:35:13 : use mall
+15-03-28 10:35:13 : set names utf8
+15-03-28 10:35:13 : delete from category where cat_id=11
+15-03-28 10:35:18 : use mall
+15-03-28 10:35:18 : set names utf8
+15-03-28 10:35:18 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:18 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:19 : use mall
+15-03-28 10:35:19 : set names utf8
+15-03-28 10:35:19 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:19 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:20 : use mall
+15-03-28 10:35:20 : set names utf8
+15-03-28 10:35:20 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:20 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:22 : use mall
+15-03-28 10:35:22 : set names utf8
+15-03-28 10:35:22 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:22 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:25 : use mall
+15-03-28 10:35:25 : set names utf8
+15-03-28 10:35:25 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:25 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:32 : use mall
+15-03-28 10:35:32 : set names utf8
+15-03-28 10:35:32 : insert into category (cat_name,parent_id,intro) values ('正装','1','efewf')
+15-03-28 10:35:35 : use mall
+15-03-28 10:35:35 : set names utf8
+15-03-28 10:35:35 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:35 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:39 : use mall
+15-03-28 10:35:39 : set names utf8
+15-03-28 10:35:39 : delete from category where cat_id=12
+15-03-28 10:35:42 : use mall
+15-03-28 10:35:42 : set names utf8
+15-03-28 10:35:42 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:42 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:44 : use mall
+15-03-28 10:35:44 : set names utf8
+15-03-28 10:35:44 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:44 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:49 : use mall
+15-03-28 10:35:49 : set names utf8
+15-03-28 10:35:49 : insert into category (cat_name,parent_id,intro) values ('正装','1','hjpo')
+15-03-28 10:35:52 : use mall
+15-03-28 10:35:52 : set names utf8
+15-03-28 10:35:52 : select cat_id,cat_name,parent_id from category
+15-03-28 10:35:52 : select cat_id,cat_name,parent_id from category
+15-03-29 09:59:08 : use mall
+15-03-29 09:59:08 : set names utf8
+15-03-29 09:59:08 : select cat_id,cat_name,parent_id from category
+15-03-29 09:59:08 : select cat_id,cat_name,parent_id from category
+15-03-29 09:59:10 : use mall
+15-03-29 09:59:10 : set names utf8
+15-03-29 10:04:07 : use mall
+15-03-29 10:04:07 : set names utf8
+15-03-29 10:04:07 : select cat_id,cat_name,parent_id from category
+15-03-29 10:04:07 : select cat_id,cat_name,parent_id from category
+15-03-29 10:04:08 : use mall
+15-03-29 10:04:08 : set names utf8
+15-03-29 10:04:08 : select cat_id,cat_name,parent_id from category where cat_id=1
+15-03-29 10:04:08 : select cat_id,cat_name,parent_id from category where cat_id=1
+15-03-29 10:04:08 : select cat_id,cat_name,parent_id from category
+15-03-29 10:04:08 : select cat_id,cat_name,parent_id from category
+15-03-29 10:04:56 : use mall
+15-03-29 10:04:56 : set names utf8
+15-03-29 10:04:56 : select cat_id,cat_name,parent_id from category where cat_id=13
+15-03-29 10:04:56 : select cat_id,cat_name,parent_id from category where cat_id=13
+15-03-29 10:04:56 : select cat_id,cat_name,parent_id from category
+15-03-29 10:04:56 : select cat_id,cat_name,parent_id from category
+15-03-29 10:06:56 : use mall
+15-03-29 10:06:56 : set names utf8
+15-03-29 10:06:56 : select cat_id,cat_name,parent_id from category
+15-03-29 10:06:56 : select cat_id,cat_name,parent_id from category
+15-03-29 10:06:57 : use mall
+15-03-29 10:06:57 : set names utf8
+15-03-29 10:06:57 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:06:57 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:06:57 : select cat_id,cat_name,parent_id from category
+15-03-29 10:06:57 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:13 : use mall
+15-03-29 10:07:13 : set names utf8
+15-03-29 10:07:13 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:13 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:14 : use mall
+15-03-29 10:07:14 : set names utf8
+15-03-29 10:07:14 : select cat_id,cat_name,parent_id from category where cat_id=1
+15-03-29 10:07:14 : select cat_id,cat_name,parent_id from category where cat_id=1
+15-03-29 10:07:14 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:14 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:17 : use mall
+15-03-29 10:07:17 : set names utf8
+15-03-29 10:07:17 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:07:17 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:07:17 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:17 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:21 : use mall
+15-03-29 10:07:21 : set names utf8
+15-03-29 10:07:21 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:21 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:22 : use mall
+15-03-29 10:07:22 : set names utf8
+15-03-29 10:07:22 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:07:22 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:07:22 : select cat_id,cat_name,parent_id from category
+15-03-29 10:07:22 : select cat_id,cat_name,parent_id from category
+15-03-29 10:08:01 : use mall
+15-03-29 10:08:01 : set names utf8
+15-03-29 10:08:01 : select cat_id,cat_name,parent_id from category
+15-03-29 10:08:01 : select cat_id,cat_name,parent_id from category
+15-03-29 10:08:02 : use mall
+15-03-29 10:08:02 : set names utf8
+15-03-29 10:08:02 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:08:02 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:08:02 : select cat_id,cat_name,parent_id from category
+15-03-29 10:08:02 : select cat_id,cat_name,parent_id from category
+15-03-29 10:09:01 : use mall
+15-03-29 10:09:01 : set names utf8
+15-03-29 10:09:01 : select cat_id,cat_name,parent_id from category
+15-03-29 10:09:01 : select cat_id,cat_name,parent_id from category
+15-03-29 10:09:02 : use mall
+15-03-29 10:09:02 : set names utf8
+15-03-29 10:09:02 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:09:02 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:09:07 : use mall
+15-03-29 10:09:07 : set names utf8
+15-03-29 10:09:07 : select cat_id,cat_name,parent_id from category where cat_id=13
+15-03-29 10:09:07 : select cat_id,cat_name,parent_id from category where cat_id=13
+15-03-29 10:10:06 : use mall
+15-03-29 10:10:06 : set names utf8
+15-03-29 10:10:06 : select cat_id,cat_name,parent_id from category
+15-03-29 10:10:06 : select cat_id,cat_name,parent_id from category
+15-03-29 10:10:07 : use mall
+15-03-29 10:10:07 : set names utf8
+15-03-29 10:10:07 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:10:07 : select cat_id,cat_name,parent_id from category where cat_id=2
+15-03-29 10:10:21 : use mall
+15-03-29 10:10:21 : set names utf8
+15-03-29 10:10:21 : select cat_id,cat_name,parent_id from category
+15-03-29 10:10:21 : select cat_id,cat_name,parent_id from category
+15-03-29 10:10:24 : use mall
+15-03-29 10:10:24 : set names utf8
+15-03-29 10:10:24 : select cat_id,cat_name,parent_id from category where cat_id=13
+15-03-29 10:10:24 : select cat_id,cat_name,parent_id from category where cat_id=13
+15-03-29 10:10:24 : select cat_id,cat_name,parent_id from category
+15-03-29 10:10:24 : select cat_id,cat_name,parent_id from category
+15-03-29 10:11:49 : use mall
+15-03-29 10:11:49 : set names utf8
+15-03-29 10:11:49 : select cat_id,cat_name,parent_id from category
+15-03-29 10:11:49 : select cat_id,cat_name,parent_id from category
+15-03-29 10:11:50 : use mall
+15-03-29 10:11:50 : set names utf8
+15-03-29 10:11:50 : select * from category where cat_id=13
+15-03-29 10:11:50 : select * from category where cat_id=13
+15-03-29 10:11:50 : select cat_id,cat_name,parent_id from category
+15-03-29 10:11:50 : select cat_id,cat_name,parent_id from category
+15-03-29 10:15:02 : use mall
+15-03-29 10:15:02 : set names utf8
+15-03-29 10:15:02 : select * from category where cat_id=13
+15-03-29 10:15:02 : select * from category where cat_id=13
+15-03-29 10:15:02 : select cat_id,cat_name,parent_id from category
+15-03-29 10:15:02 : select cat_id,cat_name,parent_id from category
+15-03-29 10:17:51 : use mall
+15-03-29 10:17:51 : set names utf8
+15-03-29 10:17:51 : select cat_id,cat_name,parent_id from category
+15-03-29 10:17:51 : select cat_id,cat_name,parent_id from category
+15-03-29 10:17:53 : use mall
+15-03-29 10:17:53 : set names utf8
+15-03-29 10:17:53 : select * from category where cat_id=2
+15-03-29 10:17:53 : select * from category where cat_id=2
+15-03-29 10:17:53 : select cat_id,cat_name,parent_id from category
+15-03-29 10:17:53 : select cat_id,cat_name,parent_id from category
+15-03-29 10:18:00 : use mall
+15-03-29 10:18:00 : set names utf8
+15-03-29 10:18:00 : select * from category where cat_id=13
+15-03-29 10:18:00 : select * from category where cat_id=13
+15-03-29 10:18:00 : select cat_id,cat_name,parent_id from category
+15-03-29 10:18:00 : select cat_id,cat_name,parent_id from category
+15-03-29 10:18:09 : use mall
+15-03-29 10:18:09 : set names utf8
+15-03-29 10:18:09 : update category set cat_name='西装',parent_id='1',intro='hjpo' where cat_id=13
+15-03-29 10:18:13 : use mall
+15-03-29 10:18:13 : set names utf8
+15-03-29 10:18:13 : select cat_id,cat_name,parent_id from category
+15-03-29 10:18:13 : select cat_id,cat_name,parent_id from category
+15-03-29 11:04:21 : use mall
+15-03-29 11:04:21 : set names utf8
+15-03-29 11:04:21 : select cat_id,cat_name,parent_id from category
+15-03-29 11:04:21 : select cat_id,cat_name,parent_id from category
+15-03-29 11:04:29 : use mall
+15-03-29 11:04:29 : set names utf8
+15-03-29 11:04:29 : select * from category where cat_id=2
+15-03-29 11:04:29 : select * from category where cat_id=2
+15-03-29 11:04:29 : select cat_id,cat_name,parent_id from category
+15-03-29 11:04:29 : select cat_id,cat_name,parent_id from category
+15-03-29 11:10:13 : use mall
+15-03-29 11:10:13 : set names utf8
+15-03-29 11:10:13 : select * from category where cat_id=13
+15-03-29 11:10:13 : select * from category where cat_id=13
+15-03-29 11:10:13 : select cat_id,cat_name,parent_id from category
+15-03-29 11:10:13 : select cat_id,cat_name,parent_id from category
+15-03-31 02:30:19 : use mall
+15-03-31 02:30:19 : set names utf8
+15-03-31 02:30:19 : select cat_id,cat_name,parent_id from category
+15-03-31 02:30:19 : select cat_id,cat_name,parent_id from category
+15-03-31 02:30:23 : use mall
+15-03-31 02:30:23 : set names utf8
+15-03-31 02:30:23 : select cat_id,cat_name,parent_id from category where parent_id=1
+15-03-31 02:30:23 : select cat_id,cat_name,parent_id from category where parent_id=1
+15-03-31 02:30:28 : use mall
+15-03-31 02:30:28 : set names utf8
+15-03-31 02:30:28 : select cat_id,cat_name,parent_id from category where parent_id=1
+15-03-31 02:30:28 : select cat_id,cat_name,parent_id from category where parent_id=1
+15-03-31 02:30:32 : use mall
+15-03-31 02:30:32 : set names utf8
+15-03-31 02:30:32 : select cat_id,cat_name,parent_id from category where parent_id=1
+15-03-31 02:30:32 : select cat_id,cat_name,parent_id from category where parent_id=1
+15-03-31 02:30:37 : use mall
+15-03-31 02:30:37 : set names utf8
+15-03-31 02:30:37 : select cat_id,cat_name,parent_id from category where parent_id=1
+15-03-31 02:30:37 : select cat_id,cat_name,parent_id from category where parent_id=1
+15-03-31 02:47:12 : use mall
+15-03-31 02:47:12 : set names utf8
+15-03-31 02:47:12 : select cat_id,cat_name,parent_id from category
+15-03-31 02:47:12 : select cat_id,cat_name,parent_id from category
+15-03-31 02:47:17 : use mall
+15-03-31 02:47:17 : set names utf8
+15-03-31 02:47:17 : select * from category where cat_id=1
+15-03-31 02:47:17 : select * from category where cat_id=1
+15-03-31 02:47:17 : select cat_id,cat_name,parent_id from category
+15-03-31 02:47:17 : select cat_id,cat_name,parent_id from category
+15-03-31 02:47:21 : use mall
+15-03-31 02:47:21 : set names utf8
+15-03-31 02:47:21 : select cat_id,cat_name,parent_id from category
+15-03-31 02:47:21 : select cat_id,cat_name,parent_id from category
+15-03-31 02:49:25 : use mall
+15-03-31 02:49:25 : set names utf8
+15-03-31 02:49:25 : select cat_id,cat_name,parent_id from category
+15-03-31 02:49:25 : select cat_id,cat_name,parent_id from category
+15-03-31 02:49:27 : use mall
+15-03-31 02:49:27 : set names utf8
+15-03-31 02:49:27 : select * from category where cat_id=1
+15-03-31 02:49:27 : select * from category where cat_id=1
+15-03-31 02:49:27 : select cat_id,cat_name,parent_id from category
+15-03-31 02:49:27 : select cat_id,cat_name,parent_id from category
+15-03-31 02:49:30 : use mall
+15-03-31 02:49:30 : set names utf8
+15-03-31 02:49:30 : select cat_id,cat_name,parent_id from category
+15-03-31 02:49:30 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:12 : use mall
+15-03-31 02:50:12 : set names utf8
+15-03-31 02:50:12 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:12 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:13 : use mall
+15-03-31 02:50:13 : set names utf8
+15-03-31 02:50:13 : select * from category where cat_id=1
+15-03-31 02:50:13 : select * from category where cat_id=1
+15-03-31 02:50:13 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:13 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:17 : use mall
+15-03-31 02:50:17 : set names utf8
+15-03-31 02:50:17 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:17 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:54 : use mall
+15-03-31 02:50:54 : set names utf8
+15-03-31 02:50:54 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:54 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:56 : use mall
+15-03-31 02:50:56 : set names utf8
+15-03-31 02:50:56 : select * from category where cat_id=1
+15-03-31 02:50:56 : select * from category where cat_id=1
+15-03-31 02:50:56 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:56 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:58 : use mall
+15-03-31 02:50:58 : set names utf8
+15-03-31 02:50:58 : select cat_id,cat_name,parent_id from category
+15-03-31 02:50:58 : select cat_id,cat_name,parent_id from category
+15-03-31 02:51:41 : use mall
+15-03-31 02:51:41 : set names utf8
+15-03-31 02:51:41 : select cat_id,cat_name,parent_id from category
+15-03-31 02:51:41 : select cat_id,cat_name,parent_id from category
+15-03-31 02:51:42 : use mall
+15-03-31 02:51:42 : set names utf8
+15-03-31 02:51:42 : select * from category where cat_id=1
+15-03-31 02:51:42 : select * from category where cat_id=1
+15-03-31 02:51:42 : select cat_id,cat_name,parent_id from category
+15-03-31 02:51:42 : select cat_id,cat_name,parent_id from category
+15-03-31 02:51:44 : use mall
+15-03-31 02:51:44 : set names utf8
+15-03-31 02:51:44 : select cat_id,cat_name,parent_id from category
+15-03-31 02:51:44 : select cat_id,cat_name,parent_id from category
+15-03-31 02:52:44 : use mall
+15-03-31 02:52:44 : set names utf8
+15-03-31 02:52:44 : select cat_id,cat_name,parent_id from category
+15-03-31 02:52:44 : select cat_id,cat_name,parent_id from category
+15-03-31 02:52:46 : use mall
+15-03-31 02:52:46 : set names utf8
+15-03-31 02:52:46 : select * from category where cat_id=1
+15-03-31 02:52:46 : select * from category where cat_id=1
+15-03-31 02:52:46 : select cat_id,cat_name,parent_id from category
+15-03-31 02:52:46 : select cat_id,cat_name,parent_id from category
+15-03-31 02:52:48 : use mall
+15-03-31 02:52:48 : set names utf8
+15-03-31 02:52:48 : select cat_id,cat_name,parent_id from category
+15-03-31 02:52:48 : select cat_id,cat_name,parent_id from category
+15-03-31 02:53:06 : use mall
+15-03-31 02:53:06 : set names utf8
+15-03-31 02:53:06 : select cat_id,cat_name,parent_id from category
+15-03-31 02:53:06 : select cat_id,cat_name,parent_id from category
+15-03-31 02:53:08 : use mall
+15-03-31 02:53:08 : set names utf8
+15-03-31 02:53:08 : select * from category where cat_id=1
+15-03-31 02:53:08 : select * from category where cat_id=1
+15-03-31 02:53:08 : select cat_id,cat_name,parent_id from category
+15-03-31 02:53:08 : select cat_id,cat_name,parent_id from category
+15-03-31 02:53:11 : use mall
+15-03-31 02:53:11 : set names utf8
+15-03-31 02:53:11 : select cat_id,cat_name,parent_id from category
+15-03-31 02:53:11 : select cat_id,cat_name,parent_id from category
+15-03-31 02:54:07 : use mall
+15-03-31 02:54:07 : set names utf8
+15-03-31 02:54:07 : select cat_id,cat_name,parent_id from category
+15-03-31 02:54:07 : select cat_id,cat_name,parent_id from category
+15-03-31 02:54:09 : use mall
+15-03-31 02:54:09 : set names utf8
+15-03-31 02:54:09 : select * from category where cat_id=1
+15-03-31 02:54:09 : select * from category where cat_id=1
+15-03-31 02:54:09 : select cat_id,cat_name,parent_id from category
+15-03-31 02:54:09 : select cat_id,cat_name,parent_id from category
+15-03-31 02:54:10 : use mall
+15-03-31 02:54:10 : set names utf8
+15-03-31 02:54:10 : select cat_id,cat_name,parent_id from category
+15-03-31 02:54:10 : select cat_id,cat_name,parent_id from category
+15-03-31 02:56:21 : use mall
+15-03-31 02:56:21 : set names utf8
+15-03-31 02:56:21 : select cat_id,cat_name,parent_id from category
+15-03-31 02:56:21 : select cat_id,cat_name,parent_id from category
+15-03-31 02:56:23 : use mall
+15-03-31 02:56:23 : set names utf8
+15-03-31 02:56:23 : select * from category where cat_id=1
+15-03-31 02:56:23 : select * from category where cat_id=1
+15-03-31 02:56:23 : select cat_id,cat_name,parent_id from category
+15-03-31 02:56:23 : select cat_id,cat_name,parent_id from category
+15-03-31 02:56:25 : use mall
+15-03-31 02:56:25 : set names utf8
+15-03-31 02:56:25 : select cat_id,cat_name,parent_id from category
+15-03-31 02:56:25 : select cat_id,cat_name,parent_id from category
+15-03-31 02:57:30 : use mall
+15-03-31 02:57:30 : set names utf8
+15-03-31 02:57:30 : select cat_id,cat_name,parent_id from category
+15-03-31 02:57:30 : select cat_id,cat_name,parent_id from category
+15-03-31 02:57:31 : use mall
+15-03-31 02:57:31 : set names utf8
+15-03-31 02:57:31 : select * from category where cat_id=1
+15-03-31 02:57:31 : select * from category where cat_id=1
+15-03-31 02:57:31 : select cat_id,cat_name,parent_id from category
+15-03-31 02:57:31 : select cat_id,cat_name,parent_id from category
+15-03-31 02:57:33 : use mall
+15-03-31 02:57:33 : set names utf8
+15-03-31 02:57:33 : select cat_id,cat_name,parent_id from category
+15-03-31 02:57:33 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:06 : use mall
+15-03-31 02:58:06 : set names utf8
+15-03-31 02:58:06 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:06 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:07 : use mall
+15-03-31 02:58:07 : set names utf8
+15-03-31 02:58:07 : select * from category where cat_id=1
+15-03-31 02:58:07 : select * from category where cat_id=1
+15-03-31 02:58:07 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:07 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:09 : use mall
+15-03-31 02:58:09 : set names utf8
+15-03-31 02:58:09 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:09 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:12 : use mall
+15-03-31 02:58:12 : set names utf8
+15-03-31 02:58:12 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:12 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:14 : use mall
+15-03-31 02:58:14 : set names utf8
+15-03-31 02:58:14 : select * from category where cat_id=3
+15-03-31 02:58:14 : select * from category where cat_id=3
+15-03-31 02:58:14 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:14 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:16 : use mall
+15-03-31 02:58:16 : set names utf8
+15-03-31 02:58:16 : select cat_id,cat_name,parent_id from category
+15-03-31 02:58:16 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:08 : use mall
+15-03-31 02:59:08 : set names utf8
+15-03-31 02:59:08 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:08 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:09 : use mall
+15-03-31 02:59:09 : set names utf8
+15-03-31 02:59:09 : select * from category where cat_id=1
+15-03-31 02:59:09 : select * from category where cat_id=1
+15-03-31 02:59:09 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:09 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:12 : use mall
+15-03-31 02:59:12 : set names utf8
+15-03-31 02:59:12 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:12 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:13 : use mall
+15-03-31 02:59:13 : set names utf8
+15-03-31 02:59:13 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:13 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:15 : use mall
+15-03-31 02:59:15 : set names utf8
+15-03-31 02:59:15 : select * from category where cat_id=3
+15-03-31 02:59:15 : select * from category where cat_id=3
+15-03-31 02:59:15 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:15 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:18 : use mall
+15-03-31 02:59:18 : set names utf8
+15-03-31 02:59:18 : select cat_id,cat_name,parent_id from category
+15-03-31 02:59:18 : select cat_id,cat_name,parent_id from category
+15-03-31 03:00:10 : use mall
+15-03-31 03:00:10 : set names utf8
+15-03-31 03:00:10 : select cat_id,cat_name,parent_id from category
+15-03-31 03:00:10 : select cat_id,cat_name,parent_id from category
+15-03-31 03:00:12 : use mall
+15-03-31 03:00:12 : set names utf8
+15-03-31 03:00:12 : select * from category where cat_id=3
+15-03-31 03:00:12 : select * from category where cat_id=3
+15-03-31 03:00:12 : select cat_id,cat_name,parent_id from category
+15-03-31 03:00:12 : select cat_id,cat_name,parent_id from category
+15-03-31 03:00:14 : use mall
+15-03-31 03:00:14 : set names utf8
+15-03-31 03:00:14 : select cat_id,cat_name,parent_id from category
+15-03-31 03:00:14 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:05 : use mall
+15-03-31 03:04:05 : set names utf8
+15-03-31 03:04:05 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:05 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:07 : use mall
+15-03-31 03:04:07 : set names utf8
+15-03-31 03:04:07 : select * from category where cat_id=1
+15-03-31 03:04:07 : select * from category where cat_id=1
+15-03-31 03:04:07 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:07 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:09 : use mall
+15-03-31 03:04:09 : set names utf8
+15-03-31 03:04:09 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:09 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:34 : use mall
+15-03-31 03:04:34 : set names utf8
+15-03-31 03:04:34 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:34 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:39 : use mall
+15-03-31 03:04:39 : set names utf8
+15-03-31 03:04:39 : select * from category where cat_id=3
+15-03-31 03:04:39 : select * from category where cat_id=3
+15-03-31 03:04:39 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:39 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:42 : use mall
+15-03-31 03:04:42 : set names utf8
+15-03-31 03:04:42 : select cat_id,cat_name,parent_id from category
+15-03-31 03:04:42 : select cat_id,cat_name,parent_id from category
+15-03-31 03:07:01 : use mall
+15-03-31 03:07:01 : set names utf8
+15-03-31 03:07:01 : select cat_id,cat_name,parent_id from category
+15-03-31 03:07:01 : select cat_id,cat_name,parent_id from category
+15-03-31 03:07:02 : use mall
+15-03-31 03:07:02 : set names utf8
+15-03-31 03:07:02 : select * from category where cat_id=3
+15-03-31 03:07:02 : select * from category where cat_id=3
+15-03-31 03:07:02 : select cat_id,cat_name,parent_id from category
+15-03-31 03:07:02 : select cat_id,cat_name,parent_id from category
+15-03-31 03:07:06 : use mall
+15-03-31 03:07:06 : set names utf8
+15-03-31 03:07:06 : select cat_id,cat_name,parent_id from category
+15-03-31 03:07:06 : select cat_id,cat_name,parent_id from category
+15-03-31 03:11:55 : use mall
+15-03-31 03:11:55 : set names utf8
+15-03-31 03:11:55 : select cat_id,cat_name,parent_id from category
+15-03-31 03:11:55 : select cat_id,cat_name,parent_id from category
+15-03-31 03:11:57 : use mall
+15-03-31 03:11:57 : set names utf8
+15-03-31 03:11:57 : select * from category where cat_id=3
+15-03-31 03:11:57 : select * from category where cat_id=3
+15-03-31 03:11:57 : select cat_id,cat_name,parent_id from category
+15-03-31 03:11:57 : select cat_id,cat_name,parent_id from category
+15-03-31 03:11:59 : use mall
+15-03-31 03:11:59 : set names utf8
+15-03-31 03:11:59 : select cat_id,cat_name,parent_id from category
+15-03-31 03:11:59 : select cat_id,cat_name,parent_id from category
+15-03-31 03:11:59 : update category set cat_name='女装',parent_id='4',intro='ccc' where cat_id=3
+15-03-31 03:12:03 : use mall
+15-03-31 03:12:03 : set names utf8
+15-03-31 03:12:03 : select cat_id,cat_name,parent_id from category
+15-03-31 03:12:03 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:08 : use mall
+15-03-31 03:13:08 : set names utf8
+15-03-31 03:13:08 : select * from category where cat_id=1
+15-03-31 03:13:08 : select * from category where cat_id=1
+15-03-31 03:13:08 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:08 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:18 : use mall
+15-03-31 03:13:18 : set names utf8
+15-03-31 03:13:18 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:18 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:49 : use mall
+15-03-31 03:13:49 : set names utf8
+15-03-31 03:13:49 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:49 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:49 : use mall
+15-03-31 03:13:49 : set names utf8
+15-03-31 03:13:49 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:49 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:51 : use mall
+15-03-31 03:13:51 : set names utf8
+15-03-31 03:13:51 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:51 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:54 : use mall
+15-03-31 03:13:54 : set names utf8
+15-03-31 03:13:54 : select * from category where cat_id=1
+15-03-31 03:13:54 : select * from category where cat_id=1
+15-03-31 03:13:54 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:54 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:56 : use mall
+15-03-31 03:13:56 : set names utf8
+15-03-31 03:13:56 : select cat_id,cat_name,parent_id from category
+15-03-31 03:13:56 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:26 : use mall
+15-03-31 03:14:26 : set names utf8
+15-03-31 03:14:26 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:26 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:27 : use mall
+15-03-31 03:14:27 : set names utf8
+15-03-31 03:14:27 : select * from category where cat_id=1
+15-03-31 03:14:27 : select * from category where cat_id=1
+15-03-31 03:14:27 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:27 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:30 : use mall
+15-03-31 03:14:30 : set names utf8
+15-03-31 03:14:30 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:30 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:41 : use mall
+15-03-31 03:14:41 : set names utf8
+15-03-31 03:14:41 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:41 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:43 : use mall
+15-03-31 03:14:43 : set names utf8
+15-03-31 03:14:43 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:43 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:44 : use mall
+15-03-31 03:14:44 : set names utf8
+15-03-31 03:14:44 : select * from category where cat_id=1
+15-03-31 03:14:44 : select * from category where cat_id=1
+15-03-31 03:14:44 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:44 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:46 : use mall
+15-03-31 03:14:46 : set names utf8
+15-03-31 03:14:46 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:46 : select cat_id,cat_name,parent_id from category
+15-03-31 03:14:46 : update category set cat_name='男装',parent_id='2',intro='aaa' where cat_id=1
+15-04-01 08:40:37 : use mall
+15-04-01 08:40:37 : set names utf8
+15-04-01 08:40:37 : select cat_id,cat_name,parent_id from category
+15-04-01 08:40:37 : select cat_id,cat_name,parent_id from category
+15-04-01 08:40:39 : use mall
+15-04-01 08:40:39 : set names utf8
+15-04-01 08:40:39 : select cat_id,cat_name,parent_id from category
+15-04-01 08:40:39 : select cat_id,cat_name,parent_id from category
+15-04-01 08:40:50 : use mall
+15-04-01 08:40:50 : set names utf8
+15-04-01 08:40:50 : insert into category (cat_name,parent_id,intro) values ('男装','0','aaa')
+15-04-01 08:40:55 : use mall
+15-04-01 08:40:55 : set names utf8
+15-04-01 08:40:55 : select cat_id,cat_name,parent_id from category
+15-04-01 08:40:55 : select cat_id,cat_name,parent_id from category
+15-04-01 08:40:56 : use mall
+15-04-01 08:40:56 : set names utf8
+15-04-01 08:40:56 : select cat_id,cat_name,parent_id from category
+15-04-01 08:40:56 : select cat_id,cat_name,parent_id from category
+15-04-01 08:41:05 : use mall
+15-04-01 08:41:05 : set names utf8
+15-04-01 08:41:05 : insert into category (cat_name,parent_id,intro) values ('女装','0','bbb')
+15-04-01 08:41:20 : use mall
+15-04-01 08:41:20 : set names utf8
+15-04-01 08:41:20 : insert into category (cat_name,parent_id,intro) values ('英伦风','14','hhh')
+15-04-01 08:41:24 : use mall
+15-04-01 08:41:24 : set names utf8
+15-04-01 08:41:24 : select cat_id,cat_name,parent_id from category
+15-04-01 08:41:24 : select cat_id,cat_name,parent_id from category
+15-04-01 08:41:30 : use mall
+15-04-01 08:41:30 : set names utf8
+15-04-01 08:41:30 : select cat_id,cat_name,parent_id from category
+15-04-01 08:41:30 : select cat_id,cat_name,parent_id from category
+15-04-01 08:41:41 : use mall
+15-04-01 08:41:41 : set names utf8
+15-04-01 08:41:41 : insert into category (cat_name,parent_id,intro) values ('休闲','15','rrf')
+15-04-01 08:41:43 : use mall
+15-04-01 08:41:43 : set names utf8
+15-04-01 08:41:43 : select cat_id,cat_name,parent_id from category
+15-04-01 08:41:43 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:06 : use mall
+15-04-01 08:42:06 : set names utf8
+15-04-01 08:42:06 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:06 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:08 : use mall
+15-04-01 08:42:08 : set names utf8
+15-04-01 08:42:08 : select * from category where cat_id=15
+15-04-01 08:42:08 : select * from category where cat_id=15
+15-04-01 08:42:08 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:08 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:12 : use mall
+15-04-01 08:42:12 : set names utf8
+15-04-01 08:42:12 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:12 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:22 : use mall
+15-04-01 08:42:22 : set names utf8
+15-04-01 08:42:22 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:22 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:23 : use mall
+15-04-01 08:42:23 : set names utf8
+15-04-01 08:42:23 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:23 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:24 : use mall
+15-04-01 08:42:24 : set names utf8
+15-04-01 08:42:24 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:24 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:25 : use mall
+15-04-01 08:42:25 : set names utf8
+15-04-01 08:42:25 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:25 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:27 : use mall
+15-04-01 08:42:27 : set names utf8
+15-04-01 08:42:27 : select cat_id,cat_name,parent_id from category
+15-04-01 08:42:27 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:07 : use mall
+15-04-01 08:43:07 : set names utf8
+15-04-01 08:43:07 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:07 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:09 : use mall
+15-04-01 08:43:09 : set names utf8
+15-04-01 08:43:09 : select * from category where cat_id=14
+15-04-01 08:43:09 : select * from category where cat_id=14
+15-04-01 08:43:09 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:09 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:11 : use mall
+15-04-01 08:43:11 : set names utf8
+15-04-01 08:43:11 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:11 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:21 : use mall
+15-04-01 08:43:21 : set names utf8
+15-04-01 08:43:21 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:21 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:22 : use mall
+15-04-01 08:43:22 : set names utf8
+15-04-01 08:43:22 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:22 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:23 : use mall
+15-04-01 08:43:23 : set names utf8
+15-04-01 08:43:23 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:23 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:24 : use mall
+15-04-01 08:43:24 : set names utf8
+15-04-01 08:43:24 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:24 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:25 : use mall
+15-04-01 08:43:25 : set names utf8
+15-04-01 08:43:25 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:25 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:26 : use mall
+15-04-01 08:43:26 : set names utf8
+15-04-01 08:43:26 : select cat_id,cat_name,parent_id from category
+15-04-01 08:43:26 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:03 : use mall
+15-04-01 08:44:03 : set names utf8
+15-04-01 08:44:03 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:03 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:05 : use mall
+15-04-01 08:44:05 : set names utf8
+15-04-01 08:44:05 : select * from category where cat_id=15
+15-04-01 08:44:05 : select * from category where cat_id=15
+15-04-01 08:44:05 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:05 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:38 : use mall
+15-04-01 08:44:38 : set names utf8
+15-04-01 08:44:38 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:38 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:39 : use mall
+15-04-01 08:44:39 : set names utf8
+15-04-01 08:44:39 : select * from category where cat_id=14
+15-04-01 08:44:39 : select * from category where cat_id=14
+15-04-01 08:44:39 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:39 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:41 : use mall
+15-04-01 08:44:41 : set names utf8
+15-04-01 08:44:41 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:41 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:43 : use mall
+15-04-01 08:44:43 : set names utf8
+15-04-01 08:44:43 : select cat_id,cat_name,parent_id from category
+15-04-01 08:44:43 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:27 : use mall
+15-04-03 01:02:27 : set names utf8
+15-04-03 01:02:27 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:27 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:29 : use mall
+15-04-03 01:02:29 : set names utf8
+15-04-03 01:02:29 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:29 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:32 : use mall
+15-04-03 01:02:32 : set names utf8
+15-04-03 01:02:32 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:32 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:33 : use mall
+15-04-03 01:02:33 : set names utf8
+15-04-03 01:02:33 : select * from category where cat_id=15
+15-04-03 01:02:33 : select * from category where cat_id=15
+15-04-03 01:02:33 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:33 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:36 : use mall
+15-04-03 01:02:36 : set names utf8
+15-04-03 01:02:36 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:36 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:39 : use mall
+15-04-03 01:02:39 : set names utf8
+15-04-03 01:02:39 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:39 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:56 : use mall
+15-04-03 01:02:56 : set names utf8
+15-04-03 01:02:56 : select * from category where cat_id=17
+15-04-03 01:02:56 : select * from category where cat_id=17
+15-04-03 01:02:56 : select cat_id,cat_name,parent_id from category
+15-04-03 01:02:56 : select cat_id,cat_name,parent_id from category
+15-04-03 01:15:33 : use mall
+15-04-03 01:15:33 : set names utf8
+15-04-03 01:15:33 : select cat_id,cat_name,parent_id from category
+15-04-03 01:15:33 : select cat_id,cat_name,parent_id from category
+15-04-03 01:15:34 : use mall
+15-04-03 01:15:34 : set names utf8
+15-04-03 01:15:34 : select cat_id,cat_name,parent_id from category
+15-04-03 01:15:34 : select cat_id,cat_name,parent_id from category
+15-04-03 01:15:45 : use mall
+15-04-03 01:15:45 : set names utf8
+15-04-03 01:15:45 : insert into category (cat_name,parent_id,intro) values ('靓丽','15','dfas')
+15-04-03 01:15:51 : use mall
+15-04-03 01:15:51 : set names utf8
+15-04-03 01:15:51 : select cat_id,cat_name,parent_id from category
+15-04-03 01:15:51 : select cat_id,cat_name,parent_id from category
+15-04-03 01:16:09 : use mall
+15-04-03 01:16:09 : set names utf8
+15-04-03 01:16:09 : select cat_id,cat_name,parent_id from category
+15-04-03 01:16:09 : select cat_id,cat_name,parent_id from category
+15-04-03 01:18:08 : use mall
+15-04-03 01:18:08 : set names utf8
+15-04-03 01:18:08 : select cat_id,cat_name,parent_id from category
+15-04-03 01:18:08 : select cat_id,cat_name,parent_id from category
+15-04-03 01:26:46 : use mall
+15-04-03 01:26:46 : set names utf8
+15-04-03 01:26:46 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,goods_brief,add_time) values ('N81','sn00001','14','2000','3000','aef','0.108','1','1','1','1','简单描述','1428038806')
+15-04-03 01:31:13 : use mall
+15-04-03 01:31:13 : set names utf8
+15-04-03 01:31:13 : select * from goods
+15-04-03 01:31:13 : select * from goods
+15-04-03 01:32:53 : use mall
+15-04-03 01:32:53 : set names utf8
+15-04-03 01:32:53 : select * from goods
+15-04-03 01:32:53 : select * from goods
+15-04-03 01:33:39 : use mall
+15-04-03 01:33:39 : set names utf8
+15-04-03 01:33:39 : select * from goods
+15-04-03 01:33:39 : select * from goods
+15-04-03 01:38:53 : use mall
+15-04-03 01:38:53 : set names utf8
+15-04-03 01:38:53 : select * from goods
+15-04-03 01:38:53 : select * from goods
+15-04-03 01:49:16 : use mall
+15-04-03 01:49:16 : set names utf8
+15-04-03 01:49:16 : select * from goods
+15-04-03 01:49:16 : select * from goods
+15-04-03 01:50:22 : use mall
+15-04-03 01:50:22 : set names utf8
+15-04-03 01:50:22 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,goods_brief,add_time) values ('N82','sn00002','14','2834','3000','aefe','0.3','0','1','0','1','aef','1428040222')
+15-04-03 01:50:25 : use mall
+15-04-03 01:50:25 : set names utf8
+15-04-03 01:50:25 : select * from goods
+15-04-03 01:50:25 : select * from goods
+15-04-03 01:53:32 : use mall
+15-04-03 01:53:32 : set names utf8
+15-04-03 01:53:32 : select * from goods
+15-04-03 01:53:32 : select * from goods
+15-04-03 01:57:49 : use mall
+15-04-03 01:57:49 : set names utf8
+15-04-03 01:57:49 : select * from goods
+15-04-03 01:57:49 : select * from goods
+15-04-03 01:59:17 : use mall
+15-04-03 01:59:17 : set names utf8
+15-04-03 01:59:17 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_number,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,goods_brief,add_time) values ('N96','sn00003','14','3500','5000','3000','efewf','0.5','1','1','0','1','N96','1428040757')
+15-04-03 01:59:20 : use mall
+15-04-03 01:59:20 : set names utf8
+15-04-03 01:59:20 : select * from goods
+15-04-03 01:59:20 : select * from goods
+04-03 02:10 : use mall
+04-03 02:10 : set names utf8
+04-03 02:10 : select * from goods
+04-03 02:10 : select * from goods
+04-03 02:10 : use mall
+04-03 02:10 : set names utf8
+04-03 02:10 : select cat_id,cat_name,parent_id from category
+04-03 02:10 : select cat_id,cat_name,parent_id from category
+04-03 02:10 : use mall
+04-03 02:10 : set names utf8
+04-03 02:10 : select * from goods
+04-03 02:10 : select * from goods
+04-04 09:04 : use mall
+04-04 09:04 : set names utf8
+04-04 09:04 : select * from goods
+04-04 09:04 : select * from goods
+04-04 09:07 : use mall
+04-04 09:07 : set names utf8
+04-04 09:07 : select * from goods
+04-04 09:07 : select * from goods
+04-04 09:08 : use mall
+04-04 09:08 : set names utf8
+04-04 09:08 : select * from goods
+04-04 09:08 : select * from goods
+04-05 10:18 : use mall
+04-05 10:18 : set names utf8
+04-05 10:18 : select * from goods where is_delete=0
+04-05 10:18 : select * from goods where is_delete=0
+04-05 10:18 : use mall
+04-05 10:18 : set names utf8
+04-05 10:18 : select * from goods where is_delete=0
+04-05 10:18 : select * from goods where is_delete=0
+04-05 10:18 : use mall
+04-05 10:18 : set names utf8
+04-05 10:18 : select cat_id,cat_name,parent_id from category
+04-05 10:18 : select cat_id,cat_name,parent_id from category
+04-05 10:18 : use mall
+04-05 10:18 : set names utf8
+04-05 10:18 : select * from goods where is_delete=0
+04-05 10:18 : select * from goods where is_delete=0
+04-05 10:20 : use mall
+04-05 10:20 : set names utf8
+04-05 10:20 : select * from goods where is_delete=0
+04-05 10:20 : select * from goods where is_delete=0
+04-05 10:25 : use mall
+04-05 10:25 : set names utf8
+04-05 10:25 : select * from goods where is_delete=0
+04-05 10:25 : select * from goods where is_delete=0
+04-05 10:27 : use mall
+04-05 10:27 : set names utf8
+04-05 10:27 : select * from goods where is_delete=1
+04-05 10:27 : select * from goods where is_delete=1
+04-05 10:38 : use mall
+04-05 10:38 : set names utf8
+04-05 10:38 : use mall
+04-05 10:38 : set names utf8
+04-05 10:38 : select * from goods where is_delete=0
+04-05 10:38 : select * from goods where is_delete=0
+04-05 10:38 : use mall
+04-05 10:38 : set names utf8
+04-05 10:38 : select * from goods where is_delete=0
+04-05 10:38 : select * from goods where is_delete=0
+04-05 10:39 : use mall
+04-05 10:39 : set names utf8
+04-05 10:39 : select * from goods where is_delete=0
+04-05 10:39 : select * from goods where is_delete=0
+04-05 10:39 : use mall
+04-05 10:39 : set names utf8
+04-05 10:39 : use mall
+04-05 10:39 : set names utf8
+04-05 10:39 : select * from goods where is_delete=0
+04-05 10:39 : select * from goods where is_delete=0
+04-05 10:42 : use mall
+04-05 10:42 : set names utf8
+04-05 10:42 : select * from goods where is_delete=0
+04-05 10:42 : select * from goods where is_delete=0
+04-05 10:42 : use mall
+04-05 10:42 : set names utf8
+04-05 10:42 : use mall
+04-05 10:42 : set names utf8
+04-05 10:42 : select * from goods where is_delete=0
+04-05 10:42 : select * from goods where is_delete=0
+04-05 10:44 : use mall
+04-05 10:44 : set names utf8
+04-05 10:44 : use mall
+04-05 10:44 : set names utf8
+04-05 10:44 : select * from goods where is_delete=0
+04-05 10:44 : select * from goods where is_delete=0
+04-05 10:44 : use mall
+04-05 10:44 : set names utf8
+04-05 10:44 : use mall
+04-05 10:44 : set names utf8
+04-05 10:44 : select * from goods where is_delete=0
+04-05 10:44 : select * from goods where is_delete=0
+04-05 10:44 : use mall
+04-05 10:44 : set names utf8
+04-05 10:44 : use mall
+04-05 10:44 : set names utf8
+04-05 10:44 : select * from goods where is_delete=0
+04-05 10:44 : select * from goods where is_delete=0
+04-05 10:44 : use mall
+04-05 10:44 : set names utf8
+04-05 10:44 : use mall
+04-05 10:44 : set names utf8
+04-05 10:44 : select * from goods where is_delete=0
+04-05 10:44 : select * from goods where is_delete=0
+04-05 10:45 : use mall
+04-05 10:45 : set names utf8
+04-05 10:45 : select * from goods where is_delete=0
+04-05 10:45 : select * from goods where is_delete=0
+04-05 10:45 : use mall
+04-05 10:45 : set names utf8
+04-05 10:45 : use mall
+04-05 10:45 : set names utf8
+04-05 10:45 : select * from goods where is_delete=0
+04-05 10:45 : select * from goods where is_delete=0
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : use mall
+04-05 10:46 : set names utf8
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:46 : select * from goods where is_delete=0
+04-05 10:47 : use mall
+04-05 10:47 : set names utf8
+04-05 10:47 : use mall
+04-05 10:47 : set names utf8
+04-05 10:47 : select * from goods where is_delete=0
+04-05 10:47 : select * from goods where is_delete=0
+04-05 10:47 : use mall
+04-05 10:47 : set names utf8
+04-05 10:47 : select * from goods where is_delete=0
+04-05 10:47 : select * from goods where is_delete=0
+04-05 10:47 : use mall
+04-05 10:47 : set names utf8
+04-05 10:50 : use mall
+04-05 10:50 : set names utf8
+04-05 10:50 : select * from goods where is_delete=0
+04-05 10:50 : select * from goods where is_delete=0
+04-05 10:52 : use mall
+04-05 10:52 : set names utf8
+04-05 10:52 : select * from goods where is_delete=0
+04-05 10:52 : select * from goods where is_delete=0
+04-05 10:52 : use mall
+04-05 10:52 : set names utf8
+04-05 10:52 : update goods set is_delete='1' where goods_id=1
+04-05 10:52 : use mall
+04-05 10:52 : set names utf8
+04-05 10:52 : select * from goods where is_delete=0
+04-05 10:52 : select * from goods where is_delete=0
+04-05 10:52 : use mall
+04-05 10:52 : set names utf8
+04-05 10:52 : select * from goods where is_delete=1
+04-05 10:52 : select * from goods where is_delete=1
+04-05 10:52 : use mall
+04-05 10:52 : set names utf8
+04-05 10:52 : select * from goods where is_delete=0
+04-05 10:52 : select * from goods where is_delete=0
+04-05 10:53 : use mall
+04-05 10:53 : set names utf8
+04-05 10:53 : select * from goods where is_delete=1
+04-05 10:53 : select * from goods where is_delete=1
+04-05 10:53 : use mall
+04-05 10:53 : set names utf8
+04-05 10:53 : select cat_id,cat_name,parent_id from category
+04-05 10:53 : select cat_id,cat_name,parent_id from category
+04-05 10:57 : use mall
+04-05 10:57 : set names utf8
+04-05 10:57 : select * from goods where is_delete=0
+04-05 10:57 : select * from goods where is_delete=0
+04-05 10:57 : use mall
+04-05 10:57 : set names utf8
+04-05 10:57 : select * from goods where is_delete=0
+04-05 10:57 : select * from goods where is_delete=0
+04-05 10:57 : use mall
+04-05 10:57 : set names utf8
+04-05 10:57 : update goods set is_delete='1' where goods_id=2
+04-05 10:57 : use mall
+04-05 10:57 : set names utf8
+04-05 10:57 : select * from goods where is_delete=0
+04-05 10:57 : select * from goods where is_delete=0
+04-05 10:57 : use mall
+04-05 10:57 : set names utf8
+04-05 10:57 : select * from goods where is_delete=1
+04-05 10:57 : select * from goods where is_delete=1
+04-05 10:57 : use mall
+04-05 10:57 : set names utf8
+04-05 10:57 : select * from goods where is_delete=0
+04-05 10:57 : select * from goods where is_delete=0
+04-05 10:57 : use mall
+04-05 10:57 : set names utf8
+04-05 10:57 : select * from goods where is_delete=1
+04-05 10:57 : select * from goods where is_delete=1
+04-05 10:57 : use mall
+04-05 10:57 : set names utf8
+04-05 10:57 : select * from goods where is_delete=0
+04-05 10:57 : select * from goods where is_delete=0
+04-05 11:00 : use mall
+04-05 11:00 : set names utf8
+04-05 11:00 : select * from goods where is_delete=1
+04-05 11:00 : select * from goods where is_delete=1
+04-05 11:00 : use mall
+04-05 11:00 : set names utf8
+04-05 11:00 : update goods set is_delete='1' where goods_id=1
+04-05 11:00 : use mall
+04-05 11:00 : set names utf8
+04-05 11:00 : select * from goods where is_delete=1
+04-05 11:00 : select * from goods where is_delete=1
+04-05 11:06 : use mall
+04-05 11:06 : set names utf8
+04-05 11:06 : select * from goods where is_delete=0
+04-05 11:06 : select * from goods where is_delete=0
+04-05 11:06 : use mall
+04-05 11:06 : set names utf8
+04-05 11:06 : select * from goods where is_delete=0
+04-05 11:06 : select * from goods where is_delete=0
+04-05 11:06 : use mall
+04-05 11:06 : set names utf8
+04-05 11:06 : select cat_id,cat_name,parent_id from category
+04-05 11:06 : select cat_id,cat_name,parent_id from category
+04-05 11:06 : use mall
+04-05 11:06 : set names utf8
+04-05 11:06 : select * from goods where is_delete=1
+04-05 11:06 : select * from goods where is_delete=1
+04-05 11:06 : use mall
+04-05 11:06 : set names utf8
+04-05 11:06 : select cat_id,cat_name,parent_id from category
+04-05 11:06 : select cat_id,cat_name,parent_id from category
+04-05 11:06 : use mall
+04-05 11:06 : set names utf8
+04-05 11:06 : select * from category where cat_id=18
+04-05 11:06 : select * from category where cat_id=18
+04-05 11:06 : select cat_id,cat_name,parent_id from category
+04-05 11:06 : select cat_id,cat_name,parent_id from category
+04-06 09:39 : use mall
+04-06 09:39 : set names utf8
+04-06 10:12 : use mall
+04-06 10:12 : set names utf8
+04-06 10:13 : use mall
+04-06 10:13 : set names utf8
+04-06 10:13 : use mall
+04-06 10:13 : set names utf8
+04-06 10:19 : use mall
+04-06 10:19 : set names utf8
+04-06 10:19 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_on_sale,goods_brief,goods_id,is_hot,is_new,add_time) values ('iPhone 5s','sn00005','14','3000','4000','iPhone 5s','0.312','20000','1','1','简单描述','0','0','0','1428286744')
+04-06 10:19 : use mall
+04-06 10:19 : set names utf8
+04-06 10:19 : select * from goods where is_delete=0
+04-06 10:19 : select * from goods where is_delete=0
+04-06 10:20 : use mall
+04-06 10:20 : set names utf8
+04-06 10:20 : select * from goods where is_delete=1
+04-06 10:20 : select * from goods where is_delete=1
+04-06 10:20 : use mall
+04-06 10:20 : set names utf8
+04-06 10:20 : select * from goods where is_delete=0
+04-06 10:20 : select * from goods where is_delete=0
+04-06 10:20 : use mall
+04-06 10:20 : set names utf8
+04-06 10:20 : select * from goods where is_delete=1
+04-06 10:20 : select * from goods where is_delete=1
+04-06 10:20 : use mall
+04-06 10:20 : set names utf8
+04-06 10:20 : select * from goods where is_delete=0
+04-06 10:20 : select * from goods where is_delete=0
+04-06 10:20 : use mall
+04-06 10:20 : set names utf8
+04-06 10:20 : select * from goods where is_delete=1
+04-06 10:20 : select * from goods where is_delete=1
+04-06 10:20 : use mall
+04-06 10:20 : set names utf8
+04-06 10:20 : select * from goods where is_delete=0
+04-06 10:20 : select * from goods where is_delete=0
+04-08 11:32 : use mall
+04-08 11:32 : set names utf8
+04-08 11:33 : use mall
+04-08 11:33 : set names utf8
+04-08 11:33 : use mall
+04-08 11:33 : set names utf8
+04-08 11:33 : use mall
+04-08 11:33 : set names utf8
+04-08 11:33 : use mall
+04-08 11:33 : set names utf8
+04-08 11:34 : use mall
+04-08 11:34 : set names utf8
+04-08 11:34 : select * from goods where is_delete=0
+04-08 11:34 : select * from goods where is_delete=0
+04-08 11:34 : use mall
+04-08 11:34 : set names utf8
+04-08 11:34 : select cat_id,cat_name,parent_id from category
+04-08 11:34 : select cat_id,cat_name,parent_id from category
+04-08 11:34 : use mall
+04-08 11:34 : set names utf8
+04-08 11:34 : use mall
+04-08 11:34 : set names utf8
+04-08 11:34 : use mall
+04-08 11:34 : set names utf8
+04-08 11:35 : use mall
+04-08 11:35 : set names utf8
+04-08 11:36 : use mall
+04-08 11:36 : set names utf8
+04-08 11:37 : use mall
+04-08 11:37 : set names utf8
+04-08 11:37 : use mall
+04-08 11:37 : set names utf8
+04-08 11:38 : use mall
+04-08 11:38 : set names utf8
+04-08 11:38 : use mall
+04-08 11:38 : set names utf8
+04-08 11:38 : use mall
+04-08 11:38 : set names utf8
+04-08 11:38 : use mall
+04-08 11:38 : set names utf8
+04-08 11:38 : use mall
+04-08 11:38 : set names utf8
+04-08 11:38 : use mall
+04-08 11:38 : set names utf8
+04-08 11:39 : use mall
+04-08 11:39 : set names utf8
+04-08 11:44 : use mall
+04-08 11:44 : set names utf8
+04-08 11:44 : select * from goods where is_delete=0
+04-08 11:44 : select * from goods where is_delete=0
+04-08 11:45 : use mall
+04-08 11:45 : set names utf8
+04-08 11:45 : select cat_id,cat_name,parent_id from category
+04-08 11:45 : select cat_id,cat_name,parent_id from category
+04-08 11:45 : use mall
+04-08 11:45 : set names utf8
+04-08 11:45 : use mall
+04-08 11:45 : set names utf8
+04-08 11:45 : use mall
+04-08 11:45 : set names utf8
+04-08 11:45 : use mall
+04-08 11:45 : set names utf8
+04-08 11:45 : use mall
+04-08 11:45 : set names utf8
+04-08 11:45 : use mall
+04-08 11:45 : set names utf8
+04-08 11:46 : use mall
+04-08 11:46 : set names utf8
+04-08 11:52 : use mall
+04-08 11:52 : set names utf8
+04-08 11:52 : use mall
+04-08 11:52 : set names utf8
+04-08 11:53 : use mall
+04-08 11:53 : set names utf8
+04-08 11:53 : select * from goods where is_delete=0
+04-08 11:53 : select * from goods where is_delete=0
+04-08 11:53 : use mall
+04-08 11:53 : set names utf8
+04-08 11:53 : select * from goods where is_delete=1
+04-08 11:53 : select * from goods where is_delete=1
+04-08 11:53 : use mall
+04-08 11:53 : set names utf8
+04-08 11:53 : select cat_id,cat_name,parent_id from category
+04-08 11:53 : select cat_id,cat_name,parent_id from category
+04-08 11:53 : use mall
+04-08 11:53 : set names utf8
+04-08 11:53 : select * from goods where is_delete=1
+04-08 11:53 : select * from goods where is_delete=1
+04-08 11:53 : use mall
+04-08 11:53 : set names utf8
+04-08 11:53 : select cat_id,cat_name,parent_id from category
+04-08 11:53 : select cat_id,cat_name,parent_id from category
+04-08 11:53 : use mall
+04-08 11:53 : set names utf8
+04-08 11:53 : select cat_id,cat_name,parent_id from category
+04-08 11:53 : select cat_id,cat_name,parent_id from category
+04-08 11:53 : use mall
+04-08 11:53 : set names utf8
+04-08 11:53 : select cat_id,cat_name,parent_id from category
+04-08 11:53 : select cat_id,cat_name,parent_id from category
+04-08 11:54 : use mall
+04-08 11:54 : set names utf8
+04-08 11:54 : select * from goods where is_delete=0
+04-08 11:54 : select * from goods where is_delete=0
+04-08 11:54 : use mall
+04-08 11:54 : set names utf8
+04-08 11:54 : select * from goods where is_delete=0
+04-08 11:54 : select * from goods where is_delete=0
+04-08 11:55 : use mall
+04-08 11:55 : set names utf8
+04-08 11:55 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_hot,is_on_sale,goods_brief,goods_id,is_new,add_time) values ('Galaxy S6','sn00006','14','4000','5600','S6','0.3','2000','1','1','1','简单描述','0','0','1428465311')
+04-08 11:55 : use mall
+04-08 11:55 : set names utf8
+04-08 11:55 : select * from goods where is_delete=0
+04-08 11:55 : select * from goods where is_delete=0
+04-08 11:55 : use mall
+04-08 11:55 : set names utf8
+04-08 11:56 : use mall
+04-08 11:56 : set names utf8
+04-08 11:56 : use mall
+04-08 11:56 : set names utf8
+04-08 11:56 : use mall
+04-08 11:56 : set names utf8
+04-08 11:56 : select * from goods where is_delete=0
+04-08 11:56 : select * from goods where is_delete=0
+04-08 11:56 : use mall
+04-08 11:56 : set names utf8
+04-08 11:56 : select cat_id,cat_name,parent_id from category
+04-08 11:56 : select cat_id,cat_name,parent_id from category
+04-08 11:56 : use mall
+04-08 11:56 : set names utf8
+04-08 11:56 : select * from goods where is_delete=1
+04-08 11:56 : select * from goods where is_delete=1
+04-08 11:56 : use mall
+04-08 11:56 : set names utf8
+04-08 11:56 : select * from goods where is_delete=0
+04-08 11:56 : select * from goods where is_delete=0
+04-08 11:58 : use mall
+04-08 11:58 : set names utf8
+04-08 11:58 : select * from goods where is_delete=0
+04-08 11:58 : select * from goods where is_delete=0
+04-08 03:29 : use mall
+04-08 03:29 : set names utf8
+04-08 03:29 : select * from goods where is_delete=0
+04-08 03:29 : select * from goods where is_delete=0
+04-08 03:31 : use mall
+04-08 03:31 : set names utf8
+04-08 03:31 : select cat_id,cat_name,parent_id from category
+04-08 03:31 : select cat_id,cat_name,parent_id from category
+04-08 03:31 : use mall
+04-08 03:31 : set names utf8
+04-08 03:31 : select cat_id,cat_name,parent_id from category
+04-08 03:31 : select cat_id,cat_name,parent_id from category
+04-08 03:31 : use mall
+04-08 03:31 : set names utf8
+04-08 03:31 : insert into category (cat_name,parent_id,intro) values ('男装','0','aaa')
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : insert into category (cat_name,parent_id,intro) values ('男装','0','aaa')
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : insert into category (cat_name,parent_id,intro) values ('绅士','1','aaaa')
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : select * from goods where is_delete=1
+04-08 03:33 : select * from goods where is_delete=1
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : select cat_id,cat_name,parent_id from category
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_on_sale,goods_brief,goods_id,is_hot,is_new,is_best,add_time) values ('N81','是你','0','0','0','','0','1','1','','0','0','0','0','1428456823')
+04-08 03:33 : use mall
+04-08 03:33 : set names utf8
+04-08 03:33 : select * from goods where is_delete=0
+04-08 03:33 : select * from goods where is_delete=0
+04-08 07:38 : use mall
+04-08 07:38 : set names utf8
+04-08 07:38 : select * from goods where is_delete=0
+04-08 07:38 : select * from goods where is_delete=0
+04-08 07:38 : use mall
+04-08 07:38 : set names utf8
+04-08 07:38 : select cat_id,cat_name,parent_id from category
+04-08 07:38 : select cat_id,cat_name,parent_id from category
+04-08 07:38 : use mall
+04-08 07:38 : set names utf8
+04-08 07:38 : select * from goods where is_delete=0
+04-08 07:38 : select * from goods where is_delete=0
+04-08 07:38 : use mall
+04-08 07:38 : set names utf8
+04-08 07:38 : select * from goods where is_delete=1
+04-08 07:38 : select * from goods where is_delete=1
+04-08 07:38 : use mall
+04-08 07:38 : set names utf8
+04-08 07:38 : select cat_id,cat_name,parent_id from category
+04-08 07:38 : select cat_id,cat_name,parent_id from category
+04-08 07:40 : use mall
+04-08 07:40 : set names utf8
+04-08 07:40 : select * from goods where is_delete=0
+04-08 07:40 : select * from goods where is_delete=0
+04-08 07:40 : use mall
+04-08 07:40 : set names utf8
+04-08 07:40 : select * from goods where is_delete=0
+04-08 07:40 : select * from goods where is_delete=0
+04-08 07:40 : use mall
+04-08 07:40 : set names utf8
+04-08 07:40 : select cat_id,cat_name,parent_id from category
+04-08 07:40 : select cat_id,cat_name,parent_id from category
+04-08 07:40 : use mall
+04-08 07:40 : set names utf8
+04-08 07:40 : select * from goods where is_delete=0
+04-08 07:40 : select * from goods where is_delete=0
+04-08 07:41 : use mall
+04-08 07:41 : set names utf8
+04-08 07:41 : select * from goods where is_delete=0
+04-08 07:41 : select * from goods where is_delete=0
+04-08 07:41 : use mall
+04-08 07:41 : set names utf8
+04-08 07:41 : select * from goods where is_delete=1
+04-08 07:41 : select * from goods where is_delete=1
+04-08 07:41 : use mall
+04-08 07:41 : set names utf8
+04-08 07:41 : select cat_id,cat_name,parent_id from category
+04-08 07:41 : select cat_id,cat_name,parent_id from category
+04-08 07:41 : use mall
+04-08 07:41 : set names utf8
+04-08 07:41 : select * from goods where is_delete=0
+04-08 07:41 : select * from goods where is_delete=0
+04-09 04:09 : use mall
+04-09 04:09 : set names utf8
+04-09 04:09 : select * from goods where is_delete=0
+04-09 04:09 : select * from goods where is_delete=0
+04-09 04:09 : use mall
+04-09 04:09 : set names utf8
+04-09 04:09 : select cat_id,cat_name,parent_id from category
+04-09 04:09 : select cat_id,cat_name,parent_id from category
+04-09 04:09 : use mall
+04-09 04:09 : set names utf8
+04-09 04:09 : select * from goods where is_delete=1
+04-09 04:09 : select * from goods where is_delete=1
+04-09 07:46 : use mall
+04-09 07:46 : set names utf8
+04-09 07:46 : select * from goods where is_delete=0
+04-09 07:46 : select * from goods where is_delete=0
+04-09 07:46 : use mall
+04-09 07:46 : set names utf8
+04-09 07:46 : select cat_id,cat_name,parent_id from category
+04-09 07:46 : select cat_id,cat_name,parent_id from category
+04-09 07:46 : use mall
+04-09 07:46 : set names utf8
+04-09 07:46 : select * from category where cat_id=1
+04-09 07:46 : select * from category where cat_id=1
+04-09 07:46 : select cat_id,cat_name,parent_id from category
+04-09 07:46 : select cat_id,cat_name,parent_id from category
+04-09 07:46 : use mall
+04-09 07:46 : set names utf8
+04-09 07:46 : select * from category where cat_id=2
+04-09 07:46 : select * from category where cat_id=2
+04-09 07:46 : select cat_id,cat_name,parent_id from category
+04-09 07:46 : select cat_id,cat_name,parent_id from category
+04-09 07:46 : use mall
+04-09 07:46 : set names utf8
+04-09 07:46 : select * from goods where is_delete=0
+04-09 07:46 : select * from goods where is_delete=0
+04-09 07:46 : use mall
+04-09 07:46 : set names utf8
+04-09 07:46 : select cat_id,cat_name,parent_id from category
+04-09 07:46 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : use mall
+04-09 07:47 : set names utf8
+04-09 07:47 : select * from category where cat_id=2
+04-09 07:47 : select * from category where cat_id=2
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : use mall
+04-09 07:47 : set names utf8
+04-09 07:47 : select * from category where cat_id=2
+04-09 07:47 : select * from category where cat_id=2
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : use mall
+04-09 07:47 : set names utf8
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : use mall
+04-09 07:47 : set names utf8
+04-09 07:47 : select * from category where cat_id=2
+04-09 07:47 : select * from category where cat_id=2
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : use mall
+04-09 07:47 : set names utf8
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:47 : select cat_id,cat_name,parent_id from category
+04-09 07:48 : use mall
+04-09 07:48 : set names utf8
+04-09 07:48 : select * from category where cat_id=1
+04-09 07:48 : select * from category where cat_id=1
+04-09 07:48 : select cat_id,cat_name,parent_id from category
+04-09 07:48 : select cat_id,cat_name,parent_id from category
+04-09 07:48 : use mall
+04-09 07:48 : set names utf8
+04-09 07:48 : select cat_id,cat_name,parent_id from category
+04-09 07:48 : select cat_id,cat_name,parent_id from category
+04-09 07:48 : use mall
+04-09 07:48 : set names utf8
+04-09 07:48 : select cat_id,cat_name,parent_id from category
+04-09 07:48 : select cat_id,cat_name,parent_id from category
+04-09 07:48 : use mall
+04-09 07:48 : set names utf8
+04-09 07:48 : select * from category where cat_id=2
+04-09 07:48 : select * from category where cat_id=2
+04-09 07:48 : select cat_id,cat_name,parent_id from category
+04-09 07:48 : select cat_id,cat_name,parent_id from category
+04-09 07:49 : use mall
+04-09 07:49 : set names utf8
+04-09 07:49 : select cat_id,cat_name,parent_id from category
+04-09 07:49 : select cat_id,cat_name,parent_id from category
+04-09 07:49 : use mall
+04-09 07:49 : set names utf8
+04-09 07:49 : select * from category where cat_id=1
+04-09 07:49 : select * from category where cat_id=1
+04-09 07:49 : use mall
+04-09 07:49 : set names utf8
+04-09 07:49 : select * from category where cat_id=2
+04-09 07:49 : select * from category where cat_id=2
+04-09 07:52 : use mall
+04-09 07:52 : set names utf8
+04-09 07:52 : select cat_id,cat_name,parent_id from category
+04-09 07:52 : select cat_id,cat_name,parent_id from category
+04-09 07:52 : use mall
+04-09 07:52 : set names utf8
+04-09 07:52 : select * from category where cat_id=2
+04-09 07:52 : select * from category where cat_id=2
+04-09 07:52 : select cat_id,cat_name,parent_id from category
+04-09 07:52 : select cat_id,cat_name,parent_id from category
+04-09 07:52 : use mall
+04-09 07:52 : set names utf8
+04-09 07:52 : select cat_id,cat_name,parent_id from category
+04-09 07:52 : select cat_id,cat_name,parent_id from category
+04-09 07:52 : use mall
+04-09 07:52 : set names utf8
+04-09 07:52 : select * from category where cat_id=2
+04-09 07:52 : select * from category where cat_id=2
+04-09 07:52 : select cat_id,cat_name,parent_id from category
+04-09 07:52 : select cat_id,cat_name,parent_id from category
+04-09 07:53 : use mall
+04-09 07:53 : set names utf8
+04-09 07:53 : select cat_id,cat_name,parent_id from category
+04-09 07:53 : select cat_id,cat_name,parent_id from category
+04-09 07:53 : use mall
+04-09 07:53 : set names utf8
+04-09 07:53 : select * from category where cat_id=2
+04-09 07:53 : select * from category where cat_id=2
+04-09 07:53 : select cat_id,cat_name,parent_id from category
+04-09 07:53 : select cat_id,cat_name,parent_id from category
+04-09 07:53 : use mall
+04-09 07:53 : set names utf8
+04-09 07:53 : select * from goods where is_delete=1
+04-09 07:53 : select * from goods where is_delete=1
+04-09 07:53 : use mall
+04-09 07:53 : set names utf8
+04-09 07:53 : select cat_id,cat_name,parent_id from category
+04-09 07:53 : select cat_id,cat_name,parent_id from category
+04-09 07:53 : use mall
+04-09 07:53 : set names utf8
+04-09 07:53 : select * from category where cat_id=1
+04-09 07:53 : select * from category where cat_id=1
+04-09 07:53 : select cat_id,cat_name,parent_id from category
+04-09 07:53 : select cat_id,cat_name,parent_id from category
+04-10 05:04 : use mall
+04-10 05:04 : set names utf8
+04-10 05:04 : select * from goods where is_delete=0
+04-10 05:04 : select * from goods where is_delete=0
+04-10 05:04 : use mall
+04-10 05:04 : set names utf8
+04-10 05:04 : select cat_id,cat_name,parent_id from category
+04-10 05:04 : select cat_id,cat_name,parent_id from category
+04-10 05:04 : use mall
+04-10 05:04 : set names utf8
+04-10 05:04 : select cat_id,cat_name,parent_id from category
+04-10 05:04 : select cat_id,cat_name,parent_id from category
+04-10 05:05 : use mall
+04-10 05:05 : set names utf8
+04-10 05:05 : insert into category (cat_name,parent_id,intro) values ('苹果','0','Apple手机')
+04-10 05:05 : use mall
+04-10 05:05 : set names utf8
+04-10 05:05 : insert into category (cat_name,parent_id,intro) values ('三星','0','Samsung手机')
+04-10 05:05 : use mall
+04-10 05:05 : set names utf8
+04-10 05:05 : select cat_id,cat_name,parent_id from category
+04-10 05:05 : select cat_id,cat_name,parent_id from category
+04-10 05:05 : use mall
+04-10 05:05 : set names utf8
+04-10 05:05 : select cat_id,cat_name,parent_id from category
+04-10 05:05 : select cat_id,cat_name,parent_id from category
+04-10 05:06 : use mall
+04-10 05:06 : set names utf8
+04-10 05:06 : insert into category (cat_name,parent_id,intro) values ('iPhone','3','iPhone手机')
+04-10 05:06 : use mall
+04-10 05:06 : set names utf8
+04-10 05:06 : insert into category (cat_name,parent_id,intro) values ('iPod','3','iPod')
+04-10 05:06 : use mall
+04-10 05:06 : set names utf8
+04-10 05:06 : insert into category (cat_name,parent_id,intro) values ('iPad','3','iPad')
+04-10 05:06 : use mall
+04-10 05:06 : set names utf8
+04-10 05:06 : insert into category (cat_name,parent_id,intro) values ('Galaxy系列','4','Galaxy系列')
+04-10 05:07 : use mall
+04-10 05:07 : set names utf8
+04-10 05:07 : insert into category (cat_name,parent_id,intro) values ('Note系列','4','Note系列')
+04-10 05:07 : use mall
+04-10 05:07 : set names utf8
+04-10 05:07 : select * from goods where is_delete=0
+04-10 05:07 : select * from goods where is_delete=0
+04-10 05:07 : use mall
+04-10 05:07 : set names utf8
+04-10 05:07 : select cat_id,cat_name,parent_id from category
+04-10 05:07 : select cat_id,cat_name,parent_id from category
+04-10 05:07 : use mall
+04-10 05:07 : set names utf8
+04-10 05:07 : select * from goods where is_delete=0
+04-10 05:07 : select * from goods where is_delete=0
+04-10 05:14 : use mall
+04-10 05:14 : set names utf8
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : use mall
+04-10 05:14 : set names utf8
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : use mall
+04-10 05:14 : set names utf8
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : use mall
+04-10 05:14 : set names utf8
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : use mall
+04-10 05:14 : set names utf8
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : use mall
+04-10 05:14 : set names utf8
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : use mall
+04-10 05:14 : set names utf8
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : use mall
+04-10 05:14 : set names utf8
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:14 : select cat_id,cat_name,parent_id from category
+04-10 05:15 : use mall
+04-10 05:15 : set names utf8
+04-10 05:15 : select cat_id,cat_name,parent_id from category
+04-10 05:15 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : use mall
+04-10 05:19 : set names utf8
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : use mall
+04-10 05:19 : set names utf8
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : use mall
+04-10 05:19 : set names utf8
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : use mall
+04-10 05:19 : set names utf8
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : use mall
+04-10 05:19 : set names utf8
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:19 : select cat_id,cat_name,parent_id from category
+04-10 05:20 : use mall
+04-10 05:20 : set names utf8
+04-10 05:21 : use mall
+04-10 05:21 : set names utf8
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : use mall
+04-10 05:21 : set names utf8
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : use mall
+04-10 05:21 : set names utf8
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : use mall
+04-10 05:21 : set names utf8
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : use mall
+04-10 05:21 : set names utf8
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : use mall
+04-10 05:21 : set names utf8
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:21 : select cat_id,cat_name,parent_id from category
+04-10 05:22 : use mall
+04-10 05:22 : set names utf8
+04-10 05:22 : select cat_id,cat_name,parent_id from category
+04-10 05:22 : select cat_id,cat_name,parent_id from category
+04-10 05:22 : use mall
+04-10 05:22 : set names utf8
+04-10 05:22 : select cat_id,cat_name,parent_id from category
+04-10 05:22 : select cat_id,cat_name,parent_id from category
+04-10 05:22 : use mall
+04-10 05:22 : set names utf8
+04-10 05:22 : select cat_id,cat_name,parent_id from category
+04-10 05:22 : select cat_id,cat_name,parent_id from category
+04-10 05:22 : use mall
+04-10 05:22 : set names utf8
+04-10 05:22 : select cat_id,cat_name,parent_id from category
+04-10 05:22 : select cat_id,cat_name,parent_id from category
+04-10 05:23 : use mall
+04-10 05:23 : set names utf8
+04-10 05:23 : select cat_id,cat_name,parent_id from category
+04-10 05:23 : select cat_id,cat_name,parent_id from category
+04-10 05:25 : use mall
+04-10 05:25 : set names utf8
+04-10 05:25 : use mall
+04-10 05:25 : set names utf8
+04-10 05:25 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_hot,is_on_sale,goods_brief,goods_id,is_new,add_time) values ('iPhone 5S','sn0001','5','3500','4000','iPhone 5S','0.328','3265','1','1','1','','0','0','1428679508')
+04-10 05:25 : use mall
+04-10 05:25 : set names utf8
+04-10 05:25 : select * from goods where is_delete=0
+04-10 05:25 : select * from goods where is_delete=0
+04-10 05:25 : use mall
+04-10 05:25 : set names utf8
+04-10 05:25 : select cat_id,cat_name,parent_id from category
+04-10 05:25 : select cat_id,cat_name,parent_id from category
+04-10 05:26 : use mall
+04-10 05:26 : set names utf8
+04-10 05:26 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_new,is_hot,is_on_sale,goods_brief,goods_id,add_time) values ('iPhone 6 Plus','sn0002','5','6300','6499','iPhone 6 plus','0.3','3566','1','1','1','1','','0','1428679561')
+04-10 05:26 : use mall
+04-10 05:26 : set names utf8
+04-10 05:26 : select * from goods where is_delete=0
+04-10 05:26 : select * from goods where is_delete=0
+04-10 05:26 : use mall
+04-10 05:26 : set names utf8
+04-10 05:26 : select cat_id,cat_name,parent_id from category
+04-10 05:26 : select cat_id,cat_name,parent_id from category
+04-10 05:26 : use mall
+04-10 05:26 : set names utf8
+04-10 05:26 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_hot,is_on_sale,goods_brief,goods_id,is_best,add_time) values ('Galaxy S6','sn0003','8','4600','4999','Galaxy S6','0.4','1325','1','1','1','','0','0','1428679619')
+04-10 05:27 : use mall
+04-10 05:27 : set names utf8
+04-10 05:27 : select * from goods where is_delete=0
+04-10 05:27 : select * from goods where is_delete=0
+04-10 05:27 : use mall
+04-10 05:27 : set names utf8
+04-10 05:27 : select cat_id,cat_name,parent_id from category
+04-10 05:27 : select cat_id,cat_name,parent_id from category
+04-10 05:27 : use mall
+04-10 05:27 : set names utf8
+04-10 05:27 : select * from goods where is_delete=0
+04-10 05:27 : select * from goods where is_delete=0
+04-10 05:30 : use mall
+04-10 05:30 : set names utf8
+04-10 05:30 : select * from goods where is_delete=0
+04-10 05:30 : select * from goods where is_delete=0
+04-10 05:30 : use mall
+04-10 05:30 : set names utf8
+04-10 05:30 : select cat_id,cat_name,parent_id from category
+04-10 05:30 : select cat_id,cat_name,parent_id from category
+04-10 05:30 : use mall
+04-10 05:30 : set names utf8
+04-10 05:30 : select cat_id,cat_name,parent_id from category
+04-10 05:30 : select cat_id,cat_name,parent_id from category
+04-10 05:30 : use mall
+04-10 05:30 : set names utf8
+04-10 05:30 : select * from goods where is_delete=1
+04-10 05:30 : select * from goods where is_delete=1
+04-10 05:30 : use mall
+04-10 05:30 : set names utf8
+04-10 05:30 : select * from goods where is_delete=0
+04-10 05:30 : select * from goods where is_delete=0
+04-11 04:02 : use mall
+04-11 04:02 : set names utf8
+04-11 04:02 : select cat_id,cat_name,parent_id from category
+04-11 04:02 : select cat_id,cat_name,parent_id from category
+04-11 04:03 : use mall
+04-11 04:03 : set names utf8
+04-11 04:03 : select * from goods where is_delete=0
+04-11 04:03 : select * from goods where is_delete=0
+04-12 10:02 : use mall
+04-12 10:02 : set names utf8
+04-12 10:02 : select * from goods where is_delete=0
+04-12 10:02 : select * from goods where is_delete=0
+04-12 10:02 : use mall
+04-12 10:02 : set names utf8
+04-12 10:02 : select cat_id,cat_name,parent_id from category
+04-12 10:02 : select cat_id,cat_name,parent_id from category
+04-12 10:02 : use mall
+04-12 10:02 : set names utf8
+04-12 10:02 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_on_sale,goods_brief,goods_id,is_hot,is_new,is_best,add_time) values ('fasdfdf','','0','0','0','','0','1','1','','0','0','0','0','1428847335')
+04-12 10:02 : use mall
+04-12 10:02 : set names utf8
+04-12 10:02 : select * from goods where is_delete=0
+04-12 10:02 : select * from goods where is_delete=0
+04-12 10:02 : use mall
+04-12 10:02 : set names utf8
+04-12 10:02 : update goods set is_delete='1' where goods_id=5
+04-12 10:02 : use mall
+04-12 10:02 : set names utf8
+04-12 10:02 : select cat_id,cat_name,parent_id from category
+04-12 10:02 : select cat_id,cat_name,parent_id from category
+04-12 10:02 : use mall
+04-12 10:02 : set names utf8
+04-12 10:02 : select * from goods where is_delete=0
+04-12 10:02 : select * from goods where is_delete=0
+04-12 10:02 : use mall
+04-12 10:02 : set names utf8
+04-12 10:02 : select * from goods where is_delete=1
+04-12 10:02 : select * from goods where is_delete=1
+04-12 10:37 : use mall
+04-12 10:37 : set names utf8
+04-12 10:37 : select * from goods where is_delete=0
+04-12 10:37 : select * from goods where is_delete=0
+04-12 10:37 : use mall
+04-12 10:37 : set names utf8
+04-12 10:37 : select cat_id,cat_name,parent_id from category
+04-12 10:37 : select cat_id,cat_name,parent_id from category
+04-12 10:37 : use mall
+04-12 10:37 : set names utf8
+04-12 10:37 : select * from goods where is_delete=0
+04-12 10:37 : select * from goods where is_delete=0
+04-12 10:47 : use mall
+04-12 10:47 : set names utf8
+04-12 10:47 : select * from goods where is_delete=0
+04-12 10:47 : select * from goods where is_delete=0
+04-12 10:47 : use mall
+04-12 10:47 : set names utf8
+04-12 10:47 : select cat_id,cat_name,parent_id from category
+04-12 10:47 : select cat_id,cat_name,parent_id from category
+04-13 03:04 : use mall
+04-13 03:04 : set names utf8
+04-13 03:04 : select * from goods where is_delete=0
+04-13 03:04 : select * from goods where is_delete=0
+04-13 11:04 : use mall
+04-13 11:04 : set names utf8
+04-13 11:04 : select cat_id,cat_name,parent_id from category
+04-13 11:04 : select cat_id,cat_name,parent_id from category
+04-13 11:04 : use mall
+04-13 11:04 : set names utf8
+04-13 11:31 : use mall
+04-13 11:31 : set names utf8
+04-13 11:31 : select cat_id,cat_name,parent_id from category
+04-13 11:31 : select cat_id,cat_name,parent_id from category
+04-13 11:32 : use mall
+04-13 11:32 : set names utf8
+04-13 11:32 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_new,is_on_sale,goods_brief,goods_id,is_hot,add_time,ori_img) values ('Galaxy Note 5','sn0004','9','5000','5888','Note5','0.4','2000','1','1','1','','0','0','1428939172','data/images/1504/13/nf1eyi.jpg')
+05-05 03:08 : use mall
+05-05 03:08 : set names utf8
+05-05 03:12 : use mall
+05-05 03:12 : set names utf8
+05-05 03:12 : select cat_id,cat_name,parent_id from category
+05-05 03:12 : select cat_id,cat_name,parent_id from category
+05-05 03:14 : use mall
+05-05 03:14 : set names utf8
+05-05 03:14 : use mall
+05-05 03:14 : set names utf8
+05-05 03:14 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_on_sale,goods_brief,goods_id,is_hot,is_new,is_best,add_time,ori_img,goods_image,thumb_image) values ('Galaxy S3','sn0008','8','1500','1800','S3','300','1000','1','','0','0','0','0','1430810082','data/images/1505/05/xzvo5j.jpg','data/images/1505/05/goods_xzvo5j.jpg','data/images/1505/05/thumb_xzvo5j.jpg')
+05-05 03:16 : use mall
+05-05 03:16 : set names utf8
+05-05 03:16 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_on_sale,goods_brief,goods_id,is_hot,is_new,is_best,add_time,ori_img,goods_image,thumb_image) values ('faew','few','8','1500','1800','S3','300','1000','1','','0','0','0','0','1430810207','data/images/1505/05/zoir1a.jpg','data/images/1505/05/goods_zoir1a.jpg','data/images/1505/05/thumb_zoir1a.jpg')
+05-05 03:18 : use mall
+05-05 03:18 : set names utf8
+05-05 03:18 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_on_sale,goods_brief,goods_id,is_hot,is_new,is_best,add_time,ori_img,goods_image,thumb_image) values ('faew','few','8','1500','1800','S3','300','1000','1','','0','0','0','0','1430810324','data/images/1505/05/7al049.jpg','data/images/1505/05/goods_7al049.jpg','data/images/1505/05/thumb_7al049.jpg')
+05-05 03:18 : use mall
+05-05 03:18 : set names utf8
+05-05 03:18 : select * from goods where is_delete=0
+05-05 03:18 : select * from goods where is_delete=0
+05-05 03:19 : use mall
+05-05 03:19 : set names utf8
+05-05 03:19 : select * from goods where is_delete=0
+05-05 03:19 : select * from goods where is_delete=0
+05-05 03:19 : use mall
+05-05 03:19 : set names utf8
+05-05 03:19 : select cat_id,cat_name,parent_id from category
+05-05 03:19 : select cat_id,cat_name,parent_id from category
+05-05 03:19 : use mall
+05-05 03:19 : set names utf8
+05-05 03:19 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_on_sale,goods_brief,goods_id,is_hot,is_new,is_best,add_time,ori_img,goods_image,thumb_image) values ('ss','ssss','0','0','0','','0','1','1','','0','0','0','0','1430810382','data/images/1505/05/m5b39h.jpg','data/images/1505/05/goods_m5b39h.jpg','data/images/1505/05/thumb_m5b39h.jpg')
+05-05 03:19 : use mall
+05-05 03:19 : set names utf8
+05-05 03:19 : select cat_id,cat_name,parent_id from category
+05-05 03:19 : select cat_id,cat_name,parent_id from category
+05-05 03:20 : use mall
+05-05 03:20 : set names utf8
+05-05 03:20 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_on_sale,goods_brief,goods_id,is_hot,is_new,is_best,add_time) values ('sfe','sdf','0','0','0','','0','1','1','','0','0','0','0','1430810402')
+05-05 03:20 : use mall
+05-05 03:20 : set names utf8
+05-05 03:23 : use mall
+05-05 03:23 : set names utf8
+05-05 03:23 : use mall
+05-05 03:23 : set names utf8
+05-05 03:24 : use mall
+05-05 03:24 : set names utf8
+05-05 03:24 : select cat_id,cat_name,parent_id from category
+05-05 03:24 : select cat_id,cat_name,parent_id from category
+05-05 03:24 : use mall
+05-05 03:24 : set names utf8
+05-05 03:24 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_on_sale,goods_brief,goods_id,is_hot,is_new,is_best,add_time,ori_img,goods_img,thumb_img) values ('Galaxy S3','sn0008','8','1500','1800','S3','300','1000','1','','0','0','0','0','1430810679','data/images/1505/05/6nz49l.jpg','data/images/1505/05/goods_6nz49l.jpg','data/images/1505/05/thumb_6nz49l.jpg')
+05-05 03:24 : use mall
+05-05 03:24 : set names utf8
+05-05 03:24 : select * from goods where is_delete=0
+05-05 03:24 : select * from goods where is_delete=0
+07-20 02:32 : use mall
+07-20 02:32 : set names utf8
+07-20 02:32 : select * from goods where is_delete=0
+07-20 02:32 : select * from goods where is_delete=0
+07-20 02:32 : use mall
+07-20 02:32 : set names utf8
+07-20 02:32 : select cat_id,cat_name,parent_id from category
+07-20 02:32 : select cat_id,cat_name,parent_id from category
+07-20 02:32 : use mall
+07-20 02:32 : set names utf8
+07-20 02:32 : select * from goods where is_delete=1
+07-20 02:32 : select * from goods where is_delete=1
