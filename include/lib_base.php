@@ -8,7 +8,7 @@ defined('ACC') || exit('Access Denied');
 
 /**
  * 递归转义数组
- * @param unknown $arr
+ * @param array $arr
  * @return string
  */
 function _addslashes($arr){
@@ -23,7 +23,7 @@ function _addslashes($arr){
 
 /**
  * 自动加载
- * @param unknown $class
+ * @param className $class
  */
 function __autoload($class){
 	if (strtolower(substr($class, -5)) == 'model'){

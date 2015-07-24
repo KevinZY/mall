@@ -7,28 +7,40 @@ defined('ACC') || exit('Access Denied');
  */
 
 class Config {
+	/**
+	 * @var ins 代表自身，保证单例
+	 * @var data 读入的配置文件
+	 */
 	protected static $ins = NULL;
 	protected $data = array();
-	
+
+	/**
+	 * 一次性读取配置文件，赋给data属性
+	 */
 	final protected function __construct(){
-		//一次性读取配置文件，赋给data属性
 		include ROOT.'include/config.inc.php';
 		$this->data = $_CFG;
 	}
-	
+
+	/**
+	 * 封闭clone函数
+	 */
 	final protected function __clone(){}
-	
+
+	/**
+	 * 单例
+	 * @return self
+	 */
 	public static function getIns(){
-		//单例模式
 		if (self::$ins == false){
 			self::$ins = new self();
 		}
 		return self::$ins;
 	}
-	
+
 	/**
 	 * 用魔术方法读取data的信息
-	 * @param unknown $key
+	 * @param $key
 	 * @return multitype:|NULL
 	 */
 	public function __get($key){
@@ -39,11 +51,11 @@ class Config {
 			return NULL;
 		}
 	}
-	
+
 	/**
 	 * 用魔术方法在运行期动态增加或改变配置选项
-	 * @param unknown $key
-	 * @param unknown $value
+	 * @param $key
+	 * @param $value
 	 */
 	public function __set($key,$value){
 		$this->data[$key] = $value;
