@@ -9,7 +9,7 @@ defined('ACC') || exit('Access Denied');
 /**
  * 递归转义数组
  * @param array $arr
- * @return string
+ * @return array
  */
 function _addslashes($arr){
 	foreach ($arr as $key=>$v){

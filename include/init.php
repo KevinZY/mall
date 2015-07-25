@@ -6,7 +6,8 @@ defined('ACC') || exit('Access Denied');
  * @author zhangyang
  */
 
-/**初始化当前的绝对路径
+/**
+ * 初始化当前的绝对路径
  * widows下需要str_replace()将'\'换成'/'
  * dirname(__FILE__);   __DIR__(版本要求较高)
  */

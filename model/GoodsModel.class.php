@@ -30,7 +30,7 @@ class GoodsModel extends Model{
 			array('is_best', 0 , 'is_best只能是0或1' , 'in' , '0,1'),
 			array('goods_brief', 2 , '商品简介应在10到100字' , 'length' , '10,100')
 	);
-	
+
 	/**
 	 * 获取数据显示列表
 	 */
@@ -38,7 +38,7 @@ class GoodsModel extends Model{
 		$sql = 'select * from ' . $this->table . ' where is_delete=0';
 		return $this->db->getAll($sql);
 	}
-	
+
 	/**
 	 * 获取已被删除的数据
 	 */
@@ -46,12 +46,12 @@ class GoodsModel extends Model{
 		$sql = 'select * from ' . $this->table . ' where is_delete=1';
 		return $this->db->getAll($sql);
 	}
-	
+
 	/**
 	 * 执行删除操作
 	 */
 	public function doDelete($id){
-		return $this->update(array('is_delete'=>1), $id);
+		return $this->update(array('is_delete'=>1,'is_on_sale'=>0), $id);
 	}
 }
 ?>

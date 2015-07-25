@@ -9,7 +9,7 @@ defined('ACC') || exit('Access Denied');
 class CatModel extends Model{
     protected $table = 'category';
     protected $pk = 'cat_id';
-    
+
     /**
      * 查子栏目
      */
@@ -17,7 +17,7 @@ class CatModel extends Model{
     	$sql = 'select cat_id,cat_name,parent_id from ' . $this->table . ' where parent_id=' . $id;
     	return $this->db->getAll($sql);
     }
-    
+
     /**
      * 从数据库读出数据
      */
@@ -25,9 +25,10 @@ class CatModel extends Model{
     	$sql = 'select cat_id,cat_name,parent_id from ' . $this->table;
     	return $this->db->getAll($sql);
     }
-    
+
     /**
      * 将数据库读出的数据进行格式化
+     * return arrya
      */
     public function getListTree($arr , $id = 0 , $lev = 0){
     	$tree = array();
@@ -40,9 +41,9 @@ class CatModel extends Model{
     	}
     	return $tree;
     }
-    
+
     /**
-     *查找$id栏目的家谱树 
+     *查找$id栏目的家谱树
      */
     public function getFamilyTree($id){
     	$tree = array();
@@ -58,6 +59,6 @@ class CatModel extends Model{
     	}
     	return $tree;
     }
-    
+
 }
 ?>
