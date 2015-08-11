@@ -29,4 +29,14 @@ is_new tinyint(4) not null default 0,
 is_hot tinyint(4) not null default 0,
 add_time int(10) unsigned not null default 0,
 last_update int(10) unsigned not null default 0
-)engine=myisam default charset=utf8;
+)engine myisam charset utf8;
+
+#user
+create table user(
+user_id int unsigned not null auto_increment primary key,
+username varchar(16) not null default '',
+email varchar(30) not null default '',
+passwd char(32) not null default '',
+regtime int unsigned not null default 0,
+lastlogin int unsigned not null default 0
+)engine myisam charset utf8;

@@ -53,5 +53,13 @@ class GoodsModel extends Model{
 	public function doDelete($id){
 		return $this->update(array('is_delete'=>1,'is_on_sale'=>0), $id);
 	}
+
+	public function createSn(){
+		$sn = 'sn' . date('Ymd') . mt_rand(10000,99999);
+
+		$sql = 'select count(*) from ' . $this->table . "where goods_sn='" . $sn . "'";
+
+		return $this->db->getOne($sql) ? $this->createSn() : $sn;
+	}
 }
 ?>

@@ -26,8 +26,10 @@ function _addslashes($arr){
  * @param className $class
  */
 function __autoload($class){
+	//print_r(ROOT . 'model/' . $class . '.class.php');
 	if (strtolower(substr($class, -5)) == 'model'){
 		require ROOT . 'model/' . $class . '.class.php';
+		//print_r(ROOT . 'model/' . $class . '.class.php');
 	}
 	elseif (strtolower(substr($class, -4)) == 'tool') {
 		require ROOT . 'tool/' . $class . '.class.php';

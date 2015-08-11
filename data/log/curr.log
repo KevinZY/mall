@@ -2671,3 +2671,115 @@
 07-25 08:09 : set names utf8
 07-25 08:09 : select * from goods where is_delete=0
 07-25 08:09 : select * from goods where is_delete=0
+08-09 09:41 : use mall
+08-09 09:41 : set names utf8
+08-09 09:41 : select * from goods where is_delete=0
+08-09 09:41 : select * from goods where is_delete=0
+08-09 09:41 : use mall
+08-09 09:41 : set names utf8
+08-09 09:41 : select cat_id,cat_name,parent_id from category
+08-09 09:41 : select cat_id,cat_name,parent_id from category
+08-09 09:41 : use mall
+08-09 09:41 : set names utf8
+08-09 09:41 : select cat_id,cat_name,parent_id from category
+08-09 09:41 : select cat_id,cat_name,parent_id from category
+08-09 09:41 : use mall
+08-09 09:41 : set names utf8
+08-09 09:41 : select cat_id,cat_name,parent_id from category
+08-09 09:41 : select cat_id,cat_name,parent_id from category
+08-09 09:41 : use mall
+08-09 09:41 : set names utf8
+08-09 09:41 : insert into category (cat_name,parent_id,intro) values ('Apple','0','')
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : insert into category (cat_name,parent_id,intro) values ('Samsung','0','')
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : insert into category (cat_name,parent_id,intro) values ('iPhone','1','')
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : insert into category (cat_name,parent_id,intro) values ('iPad','1','')
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : insert into category (cat_name,parent_id,intro) values ('Galaxy系列','2','')
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : insert into category (cat_name,parent_id,intro) values ('Note系列','2','')
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : select * from goods where is_delete=0
+08-09 09:42 : select * from goods where is_delete=0
+08-09 09:42 : use mall
+08-09 09:42 : set names utf8
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:42 : select cat_id,cat_name,parent_id from category
+08-09 09:43 : use mall
+08-09 09:43 : set names utf8
+08-09 09:43 : select cat_id,cat_name,parent_id from category
+08-09 09:43 : select cat_id,cat_name,parent_id from category
+08-09 09:50 : use mall
+08-09 09:50 : set names utf8
+08-09 09:50 : select count(*) from goodswhere goods_sn='sn2015080912848'
+08-09 09:50 : select count(*) from goodswhere goods_sn='sn2015080912848'
+08-09 09:50 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_hot,is_on_sale,goods_brief,goods_id,is_new,add_time) values ('iPhone 5s','sn2015080912848','3','3555','3899','iPhone 5s','0.265','300','1','1','1','','0','0','1439106634')
+08-09 09:50 : use mall
+08-09 09:50 : set names utf8
+08-09 09:50 : select * from goods where is_delete=0
+08-09 09:50 : select * from goods where is_delete=0
+08-09 10:50 : use mall
+08-09 10:50 : set names utf8
+08-09 10:50 : select * from goods where is_delete=0
+08-09 10:50 : select * from goods where is_delete=0
+08-09 10:50 : use mall
+08-09 10:50 : set names utf8
+08-09 10:50 : select cat_id,cat_name,parent_id from category
+08-09 10:50 : select cat_id,cat_name,parent_id from category
+08-09 10:50 : use mall
+08-09 10:50 : set names utf8
+08-09 10:50 : select cat_id,cat_name,parent_id from category
+08-09 10:50 : select cat_id,cat_name,parent_id from category
+08-09 10:50 : use mall
+08-09 10:50 : set names utf8
+08-09 10:50 : select * from goods where is_delete=1
+08-09 10:50 : select * from goods where is_delete=1
+08-09 10:55 : use mall
+08-09 10:55 : set names utf8
+08-09 10:55 : insert into user () values ()
+08-09 10:56 : use mall
+08-09 10:56 : set names utf8
+08-09 10:56 : insert into user () values ()
+08-09 10:56 : use mall
+08-09 10:56 : set names utf8
+08-09 10:56 : insert into user () values ()
+08-09 10:57 : use mall
+08-09 10:57 : set names utf8
+08-09 10:57 : insert into user () values ()
+08-09 10:58 : use mall
+08-09 10:58 : set names utf8
+08-09 10:58 : insert into user () values ()
+08-09 10:58 : use mall
+08-09 10:58 : set names utf8
+08-09 10:58 : insert into user (username,email,passwd) values ('Kevin_KK','zy1123581321@qq.com','')
+08-09 10:59 : use mall
+08-09 10:59 : set names utf8
+08-09 10:59 : insert into user (username,email,passwd) values ('test','zy1123581321@qq.com','zy1123581321')

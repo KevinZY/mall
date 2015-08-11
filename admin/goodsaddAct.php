@@ -37,6 +37,10 @@ $goods = new GoodsModel();
 $data = $goods->_facade($_POST);  //自动过滤
 $data = $goods->_autoFill($data);  //自动填充
 
+if (empty($data['goods_sn'])) {
+	$data['goods_sn'] = $goods->createSn();
+}
+
 /**
  * 自动验证
  */
