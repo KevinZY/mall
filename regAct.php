@@ -10,10 +10,30 @@ require('./include/init.php');
 
 $user = new UserModel();
 $data = $user->_facade($_POST);
+$data = $user->_autoFill($data);
 
-if ($user->add($data)) {
-    echo "注册成功";
-} else{
-    echo "注册失败";
+/*
+ * 需要验证用户名、邮箱、密码等
+ */
+if(!$user->_validate($_POST)){
+    $msg = implode('<br />', $user->getError());
+    include('./view/front/msg.html');
+    exit;
 }
-?>
+
+/*
+ * 检验用户名是否已存在
+ */
+if($user->checkUserName($data['username'])){
+    $msg = '用户名已存在';
+    include('./view/front/msg.html');
+    exit;
+}
+
+if ($user->reg($data)) {
+    $msg = "注册成功";
+} else{
+    $msg = "注册失败";
+}
+
+include('./view/front/msg.html');

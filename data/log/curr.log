@@ -2783,3 +2783,374 @@
 08-09 10:59 : use mall
 08-09 10:59 : set names utf8
 08-09 10:59 : insert into user (username,email,passwd) values ('test','zy1123581321@qq.com','zy1123581321')
+08-12 06:30 : use mall
+08-12 06:30 : set names utf8
+08-12 06:30 : select * from goods where is_delete=0
+08-12 06:30 : select * from goods where is_delete=0
+08-12 06:30 : use mall
+08-12 06:30 : set names utf8
+08-12 06:30 : select cat_id,cat_name,parent_id from category
+08-12 06:30 : select cat_id,cat_name,parent_id from category
+08-12 06:30 : use mall
+08-12 06:30 : set names utf8
+08-12 06:30 : select * from goods where is_delete=0
+08-12 06:30 : select * from goods where is_delete=0
+08-12 06:30 : use mall
+08-12 06:30 : set names utf8
+08-12 06:30 : select cat_id,cat_name,parent_id from category
+08-12 06:30 : select cat_id,cat_name,parent_id from category
+08-12 06:31 : use mall
+08-12 06:31 : set names utf8
+08-12 06:31 : select cat_id,cat_name,parent_id from category
+08-12 06:31 : select cat_id,cat_name,parent_id from category
+08-12 06:31 : use mall
+08-12 06:31 : set names utf8
+08-12 06:31 : select cat_id,cat_name,parent_id from category
+08-12 06:31 : select cat_id,cat_name,parent_id from category
+08-12 06:31 : use mall
+08-12 06:31 : set names utf8
+08-12 06:31 : insert into category (cat_name,parent_id,intro) values ('Apple','0','')
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : insert into category (cat_name,parent_id,intro) values ('Apple','0','')
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : insert into category (cat_name,parent_id,intro) values ('Samsung','0','')
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : select cat_id,cat_name,parent_id from category
+08-12 06:32 : select cat_id,cat_name,parent_id from category
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : select * from goods where is_delete=1
+08-12 06:32 : select * from goods where is_delete=1
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : select cat_id,cat_name,parent_id from category
+08-12 06:32 : select cat_id,cat_name,parent_id from category
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : select * from goods where is_delete=1
+08-12 06:32 : select * from goods where is_delete=1
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : select cat_id,cat_name,parent_id from category
+08-12 06:32 : select cat_id,cat_name,parent_id from category
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : select cat_id,cat_name,parent_id from category
+08-12 06:32 : select cat_id,cat_name,parent_id from category
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : insert into category (cat_name,parent_id,intro) values ('iPhone','1','')
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : insert into category (cat_name,parent_id,intro) values ('iPad','1','')
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : insert into category (cat_name,parent_id,intro) values ('Galaxy系列','2','')
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : insert into category (cat_name,parent_id,intro) values ('Note系列','2','')
+08-12 06:32 : use mall
+08-12 06:32 : set names utf8
+08-12 06:32 : select * from goods where is_delete=0
+08-12 06:32 : select * from goods where is_delete=0
+08-12 06:33 : use mall
+08-12 06:33 : set names utf8
+08-12 06:33 : select * from goods where is_delete=0
+08-12 06:33 : select * from goods where is_delete=0
+08-12 06:33 : use mall
+08-12 06:33 : set names utf8
+08-12 06:33 : select cat_id,cat_name,parent_id from category
+08-12 06:33 : select cat_id,cat_name,parent_id from category
+08-12 06:33 : use mall
+08-12 06:33 : set names utf8
+08-12 06:33 : select count(*) from goodswhere goods_sn='sn2015081241883'
+08-12 06:33 : select count(*) from goodswhere goods_sn='sn2015081241883'
+08-12 06:33 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_hot,is_on_sale,goods_brief,goods_id,is_new,add_time) values ('iPhone 5s','sn2015081241883','3','3588','3888','iPhone 5s','0.289','2000','1','1','1','','0','0','1439354028')
+08-12 06:34 : use mall
+08-12 06:34 : set names utf8
+08-12 06:34 : select count(*) from goodswhere goods_sn='sn2015081298188'
+08-12 06:34 : select count(*) from goodswhere goods_sn='sn2015081298188'
+08-12 06:34 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_new,is_hot,is_on_sale,goods_brief,goods_id,add_time) values ('Galaxy s6','sn2015081298188','5','5899','6299','Galaxy s6','0.321','6000','1','1','1','1','','0','1439354061')
+08-12 06:34 : use mall
+08-12 06:34 : set names utf8
+08-12 06:34 : select * from goods where is_delete=0
+08-12 06:34 : select * from goods where is_delete=0
+08-12 06:34 : use mall
+08-12 06:34 : set names utf8
+08-12 06:34 : select cat_id,cat_name,parent_id from category
+08-12 06:34 : select cat_id,cat_name,parent_id from category
+08-12 06:34 : use mall
+08-12 06:34 : set names utf8
+08-12 06:34 : select * from goods where is_delete=1
+08-12 06:34 : select * from goods where is_delete=1
+08-12 06:36 : use mall
+08-12 06:36 : set names utf8
+08-12 06:36 : select * from goods where is_delete=0
+08-12 06:36 : select * from goods where is_delete=0
+08-12 06:36 : use mall
+08-12 06:36 : set names utf8
+08-12 06:36 : select cat_id,cat_name,parent_id from category
+08-12 06:36 : select cat_id,cat_name,parent_id from category
+08-12 06:36 : use mall
+08-12 06:36 : set names utf8
+08-12 06:36 : select cat_id,cat_name,parent_id from category
+08-12 06:36 : select cat_id,cat_name,parent_id from category
+08-12 06:36 : use mall
+08-12 06:36 : set names utf8
+08-12 06:36 : select * from goods where is_delete=1
+08-12 06:36 : select * from goods where is_delete=1
+08-12 06:36 : use mall
+08-12 06:36 : set names utf8
+08-12 06:36 : select * from goods where is_delete=0
+08-12 06:36 : select * from goods where is_delete=0
+08-12 06:36 : use mall
+08-12 06:36 : set names utf8
+08-12 06:36 : select cat_id,cat_name,parent_id from category
+08-12 06:36 : select cat_id,cat_name,parent_id from category
+08-12 06:36 : use mall
+08-12 06:36 : set names utf8
+08-12 06:36 : select cat_id,cat_name,parent_id from category
+08-12 06:36 : select cat_id,cat_name,parent_id from category
+08-12 06:36 : use mall
+08-12 06:36 : set names utf8
+08-12 06:36 : select * from goods where is_delete=1
+08-12 06:36 : select * from goods where is_delete=1
+08-12 06:40 : use mall
+08-12 06:40 : set names utf8
+08-12 06:40 : select * from goods where is_delete=0
+08-12 06:40 : select * from goods where is_delete=0
+08-12 06:42 : use mall
+08-12 06:42 : set names utf8
+08-12 06:42 : select * from goods where is_delete=0
+08-12 06:42 : select * from goods where is_delete=0
+08-12 06:42 : use mall
+08-12 06:42 : set names utf8
+08-12 06:42 : select * from goods where is_delete=0
+08-12 06:42 : select * from goods where is_delete=0
+08-12 06:42 : use mall
+08-12 06:42 : set names utf8
+08-12 06:42 : select * from goods where is_delete=0
+08-12 06:42 : select * from goods where is_delete=0
+08-12 06:42 : use mall
+08-12 06:42 : set names utf8
+08-12 06:42 : select cat_id,cat_name,parent_id from category
+08-12 06:42 : select cat_id,cat_name,parent_id from category
+08-12 06:42 : use mall
+08-12 06:42 : set names utf8
+08-12 06:42 : select cat_id,cat_name,parent_id from category
+08-12 06:42 : select cat_id,cat_name,parent_id from category
+08-12 06:42 : use mall
+08-12 06:42 : set names utf8
+08-12 06:42 : select * from goods where is_delete=0
+08-12 06:42 : select * from goods where is_delete=0
+08-12 06:43 : use mall
+08-12 06:43 : set names utf8
+08-12 06:43 : select cat_id,cat_name,parent_id from category
+08-12 06:43 : select cat_id,cat_name,parent_id from category
+08-12 06:43 : use mall
+08-12 06:43 : set names utf8
+08-12 06:43 : select cat_id,cat_name,parent_id from category
+08-12 06:43 : select cat_id,cat_name,parent_id from category
+08-12 06:43 : use mall
+08-12 06:43 : set names utf8
+08-12 06:43 : select * from goods where is_delete=0
+08-12 06:43 : select * from goods where is_delete=0
+08-12 06:43 : use mall
+08-12 06:43 : set names utf8
+08-12 06:43 : select cat_id,cat_name,parent_id from category
+08-12 06:43 : select cat_id,cat_name,parent_id from category
+08-12 06:43 : use mall
+08-12 06:43 : set names utf8
+08-12 06:43 : select * from goods where is_delete=0
+08-12 06:43 : select * from goods where is_delete=0
+08-12 06:43 : use mall
+08-12 06:43 : set names utf8
+08-12 06:43 : select cat_id,cat_name,parent_id from category
+08-12 06:43 : select cat_id,cat_name,parent_id from category
+08-12 06:44 : use mall
+08-12 06:44 : set names utf8
+08-12 06:44 : select * from goods where is_delete=0
+08-12 06:44 : select * from goods where is_delete=0
+08-12 06:44 : use mall
+08-12 06:44 : set names utf8
+08-12 06:44 : select cat_id,cat_name,parent_id from category
+08-12 06:44 : select cat_id,cat_name,parent_id from category
+08-12 06:44 : use mall
+08-12 06:44 : set names utf8
+08-12 06:44 : select * from goods where is_delete=0
+08-12 06:44 : select * from goods where is_delete=0
+08-12 06:44 : use mall
+08-12 06:44 : set names utf8
+08-12 06:44 : select cat_id,cat_name,parent_id from category
+08-12 06:44 : select cat_id,cat_name,parent_id from category
+08-12 06:44 : use mall
+08-12 06:44 : set names utf8
+08-12 06:44 : select cat_id,cat_name,parent_id from category
+08-12 06:44 : select cat_id,cat_name,parent_id from category
+08-12 06:44 : use mall
+08-12 06:44 : set names utf8
+08-12 06:44 : select * from goods where is_delete=1
+08-12 06:44 : select * from goods where is_delete=1
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select * from goods where is_delete=1
+08-12 06:50 : select * from goods where is_delete=1
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select * from goods where is_delete=1
+08-12 06:50 : select * from goods where is_delete=1
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : select cat_id,cat_name,parent_id from category
+08-12 06:50 : use mall
+08-12 06:50 : set names utf8
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:50 : select * from goods where is_delete=0
+08-12 06:52 : use mall
+08-12 06:52 : set names utf8
+08-12 06:52 : select * from goods where is_delete=0
+08-12 06:52 : select * from goods where is_delete=0
+08-12 06:52 : use mall
+08-12 06:52 : set names utf8
+08-12 06:52 : select * from goods where is_delete=0
+08-12 06:52 : select * from goods where is_delete=0
+08-12 06:52 : use mall
+08-12 06:52 : set names utf8
+08-12 06:52 : select * from goods where is_delete=0
+08-12 06:52 : select * from goods where is_delete=0
+08-12 06:52 : use mall
+08-12 06:52 : set names utf8
+08-12 06:52 : select cat_id,cat_name,parent_id from category
+08-12 06:52 : select cat_id,cat_name,parent_id from category
+08-12 06:52 : use mall
+08-12 06:52 : set names utf8
+08-12 06:52 : select * from goods where is_delete=0
+08-12 06:52 : select * from goods where is_delete=0
+08-12 06:52 : use mall
+08-12 06:52 : set names utf8
+08-12 06:52 : select cat_id,cat_name,parent_id from category
+08-12 06:52 : select cat_id,cat_name,parent_id from category
+08-12 06:53 : use mall
+08-12 06:53 : set names utf8
+08-12 06:53 : select cat_id,cat_name,parent_id from category
+08-12 06:53 : select cat_id,cat_name,parent_id from category
+08-12 06:53 : use mall
+08-12 06:53 : set names utf8
+08-12 06:53 : select * from goods where is_delete=0
+08-12 06:53 : select * from goods where is_delete=0
+08-12 08:57 : use mall
+08-12 08:57 : set names utf8
+08-12 09:01 : use mall
+08-12 09:01 : set names utf8
+08-12 09:01 : use mall
+08-12 09:01 : set names utf8
+08-12 09:17 : use mall
+08-12 09:17 : set names utf8
+08-12 09:17 : use mall
+08-12 09:17 : set names utf8
+08-12 09:36 : use mall
+08-12 09:36 : set names utf8
+08-12 09:36 : insert into user (username,email,passwd) values ('test','zy1123581321@qq.com','zy1123581321')
+08-12 09:42 : use mall
+08-12 09:42 : set names utf8
+08-12 09:42 : insert into user (username,email,passwd,regtime) values ('test2','zy1123581321@qq.com','8a2bda6192d217855ed4a37f63d4f5dd','1439365328')
+08-12 09:54 : use mall
+08-12 09:54 : set names utf8
+08-12 09:54 : select count(*) from user where username='test2'
+08-12 09:54 : select count(*) from user where username='test2'
+08-12 10:11 : use mall
+08-12 10:11 : set names utf8
+08-12 10:11 : select count(*) from user where username='test2'
+08-12 10:11 : select count(*) from user where username='test2'
+08-12 10:12 : use mall
+08-12 10:12 : set names utf8
+08-12 10:12 : select count(*) from user where username='test3'
+08-12 10:12 : select count(*) from user where username='test3'
+08-12 10:12 : insert into user (username,email,passwd,regtime) values ('test3','@qq.com','e10adc3949ba59abbe56e057f20f883e','1439367146')
+08-12 10:14 : use mall
+08-12 10:14 : set names utf8
+08-12 10:15 : use mall
+08-12 10:15 : set names utf8
+08-12 10:16 : use mall
+08-12 10:16 : set names utf8
+08-12 10:18 : use mall
+08-12 10:18 : set names utf8
+08-12 10:19 : use mall
+08-12 10:19 : set names utf8
+08-12 10:21 : use mall
+08-12 10:21 : set names utf8
+08-12 10:22 : use mall
+08-12 10:22 : set names utf8
+08-12 10:23 : use mall
+08-12 10:23 : set names utf8
+08-12 10:24 : use mall
+08-12 10:24 : set names utf8
+08-12 10:27 : use mall
+08-12 10:27 : set names utf8
+08-12 10:28 : use mall
+08-12 10:28 : set names utf8
+08-12 10:29 : use mall
+08-12 10:29 : set names utf8
+08-12 10:31 : use mall
+08-12 10:31 : set names utf8
+08-12 10:33 : use mall
+08-12 10:33 : set names utf8
+08-12 10:33 : use mall
+08-12 10:33 : set names utf8
+08-12 10:34 : use mall
+08-12 10:34 : set names utf8
+08-12 10:35 : use mall
+08-12 10:35 : set names utf8
+08-12 10:35 : use mall
+08-12 10:35 : set names utf8
+08-12 10:35 : use mall
+08-12 10:35 : set names utf8
+08-12 10:40 : use mall
+08-12 10:40 : set names utf8
+08-12 10:41 : use mall
+08-12 10:41 : set names utf8
+08-12 10:41 : use mall
+08-12 10:41 : set names utf8
+08-12 10:41 : select count(*) from user where username='test3'
+08-12 10:41 : select count(*) from user where username='test3'
+08-12 10:58 : use mall
+08-12 10:58 : set names utf8
+08-12 10:58 : select count(*) from user where username='zhangyang'
+08-12 10:58 : select count(*) from user where username='zhangyang'
+08-12 10:58 : insert into user (username,email,passwd,regtime) values ('zhangyang','zy1123581321@qq.com','8a2bda6192d217855ed4a37f63d4f5dd','1439369885')

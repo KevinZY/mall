@@ -76,6 +76,7 @@ class MySql extends DB{
 	/**
 	 * 发送查询
 	 * @param   $sql sql语句
+	 * @return resource
 	 */
 	public function query($sql){
 		Log::write($sql);
@@ -85,6 +86,7 @@ class MySql extends DB{
 	/**
 	 * 查询多行数据
 	 * @param   $sql sql语句
+	 * @return array
 	 */
 	public function getAll($sql){
 		Log::write($sql);
@@ -100,6 +102,7 @@ class MySql extends DB{
 	/**
 	 * 查询单行数据
 	 * @param   $sql sql语句
+	 * @return array
 	 */
 	public function getRow($sql){
 		Log::write($sql);
