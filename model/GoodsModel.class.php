@@ -62,4 +62,3 @@ class GoodsModel extends Model{
 		return $this->db->getOne($sql) ? $this->createSn() : $sn;
 	}
 }
-?>

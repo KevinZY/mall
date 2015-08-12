@@ -31,4 +31,3 @@ else{
 
 	include ROOT . 'view/admin/templates/goodslist.html';
 }
-?>

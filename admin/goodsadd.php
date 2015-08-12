@@ -12,4 +12,3 @@ $catelist = $cat->getList();
 $catelist = $cat->getListTree($catelist , 0);
 
 include ROOT . 'view/admin/templates/goodsadd.html';
-?>

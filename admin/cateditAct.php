@@ -50,4 +50,3 @@ if($cat->update($data,$cat_id)) {
     echo "<script>alert('栏目修改失败');history.back();</script>";
     exit;
 }
-?>

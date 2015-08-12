@@ -21,4 +21,3 @@ $catlist = $cat->getListTree($catlist);
 //print_r($catinfo);
 
 include(ROOT . 'view/admin/templates/catedit.html');
-?>

@@ -61,4 +61,3 @@ class Config {
 		$this->data[$key] = $value;
 	}
 }
-?>

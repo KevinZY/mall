@@ -61,4 +61,3 @@ class CatModel extends Model{
     }
 
 }
-?>

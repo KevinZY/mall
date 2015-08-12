@@ -28,4 +28,3 @@ if($cat->add($data)) {
     echo "<script>alert('栏目添加失败');history.back();</script>";
     exit;
 }
-?>

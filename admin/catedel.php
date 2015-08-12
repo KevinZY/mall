@@ -27,5 +27,4 @@ if($cat->delete($cat_id)) {
     echo "<script>alert('栏目删除失败');history.back();</script>";
     exit();
 }
-?>
 

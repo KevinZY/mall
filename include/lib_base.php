@@ -38,4 +38,3 @@ function __autoload($class){
 		require ROOT . 'include/' . $class . '.class.php';
 	}
 }
-?>

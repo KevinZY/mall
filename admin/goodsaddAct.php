@@ -83,4 +83,3 @@ else{
 	echo "<script>alert('商品添加失败');history.back();</script>";
 	exit;
 }
-?>

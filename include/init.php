@@ -27,5 +27,3 @@ if (defined(DEBUG)){
 }else {
 	error_reporting(0);
 }
-
-?>

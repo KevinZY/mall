@@ -156,4 +156,3 @@ class UpTool {
 		$this->maxSize = $size;
 	}
 }
-?>

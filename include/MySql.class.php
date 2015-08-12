@@ -166,4 +166,3 @@ class MySql extends DB{
 		return $this->query($sql);
 	}
 }
-?>

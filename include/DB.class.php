@@ -54,4 +54,3 @@ abstract class DB {
 	 */
 	public abstract function autoExecute($table,$data,$act,$where);
 }
-?>

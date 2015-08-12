@@ -13,4 +13,3 @@ $_CFG['user'] = 'root';
 $_CFG['pwd'] = '';
 $_CFG['dbname'] = 'mall';
 $_CFG['charset'] = 'utf8';
-?>

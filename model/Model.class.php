@@ -208,4 +208,3 @@ class Model{
     	return $this->db->getRow($sql);
     }
 }
-?>

@@ -144,4 +144,3 @@ class ImageTool{
 		return true;
 	}
 }
-?>

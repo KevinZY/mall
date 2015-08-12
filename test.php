@@ -13,5 +13,3 @@ if($res = $uptool->up('pic')){
 	echo 'FAIL<br />';
 	echo $uptool->getError();
 }
-
-?>

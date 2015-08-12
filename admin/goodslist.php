@@ -11,5 +11,3 @@ $goods = new GoodsModel();
 $goodslist = $goods->getList();
 
 include ROOT . 'view/admin/templates/goodslist.html';
-
-?>
