@@ -24,7 +24,7 @@ if(!$user->_validate($_POST)){
 /*
  * 检验用户名是否已存在
  */
-if($user->checkUserName($data['username'])){
+if($user->checkUser($data['username'])){
     $msg = '用户名已存在';
     include('./view/front/msg.html');
     exit;

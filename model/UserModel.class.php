@@ -48,9 +48,26 @@ class UserModel extends Model{
         return md5($p);
     }
 
-    public function checkUserName($username){
-        $sql = 'select count(*) from ' . $this->table . " where username='" . $username . "'";
+    public function checkUser($username, $passwd = ''){
+        if($passwd == '') {
+            $sql = 'select count(*) from ' . $this->table . " where username='" . $username . "'";
+            return $this->db->getOne($sql);
+        }else{
+            $sql = "select user_id,username,email,passwd from " . $this->table . " where username='" . $username . "'";
+            $row = $this->db->getRow($sql);
+            //print_r($row);
+            if(empty($row)){
+                return false;
+            }
 
-        return $this->db->getOne($sql);
+            if($row['passwd'] !== $this->encPasswd($passwd)){
+                return false;
+            }
+
+            unset($row['passwd']);
+            return $row;
+        }
     }
+
+
 }

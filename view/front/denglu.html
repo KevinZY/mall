@@ -6,7 +6,7 @@
 <meta name="Keywords" content="">
 <meta name="Description" content="">
 
-<title>用户中心_布尔正装商城-职业装|面试正装|求职正装|男士正装|女士正装|正装衬衫-源于北京,服务全国</title>
+<title>用户中心_ZY正装商城-职业装|面试正装|求职正装|男士正装|女士正装|正装衬衫-源于北京,服务全国</title>
 
 <link rel="shortcut icon" href="http://www.zhongyis.com/favicon.ico">
 <link rel="icon" href="http://www.zhongyis.com/animated_favicon.gif" type="image/gif">
@@ -25,7 +25,7 @@
     	<div class="logo f_l"><a href="#"><img src="./view/front/images/logo.gif"></a></div>
         <div class="member_login f_l">
               			 <font id="ECS_MEMBERZONE"><div id="append_parent"></div>
- 欢迎光临布尔！&nbsp;&nbsp;&nbsp;&nbsp;
+ 欢迎光临！&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="#">登录</a> | <a href="#">注册</a>
  </font>            
             </div>
@@ -161,27 +161,27 @@
   <div class="usBox_1 f_l">
    <div class="logtitle"></div>
    <div style="color:#999; padding:30px 20px 10px 30px;">已注册用户请从这里登录</div>
-   <form onsubmit="return userLogin()" method="post" action="./images/denglu.htm" name="formLogin">
+   <form method="post" action="./login.php" name="formLogin">
         <table width="100%" cellspacing="5" cellpadding="3" border="0" align="left" class="user_table">
           <tbody><tr>
             <td width="15%" align="right">用户名</td>
-            <td width="85%"><input type="text" class="inputBg" name="username"></td>
+            <td width="85%"><input type="text" class="inputBg" name="username" value="<?php echo $remember; ?>"></td>
           </tr>
           <tr>
             <td align="right">密码</td>
             <td>
-            <input type="password" class="inputBg" name="password">
+            <input type="password" class="inputBg" name="passwd">
             </td>
           </tr>
                     <tr>
-            <td colspan="2"><input type="checkbox" id="remember" name="remember" value="1"><label for="remember">请保存我这次的登录信息。</label></td>
+            <td colspan="2"><input type="checkbox" id="remember" name="remember" value="1"><label for="remember">记住用户名</label></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
             <td align="left">
             <input type="hidden" value="act_login" name="act">
             <input type="hidden" value="http://www.zhongyis.com/category.php?id=17" name="back_act">
-            <input type="submit" class="us_Submit" value="" name="submit">
+            <input type="submit" class="us_Submit" value="登录" name="submit">
 			<a name="fastlogin" href="#"><img width="115" height="25" src="./view/front/images/alipayLogin_new.png"></a>
             </td>
           </tr>

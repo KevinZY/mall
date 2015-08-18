@@ -3154,3 +3154,102 @@
 08-12 10:58 : select count(*) from user where username='zhangyang'
 08-12 10:58 : select count(*) from user where username='zhangyang'
 08-12 10:58 : insert into user (username,email,passwd,regtime) values ('zhangyang','zy1123581321@qq.com','8a2bda6192d217855ed4a37f63d4f5dd','1439369885')
+08-18 04:44 : use mall
+08-18 04:44 : set names utf8
+08-18 04:44 : select user_id,user_name,email,passwd from user where username='zy1123581321@qq.com'
+08-18 04:44 : select user_id,user_name,email,passwd from user where username='zy1123581321@qq.com'
+08-18 04:45 : use mall
+08-18 04:45 : set names utf8
+08-18 04:45 : select user_id,user_name,email,passwd from user where username='zhangyang'
+08-18 04:45 : select user_id,user_name,email,passwd from user where username='zhangyang'
+08-18 04:45 : use mall
+08-18 04:45 : set names utf8
+08-18 04:45 : select user_id,user_name,email,passwd from user where username='zhangyang'
+08-18 04:45 : select user_id,user_name,email,passwd from user where username='zhangyang'
+08-18 04:46 : use mall
+08-18 04:46 : set names utf8
+08-18 04:46 : select user_id,user_name,email,passwd from user where username='zhangyang'
+08-18 04:46 : select user_id,user_name,email,passwd from user where username='zhangyang'
+08-18 04:47 : use mall
+08-18 04:47 : set names utf8
+08-18 04:48 : use mall
+08-18 04:48 : set names utf8
+08-18 04:48 : select count(*) from user where username='Kevin'
+08-18 04:48 : select count(*) from user where username='Kevin'
+08-18 04:48 : insert into user (username,email,passwd,regtime) values ('Kevin','zy1123581321@qq.com','8a2bda6192d217855ed4a37f63d4f5dd','1439866080')
+08-18 04:48 : use mall
+08-18 04:48 : set names utf8
+08-18 04:48 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:48 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:49 : use mall
+08-18 04:49 : set names utf8
+08-18 04:49 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:49 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:49 : use mall
+08-18 04:49 : set names utf8
+08-18 04:49 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:49 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:50 : use mall
+08-18 04:50 : set names utf8
+08-18 04:50 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:50 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:50 : use mall
+08-18 04:50 : set names utf8
+08-18 04:50 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:50 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:50 : use mall
+08-18 04:50 : set names utf8
+08-18 04:50 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 04:50 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 05:08 : use mall
+08-18 05:08 : set names utf8
+08-18 05:08 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 05:08 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 05:08 : use mall
+08-18 05:08 : set names utf8
+08-18 05:08 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 05:08 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 05:08 : use mall
+08-18 05:08 : set names utf8
+08-18 05:08 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 05:08 : select user_id,user_name,email,passwd from user where username='Kevin'
+08-18 05:11 : use mall
+08-18 05:11 : set names utf8
+08-18 05:11 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 05:11 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 05:35 : use mall
+08-18 05:35 : set names utf8
+08-18 05:35 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 05:35 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 05:47 : use mall
+08-18 05:47 : set names utf8
+08-18 05:47 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 05:47 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 10:57 : use mall
+08-18 10:57 : set names utf8
+08-18 10:57 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 10:57 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 10:58 : use mall
+08-18 10:58 : set names utf8
+08-18 10:58 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 10:58 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 10:58 : use mall
+08-18 10:58 : set names utf8
+08-18 10:58 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 10:58 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 10:59 : use mall
+08-18 10:59 : set names utf8
+08-18 10:59 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 10:59 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 11:01 : use mall
+08-18 11:01 : set names utf8
+08-18 11:01 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 11:01 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 11:01 : use mall
+08-18 11:01 : set names utf8
+08-18 11:01 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 11:01 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 11:07 : use mall
+08-18 11:07 : set names utf8
+08-18 11:07 : select user_id,username,email,passwd from user where username='Kevin'
+08-18 11:07 : select user_id,username,email,passwd from user where username='Kevin'
