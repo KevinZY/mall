@@ -1,9 +1,5 @@
 ##PHP商城项目
 
-Database: MySql
-
-use mall
-
 ####category
 create table category (
 cat_id int auto_increment primary key,
@@ -46,7 +42,6 @@ passwd char(32) not null default '',
 regtime int unsigned not null default 0,
 lastlogin int unsigned not null default 0
 )engine myisam charset utf8;
-
 
 ###自动验证规则：
 1. 没有，不检；有，必是几个选项之一

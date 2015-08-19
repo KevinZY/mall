@@ -3253,3 +3253,87 @@
 08-18 11:07 : set names utf8
 08-18 11:07 : select user_id,username,email,passwd from user where username='Kevin'
 08-18 11:07 : select user_id,username,email,passwd from user where username='Kevin'
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : select * from goods where is_delete=0
+08-19 04:56 : select * from goods where is_delete=0
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : insert into category (cat_name,parent_id,intro) values ('Apple','0','')
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : insert into category (cat_name,parent_id,intro) values ('Samsung','0','')
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : select cat_id,cat_name,parent_id from category
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : insert into category (cat_name,parent_id,intro) values ('iPhone','1','')
+08-19 04:56 : use mall
+08-19 04:56 : set names utf8
+08-19 04:56 : insert into category (cat_name,parent_id,intro) values ('iPad','1','')
+08-19 04:57 : use mall
+08-19 04:57 : set names utf8
+08-19 04:57 : insert into category (cat_name,parent_id,intro) values ('Galaxy系列','2','')
+08-19 04:57 : use mall
+08-19 04:57 : set names utf8
+08-19 04:57 : insert into category (cat_name,parent_id,intro) values ('Note系列','2','')
+08-19 04:57 : use mall
+08-19 04:57 : set names utf8
+08-19 04:57 : select cat_id,cat_name,parent_id from category
+08-19 04:57 : select cat_id,cat_name,parent_id from category
+08-19 04:58 : use mall
+08-19 04:58 : set names utf8
+08-19 04:58 : select count(*) from goodswhere goods_sn='sn2015081972171'
+08-19 04:58 : select count(*) from goodswhere goods_sn='sn2015081972171'
+08-19 04:58 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_hot,is_on_sale,goods_brief,goods_id,is_new,add_time,ori_img,goods_img,thumb_img) values ('iPhone 5s','sn2015081972171','3','3566','3899','iPhone 5s','0.256','2000','1','1','1','','0','0','1439953084','data/images/1508/19/kt0hnj.jpg','data/images/1508/19/goods_kt0hnj.jpg','data/images/1508/19/thumb_kt0hnj.jpg')
+08-19 05:00 : use mall
+08-19 05:00 : set names utf8
+08-19 05:00 : select count(*) from goodswhere goods_sn='sn2015081923093'
+08-19 05:00 : select count(*) from goodswhere goods_sn='sn2015081923093'
+08-19 05:00 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_new,is_hot,is_on_sale,goods_brief,goods_id,add_time,ori_img,goods_img,thumb_img) values ('iPhone 6','sn2015081923093','3','4899','4999','iPhone 6','0.289','3265','1','1','1','1','','0','1439953238','data/images/1508/19/6raq4s.jpg','data/images/1508/19/goods_6raq4s.jpg','data/images/1508/19/thumb_6raq4s.jpg')
+08-19 05:01 : use mall
+08-19 05:01 : set names utf8
+08-19 05:01 : select count(*) from goodswhere goods_sn='sn2015081949683'
+08-19 05:01 : select count(*) from goodswhere goods_sn='sn2015081949683'
+08-19 05:01 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_new,is_hot,is_on_sale,goods_brief,goods_id,add_time,ori_img,goods_img,thumb_img) values ('Galaxy s6','sn2015081949683','5','5899','5999','Galaxy s6','0.302','1026','1','1','1','1','','0','1439953289','data/images/1508/19/v86ydo.jpg','data/images/1508/19/goods_v86ydo.jpg','data/images/1508/19/thumb_v86ydo.jpg')
+08-19 05:02 : use mall
+08-19 05:02 : set names utf8
+08-19 05:02 : select count(*) from goodswhere goods_sn='sn2015081991794'
+08-19 05:02 : select count(*) from goodswhere goods_sn='sn2015081991794'
+08-19 05:02 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_new,is_hot,is_on_sale,goods_brief,goods_id,add_time,ori_img,goods_img,thumb_img) values ('iPad Air 2','sn2015081991794','4','3289','3588','iPad Air 2','0.645','2065','1','1','1','1','','0','1439953335','data/images/1508/19/yw807k.jpg','data/images/1508/19/goods_yw807k.jpg','data/images/1508/19/thumb_yw807k.jpg')
+08-19 05:02 : use mall
+08-19 05:02 : set names utf8
+08-19 05:02 : select count(*) from goodswhere goods_sn='sn2015081968868'
+08-19 05:02 : select count(*) from goodswhere goods_sn='sn2015081968868'
+08-19 05:02 : insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_new,is_hot,is_on_sale,goods_brief,goods_id,add_time,ori_img,goods_img,thumb_img) values ('Galaxy Note 5','sn2015081968868','6','5689','5888','Galaxy Note 5','0.326','3056','1','1','1','1','','0','1439953379','data/images/1508/19/sxjpmu.jpg','data/images/1508/19/goods_sxjpmu.jpg','data/images/1508/19/thumb_sxjpmu.jpg')
+08-19 05:03 : use mall
+08-19 05:03 : set names utf8
+08-19 05:03 : select * from goods where is_delete=0
+08-19 05:03 : select * from goods where is_delete=0
+08-19 05:04 : use mall
+08-19 05:04 : set names utf8
+08-19 05:04 : select count(*) from user where username='Kevin_KK'
+08-19 05:04 : select count(*) from user where username='Kevin_KK'
+08-19 05:04 : insert into user (username,email,passwd,regtime) values ('Kevin_KK','zy1123581321@qq.com','8a2bda6192d217855ed4a37f63d4f5dd','1439953482')
