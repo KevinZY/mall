@@ -61,4 +61,37 @@ class GoodsModel extends Model{
 
 		return $this->db->getOne($sql) ? $this->createSn() : $sn;
 	}
+
+	/**
+	 * 获取新品
+	 * @param int $n 查询个数
+	 * @return array
+	 */
+	public function getNew($n=5){
+		$sql = 'select goods_id,goods_name,shop_price,market_price,thumb_img from ' . $this->table .
+			' where is_new=1 order by add_time limit ' . $n;
+		return $this->db->getAll($sql);
+	}
+
+	/**
+	 * 取出指定栏目的商品
+	 * @param $cat_id
+	 * @return array $sons
+	 */
+	public function getGoodsByCat($cat_id){
+		$category = new CatModel();
+		$cats = $category->getList();
+		$sons = $category->getListTree($cats, $cat_id);
+
+		$sub = array($cat_id);
+		if(!empty($sons)){
+			foreach($sons as $v){
+				$sub[] = $v['cat_id'];
+			}
+		}
+		$in = implode(',', $sub);
+		$sql = 'select goods_id,goods_name,shop_price,market_price,thumb_img from ' . $this->table .
+			' where cat_id in (' . $in . ') order by add_time limit 5';
+		return $this->db->getAll($sql);
+	}
 }

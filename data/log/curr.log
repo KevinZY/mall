@@ -3337,3 +3337,537 @@
 08-19 05:04 : select count(*) from user where username='Kevin_KK'
 08-19 05:04 : select count(*) from user where username='Kevin_KK'
 08-19 05:04 : insert into user (username,email,passwd,regtime) values ('Kevin_KK','zy1123581321@qq.com','8a2bda6192d217855ed4a37f63d4f5dd','1439953482')
+08-19 05:30 : use mall
+08-19 05:30 : set names utf8
+08-19 05:30 : select goods_id,goods_name,shop_price,goods_price,goods_thumb from goods order by addtime limit 5
+08-19 05:30 : select goods_id,goods_name,shop_price,goods_price,goods_thumb from goods order by addtime limit 5
+08-19 05:30 : use mall
+08-19 05:30 : set names utf8
+08-19 05:30 : select goods_id,goods_name,shop_price,goods_price,goods_thumb from goods order by addtime limit 5
+08-19 05:30 : select goods_id,goods_name,shop_price,goods_price,goods_thumb from goods order by addtime limit 5
+08-19 05:31 : use mall
+08-19 05:31 : set names utf8
+08-19 05:31 : select goods_id,goods_name,shop_price,goods_price,goods_thumb from goods where is_new=1 order by addtime limit 5
+08-19 05:31 : select goods_id,goods_name,shop_price,goods_price,goods_thumb from goods where is_new=1 order by addtime limit 5
+08-19 05:32 : use mall
+08-19 05:32 : set names utf8
+08-19 05:32 : select goods_id,goods_name,shop_price,market_price,goods_thumb from goods where is_new=1 order by addtime limit 5
+08-19 05:32 : select goods_id,goods_name,shop_price,market_price,goods_thumb from goods where is_new=1 order by addtime limit 5
+08-19 05:33 : use mall
+08-19 05:33 : set names utf8
+08-19 05:33 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by addtime limit 5
+08-19 05:33 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by addtime limit 5
+08-19 05:33 : use mall
+08-19 05:33 : set names utf8
+08-19 05:33 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:33 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:34 : use mall
+08-19 05:34 : set names utf8
+08-19 05:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:34 : use mall
+08-19 05:34 : set names utf8
+08-19 05:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:40 : use mall
+08-19 05:40 : set names utf8
+08-19 05:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:42 : use mall
+08-19 05:42 : set names utf8
+08-19 05:42 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:42 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:43 : use mall
+08-19 05:43 : set names utf8
+08-19 05:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:45 : use mall
+08-19 05:45 : set names utf8
+08-19 05:45 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:45 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:46 : use mall
+08-19 05:46 : set names utf8
+08-19 05:46 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:46 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:48 : use mall
+08-19 05:48 : set names utf8
+08-19 05:48 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:48 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:48 : use mall
+08-19 05:48 : set names utf8
+08-19 05:48 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:48 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:48 : use mall
+08-19 05:48 : set names utf8
+08-19 05:48 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:48 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:48 : use mall
+08-19 05:48 : set names utf8
+08-19 05:48 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:48 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:49 : use mall
+08-19 05:49 : set names utf8
+08-19 05:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:49 : use mall
+08-19 05:49 : set names utf8
+08-19 05:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:50 : use mall
+08-19 05:50 : set names utf8
+08-19 05:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:53 : use mall
+08-19 05:53 : set names utf8
+08-19 05:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:53 : use mall
+08-19 05:53 : set names utf8
+08-19 05:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:53 : use mall
+08-19 05:53 : set names utf8
+08-19 05:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:53 : use mall
+08-19 05:53 : set names utf8
+08-19 05:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 05:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 08:52 : use mall
+08-19 08:52 : set names utf8
+08-19 08:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 08:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:00 : use mall
+08-19 09:00 : set names utf8
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:00 : use mall
+08-19 09:00 : set names utf8
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:00 : use mall
+08-19 09:00 : set names utf8
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:00 : use mall
+08-19 09:00 : set names utf8
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:00 : use mall
+08-19 09:00 : set names utf8
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:00 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:01 : use mall
+08-19 09:01 : set names utf8
+08-19 09:01 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:01 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:01 : use mall
+08-19 09:01 : set names utf8
+08-19 09:01 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:01 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:02 : use mall
+08-19 09:02 : set names utf8
+08-19 09:02 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:02 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere is_new=1 order by add_time limit 5
+08-19 09:03 : use mall
+08-19 09:03 : set names utf8
+08-19 09:03 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:03 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:06 : use mall
+08-19 09:06 : set names utf8
+08-19 09:06 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:06 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:06 : select cat_id,cat_name,parent_id from category
+08-19 09:06 : select cat_id,cat_name,parent_id from category
+08-19 09:06 : use mall
+08-19 09:06 : set names utf8
+08-19 09:06 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:06 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:06 : select cat_id,cat_name,parent_id from category
+08-19 09:06 : select cat_id,cat_name,parent_id from category
+08-19 09:07 : use mall
+08-19 09:07 : set names utf8
+08-19 09:07 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:07 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:07 : select cat_id,cat_name,parent_id from category
+08-19 09:07 : select cat_id,cat_name,parent_id from category
+08-19 09:07 : use mall
+08-19 09:07 : set names utf8
+08-19 09:07 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:07 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:07 : select cat_id,cat_name,parent_id from category
+08-19 09:07 : select cat_id,cat_name,parent_id from category
+08-19 09:08 : use mall
+08-19 09:08 : set names utf8
+08-19 09:08 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:08 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:08 : select cat_id,cat_name,parent_id from category
+08-19 09:08 : select cat_id,cat_name,parent_id from category
+08-19 09:08 : use mall
+08-19 09:08 : set names utf8
+08-19 09:08 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:08 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:08 : select cat_id,cat_name,parent_id from category
+08-19 09:08 : select cat_id,cat_name,parent_id from category
+08-19 09:09 : use mall
+08-19 09:09 : set names utf8
+08-19 09:09 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:09 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:09 : select cat_id,cat_name,parent_id from category
+08-19 09:09 : select cat_id,cat_name,parent_id from category
+08-19 09:17 : use mall
+08-19 09:17 : set names utf8
+08-19 09:17 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:17 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:17 : select cat_id,cat_name,parent_id from category
+08-19 09:17 : select cat_id,cat_name,parent_id from category
+08-19 09:17 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere cat_id in (1,3,4) order by add_time limit 5
+08-19 09:17 : select goods_id,goods_name,shop_price,market_price,thumb_img from goodswhere cat_id in (1,3,4) order by add_time limit 5
+08-19 09:18 : use mall
+08-19 09:18 : set names utf8
+08-19 09:18 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:18 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:18 : select cat_id,cat_name,parent_id from category
+08-19 09:18 : select cat_id,cat_name,parent_id from category
+08-19 09:18 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:18 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:18 : use mall
+08-19 09:18 : set names utf8
+08-19 09:18 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:18 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:18 : select cat_id,cat_name,parent_id from category
+08-19 09:18 : select cat_id,cat_name,parent_id from category
+08-19 09:18 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:18 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:19 : use mall
+08-19 09:19 : set names utf8
+08-19 09:19 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:19 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:19 : use mall
+08-19 09:19 : set names utf8
+08-19 09:19 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:19 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:25 : use mall
+08-19 09:25 : set names utf8
+08-19 09:25 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:25 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:25 : select cat_id,cat_name,parent_id from category
+08-19 09:25 : select cat_id,cat_name,parent_id from category
+08-19 09:25 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:25 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:26 : use mall
+08-19 09:26 : set names utf8
+08-19 09:26 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:26 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:26 : select cat_id,cat_name,parent_id from category
+08-19 09:26 : select cat_id,cat_name,parent_id from category
+08-19 09:26 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:26 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:26 : use mall
+08-19 09:26 : set names utf8
+08-19 09:26 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:26 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:26 : select cat_id,cat_name,parent_id from category
+08-19 09:26 : select cat_id,cat_name,parent_id from category
+08-19 09:26 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:26 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:27 : use mall
+08-19 09:27 : set names utf8
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:27 : select cat_id,cat_name,parent_id from category
+08-19 09:27 : select cat_id,cat_name,parent_id from category
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:27 : use mall
+08-19 09:27 : set names utf8
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:27 : select cat_id,cat_name,parent_id from category
+08-19 09:27 : select cat_id,cat_name,parent_id from category
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:27 : use mall
+08-19 09:27 : set names utf8
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:27 : select cat_id,cat_name,parent_id from category
+08-19 09:27 : select cat_id,cat_name,parent_id from category
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:27 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:28 : use mall
+08-19 09:28 : set names utf8
+08-19 09:28 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:28 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:28 : select cat_id,cat_name,parent_id from category
+08-19 09:28 : select cat_id,cat_name,parent_id from category
+08-19 09:28 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:28 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:28 : use mall
+08-19 09:28 : set names utf8
+08-19 09:28 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:28 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:28 : select cat_id,cat_name,parent_id from category
+08-19 09:28 : select cat_id,cat_name,parent_id from category
+08-19 09:28 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:28 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:29 : use mall
+08-19 09:29 : set names utf8
+08-19 09:29 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:29 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:29 : select cat_id,cat_name,parent_id from category
+08-19 09:29 : select cat_id,cat_name,parent_id from category
+08-19 09:29 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:29 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:29 : use mall
+08-19 09:29 : set names utf8
+08-19 09:29 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:29 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:29 : select cat_id,cat_name,parent_id from category
+08-19 09:29 : select cat_id,cat_name,parent_id from category
+08-19 09:29 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:29 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:31 : use mall
+08-19 09:31 : set names utf8
+08-19 09:31 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:31 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:31 : select cat_id,cat_name,parent_id from category
+08-19 09:31 : select cat_id,cat_name,parent_id from category
+08-19 09:31 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:31 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:34 : use mall
+08-19 09:34 : set names utf8
+08-19 09:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:34 : select cat_id,cat_name,parent_id from category
+08-19 09:34 : select cat_id,cat_name,parent_id from category
+08-19 09:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:34 : use mall
+08-19 09:34 : set names utf8
+08-19 09:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:34 : select cat_id,cat_name,parent_id from category
+08-19 09:34 : select cat_id,cat_name,parent_id from category
+08-19 09:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:34 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:37 : use mall
+08-19 09:37 : set names utf8
+08-19 09:37 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:37 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:37 : select cat_id,cat_name,parent_id from category
+08-19 09:37 : select cat_id,cat_name,parent_id from category
+08-19 09:37 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:37 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:39 : use mall
+08-19 09:39 : set names utf8
+08-19 09:39 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:39 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:39 : select cat_id,cat_name,parent_id from category
+08-19 09:39 : select cat_id,cat_name,parent_id from category
+08-19 09:39 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:39 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:40 : use mall
+08-19 09:40 : set names utf8
+08-19 09:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:40 : select cat_id,cat_name,parent_id from category
+08-19 09:40 : select cat_id,cat_name,parent_id from category
+08-19 09:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:40 : use mall
+08-19 09:40 : set names utf8
+08-19 09:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:40 : select cat_id,cat_name,parent_id from category
+08-19 09:40 : select cat_id,cat_name,parent_id from category
+08-19 09:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:40 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:41 : use mall
+08-19 09:41 : set names utf8
+08-19 09:41 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:41 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:41 : select cat_id,cat_name,parent_id from category
+08-19 09:41 : select cat_id,cat_name,parent_id from category
+08-19 09:41 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:41 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:42 : use mall
+08-19 09:42 : set names utf8
+08-19 09:42 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:42 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:42 : select cat_id,cat_name,parent_id from category
+08-19 09:42 : select cat_id,cat_name,parent_id from category
+08-19 09:42 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:42 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:43 : use mall
+08-19 09:43 : set names utf8
+08-19 09:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:43 : select cat_id,cat_name,parent_id from category
+08-19 09:43 : select cat_id,cat_name,parent_id from category
+08-19 09:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:43 : use mall
+08-19 09:43 : set names utf8
+08-19 09:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:43 : select cat_id,cat_name,parent_id from category
+08-19 09:43 : select cat_id,cat_name,parent_id from category
+08-19 09:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:43 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:47 : use mall
+08-19 09:47 : set names utf8
+08-19 09:47 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:47 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:47 : select cat_id,cat_name,parent_id from category
+08-19 09:47 : select cat_id,cat_name,parent_id from category
+08-19 09:47 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:47 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:47 : select cat_id,cat_name,parent_id from category
+08-19 09:47 : select cat_id,cat_name,parent_id from category
+08-19 09:47 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:47 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:49 : use mall
+08-19 09:49 : set names utf8
+08-19 09:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:49 : select cat_id,cat_name,parent_id from category
+08-19 09:49 : select cat_id,cat_name,parent_id from category
+08-19 09:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:49 : select cat_id,cat_name,parent_id from category
+08-19 09:49 : select cat_id,cat_name,parent_id from category
+08-19 09:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:49 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:50 : use mall
+08-19 09:50 : set names utf8
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:50 : select cat_id,cat_name,parent_id from category
+08-19 09:50 : select cat_id,cat_name,parent_id from category
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:50 : select cat_id,cat_name,parent_id from category
+08-19 09:50 : select cat_id,cat_name,parent_id from category
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:50 : use mall
+08-19 09:50 : set names utf8
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:50 : select cat_id,cat_name,parent_id from category
+08-19 09:50 : select cat_id,cat_name,parent_id from category
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:50 : select cat_id,cat_name,parent_id from category
+08-19 09:50 : select cat_id,cat_name,parent_id from category
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:50 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:51 : use mall
+08-19 09:51 : set names utf8
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:51 : select cat_id,cat_name,parent_id from category
+08-19 09:51 : select cat_id,cat_name,parent_id from category
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:51 : select cat_id,cat_name,parent_id from category
+08-19 09:51 : select cat_id,cat_name,parent_id from category
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:51 : use mall
+08-19 09:51 : set names utf8
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:51 : select cat_id,cat_name,parent_id from category
+08-19 09:51 : select cat_id,cat_name,parent_id from category
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:51 : select cat_id,cat_name,parent_id from category
+08-19 09:51 : select cat_id,cat_name,parent_id from category
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:51 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:52 : use mall
+08-19 09:52 : set names utf8
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:52 : use mall
+08-19 09:52 : set names utf8
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:52 : use mall
+08-19 09:52 : set names utf8
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select cat_id,cat_name,parent_id from category
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:52 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:53 : use mall
+08-19 09:53 : set names utf8
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:53 : use mall
+08-19 09:53 : set names utf8
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:53 : use mall
+08-19 09:53 : set names utf8
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select cat_id,cat_name,parent_id from category
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:53 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:56 : use mall
+08-19 09:56 : set names utf8
+08-19 09:56 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:56 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+08-19 09:56 : select cat_id,cat_name,parent_id from category
+08-19 09:56 : select cat_id,cat_name,parent_id from category
+08-19 09:56 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:56 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time limit 5
+08-19 09:56 : select cat_id,cat_name,parent_id from category
+08-19 09:56 : select cat_id,cat_name,parent_id from category
+08-19 09:56 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
+08-19 09:56 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time limit 5
