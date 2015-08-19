@@ -10,6 +10,6 @@ $_CFG = array();
 
 $_CFG['host'] = 'localhost';
 $_CFG['user'] = 'root';
-$_CFG['pwd'] = '';
+$_CFG['pwd'] = '1123';
 $_CFG['dbname'] = 'mall';
 $_CFG['charset'] = 'utf8';

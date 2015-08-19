@@ -94,7 +94,7 @@
                             <?php foreach($catList as $v){ ?>
                             <li class="cate_level_<?php echo $v['lev']+1; ?>
                                 ">
-                                <a href="#">
+                                <a href="?cat_id=<?php echo $v['cat_id']; ?>">
                                     <?php echo $v['cat_name'] ?></a>
                             </li>
                             <?php } ?></ul>
@@ -133,10 +133,11 @@
             <div class="layout_right">
                 <div class="cat_ad"></div>
                 当前位置:
-                <a href="#">首页</a>
-                <code>&gt;</code>
-                <a href="#">男士正装</a>
-
+                <a href="category.php">首页</a>
+                <?php if(isset($catFamily)){
+                        foreach($catFamily as $v){ ?>
+                            <code>&gt;</code><a href="?cat_id=<?php echo $v['cat_id']; ?>"><?php echo $v['cat_name']; ?></a>
+                <?php }} ?>
                 <div class="blank"></div>
 
                 <div class="shop_right_lib_comm">
@@ -145,29 +146,24 @@
                           action="http://www.zhongyis.com/compare.php" name="compareForm">
 
                             <div class="grid">
+                                <?php foreach($goodsList as $v){ ?>
                                 <div class="goodsItem">
                                     <div class="goodsPic">
-
-                                        <a href="#">
-                                            <img title="两扣双开衩平驳头斜兜男..." class="zoom"
-                                                     src="./view/front/images/315_G_1346659439860.jpg">
-                                            <img
-                                            alt="两扣双开衩平驳头斜兜男..."
-                                            src="./view/front/images/315_thumb_G_1346659439530.jpg"></a>
+                                            <img alt="<?php echo $v['goods_name']; ?>" src="<?php echo $v['thumb_img']; ?>"></a>
                                     </div>
                                     <div class="goodsInfo">
-
                                         <div class="goodsSn">
-                                            <a class="f_pname" title="两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶"
-                                                            href="#">两扣双开衩平驳头斜兜男...</a>
+                                            <a class="f_pname" title="<?php echo $v['goods_name']; ?>"
+                                                            href="#"><?php echo $v['goods_name']; ?></a>
                                         </div>
                                         <span class="f_gray">市场价：</span>
-                                        <font class="f_market">￥1598元</font>
+                                        <font class="f_market">￥<?php echo $v['market_price']; ?>元</font>
                                         <br>
                                         本店价：
-                                        <font class="f_shop">￥799元</font>
+                                        <font class="f_shop">￥<?php echo $v['shop_price']; ?>元</font>
                                         <br></div>
                                 </div>
+                                <?php } ?>
                             </div>
                         </form>
 
