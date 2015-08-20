@@ -70,7 +70,7 @@
                 <div class="blank"></div>
                 <div class="blank"></div>
                 <div><h1>新品</h1></div>
-                <div class="more"><a href="#">更多请点击 &gt;&gt;</a></div>
+                <div class="more"><a href="category.php">更多请点击 &gt;&gt;</a></div>
             </div>
             <div class="blank"></div>
 
@@ -84,12 +84,12 @@
                         <?php foreach ($newList as $v) {?>
                         <div class="goodsItem">
                             <div class="goodsPic">
-                                <a class="preview" href="goods.php?id=<?php echo $v['goods_id']; ?>"><img
+                                <a class="preview" href="goods.php?goods_id=<?php echo $v['goods_id']; ?>"><img
                                         alt="<?php echo $v['goods_name']; ?>" src="<?php echo $v['thumb_img']; ?>"></a>
                             </div>
                             <div class="goodsInfo">
                                 <div class="goodsSn"><a class="f_white" title="<?php echo $v['goods_name']; ?>"
-                                                        href="goods.php?id=66"><?php echo $v['goods_name']; ?></a></div>
+                                                        href="goods.php?goods_id=<?php echo $v['goods_id']; ?>"><?php echo $v['goods_name']; ?></a></div>
                                 <span class="f_gray">市场价：</span>
                                 <font class="f_market">￥<?php echo $v['market_price']; ?>元</font><br>
                                 商店价：<font class="f_shop">￥<?php echo $v['shop_price']; ?>元</font>
@@ -111,7 +111,7 @@
                 <div class="blank"></div>
                 <div class="blank"></div>
                 <div><h1>Apple</h1></div>
-                <div class="more"><a href="#">更多请点击 &gt;&gt;</a></div>
+                <div class="more"><a href="category.php">更多请点击 &gt;&gt;</a></div>
             </div>
             <div class="blank"></div>
             <div class="lib_mid">
@@ -120,12 +120,12 @@
                         <?php foreach($appleList as $v){ ?>
                         <div class="goodsItem">
                             <div class="goodsPic">
-                                <a class="preview" href="goods.php?id=<?php echo $v['goods_id']; ?>"><img
+                                <a class="preview" href="goods.php?goods_id=<?php echo $v['goods_id']; ?>"><img
                                         alt="<?php echo $v['goods_name']; ?>" src="<?php echo $v['thumb_img']; ?>"></a>
                             </div>
                             <div class="goodsInfo">
                                 <div class="goodsSn"><a class="f_pname" title="<?php echo $v['goods_name']; ?>"
-                                                        href="goods.php?id=<?php echo $v['goods_id']; ?>"><?php echo $v['goods_name']; ?></a>
+                                                        href="goods.php?goods_id=<?php echo $v['goods_id']; ?>"><?php echo $v['goods_name']; ?></a>
                                 </div>
                                 <span class="f_gray">市场价：</span><font
                                     class="f_market">￥<?php echo $v['market_price']; ?>元</font><br>
@@ -145,7 +145,7 @@
                 <div class="blank"></div>
                 <div class="blank"></div>
                 <div><h1>Samsung</h1></div>
-                <div class="more"><a href="#">更多请点击 &gt;&gt;</a></div>
+                <div class="more"><a href="category.php">更多请点击 &gt;&gt;</a></div>
             </div>
             <div class="blank"></div>
             <div class="lib_mid">
@@ -154,12 +154,12 @@
                         <?php foreach($samsungList as $v) { ?>
                         <div class="goodsItem">
                             <div class="goodsPic">
-                                <a class="preview" href="goods.php?id=<?php echo $v['goods_id']; ?>"><img
+                                <a class="preview" href="goods.php?goods_id=<?php echo $v['goods_id']; ?>"><img
                                         alt="<?php echo $v['goods_name']; ?>" src="<?php echo $v['thumb_img']; ?>"></a>
                             </div>
                             <div class="goodsInfo">
                                 <div class="goodsSn"><a class="f_pname" title="<?php echo $v['goods_name']; ?>"
-                                                        href="goods.php?id=<?php echo $v['goods_id']; ?>"><?php echo $v['goods_name']; ?></a>
+                                                        href="goods.php?goods_id=<?php echo $v['goods_id']; ?>"><?php echo $v['goods_name']; ?></a>
                                 </div>
                                 <span class="f_gray">市场价：</span><font
                                     class="f_market">￥<?php echo $v['market_price']; ?>元</font><br>

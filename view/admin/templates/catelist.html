@@ -42,8 +42,8 @@
             <img src="../view/admin/images/menu_minus.gif" id="icon_0_1" width="9" height="9" border="0" style="margin-left:<?php echo $v['lev']; ?>
             em" />
             <span>
-              <a href="#" >
-                <?php echo $v['cat_name']; ?></a>
+              <?php echo str_repeat('&nbsp;&nbsp;&nbsp;&nbsp;', $v['lev']); ?>
+              <a href="#" ><?php echo $v['cat_name']; ?></a>
             </span>
           </td>
           <td width="10%">0</td>

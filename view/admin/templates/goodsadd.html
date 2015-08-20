@@ -76,8 +76,7 @@ function charea(a) {
               <select name="cat_id"  >
                 <option value="0">请选择...</option>
                 <?php foreach($catelist as $v){ ?>
-                <option value="<?php echo $v['cat_id'];?>
-                  " >
+                <option value="<?php echo $v['cat_id'];?>" >
                   <?php echo str_repeat("&nbsp;&nbsp;",$v['lev']).$v['cat_name'];?></option>
                 <?php } ?></select>
             </td>

@@ -40,6 +40,16 @@ class GoodsModel extends Model{
 	}
 
 	/**
+	 * 取出单个商品信息
+	 * @param $goods_id
+	 * @return array
+	 */
+	public function getOne($goods_id){
+		$sql = 'select * from ' . $this->table . ' where goods_id=' . $goods_id;
+		return $this->db->getRow($sql);
+	}
+
+	/**
 	 * 获取已被删除的数据
 	 */
 	public function getDelete(){
@@ -91,7 +101,7 @@ class GoodsModel extends Model{
 		}
 		$in = implode(',', $sub);
 		$sql = 'select goods_id,goods_name,shop_price,market_price,thumb_img from ' . $this->table .
-			' where cat_id in (' . $in . ') order by add_time limit 5';
+			' where cat_id in (' . $in . ') order by add_time';
 		return $this->db->getAll($sql);
 	}
 }
