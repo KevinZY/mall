@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 2015-08-19 05:05:14
+-- Generation Time: 2015-08-20 10:00:25
 -- 服务器版本： 5.6.17
 -- PHP Version: 5.5.12
 
@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS `category` (
   `intro` varchar(100) NOT NULL DEFAULT '',
   `parent_id` int(11) NOT NULL DEFAULT '0',
   PRIMARY KEY (`cat_id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=7 ;
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=9 ;
 
 --
 -- 转存表中的数据 `category`
@@ -44,7 +44,9 @@ INSERT INTO `category` (`cat_id`, `cat_name`, `intro`, `parent_id`) VALUES
 (3, 'iPhone', '', 1),
 (4, 'iPad', '', 1),
 (5, 'Galaxy系列', '', 2),
-(6, 'Note系列', '', 2);
+(6, 'Note系列', '', 2),
+(7, '小米', '', 0),
+(8, '魅族', '', 0);
 
 -- --------------------------------------------------------
 
@@ -76,7 +78,7 @@ CREATE TABLE IF NOT EXISTS `goods` (
   `last_update` int(10) unsigned NOT NULL DEFAULT '0',
   PRIMARY KEY (`goods_id`),
   UNIQUE KEY `goods_sn` (`goods_sn`)
-) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=6 ;
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
 
 --
 -- 转存表中的数据 `goods`
@@ -87,7 +89,11 @@ INSERT INTO `goods` (`goods_id`, `goods_sn`, `cat_id`, `goods_name`, `shop_price
 (2, 'sn2015081923093', 3, 'iPhone 6', '4899.00', '4999.00', 3265, 0, '0.289', '', 'iPhone 6', 'data/images/1508/19/thumb_6raq4s.jpg', 'data/images/1508/19/goods_6raq4s.jpg', 'data/images/1508/19/6raq4s.jpg', 1, 0, 1, 1, 1, 1439953238, 0),
 (3, 'sn2015081949683', 5, 'Galaxy s6', '5899.00', '5999.00', 1026, 0, '0.302', '', 'Galaxy s6', 'data/images/1508/19/thumb_v86ydo.jpg', 'data/images/1508/19/goods_v86ydo.jpg', 'data/images/1508/19/v86ydo.jpg', 1, 0, 1, 1, 1, 1439953289, 0),
 (4, 'sn2015081991794', 4, 'iPad Air 2', '3289.00', '3588.00', 2065, 0, '0.645', '', 'iPad Air 2', 'data/images/1508/19/thumb_yw807k.jpg', 'data/images/1508/19/goods_yw807k.jpg', 'data/images/1508/19/yw807k.jpg', 1, 0, 1, 1, 1, 1439953335, 0),
-(5, 'sn2015081968868', 6, 'Galaxy Note 5', '5689.00', '5888.00', 3056, 0, '0.326', '', 'Galaxy Note 5', 'data/images/1508/19/thumb_sxjpmu.jpg', 'data/images/1508/19/goods_sxjpmu.jpg', 'data/images/1508/19/sxjpmu.jpg', 1, 0, 1, 1, 1, 1439953379, 0);
+(5, 'sn2015081968868', 6, 'Galaxy Note 5', '5689.00', '5888.00', 3056, 0, '0.326', '', 'Galaxy Note 5', 'data/images/1508/19/thumb_sxjpmu.jpg', 'data/images/1508/19/goods_sxjpmu.jpg', 'data/images/1508/19/sxjpmu.jpg', 1, 0, 1, 1, 1, 1439953379, 0),
+(6, 'sn2015082078242', 5, 'Galaxy s3', '2366.00', '2899.00', 156, 0, '0.289', '', 'i9300', 'data/images/1508/20/thumb_fov9yl.jpg', 'data/images/1508/20/goods_fov9yl.jpg', 'data/images/1508/20/fov9yl.jpg', 1, 0, 0, 0, 0, 1440056480, 0),
+(7, 'sn2015082063302', 8, 'MX5', '1588.00', '1799.00', 600, 0, '0.249', '', 'MX5', 'data/images/1508/20/thumb_i3zbf9.png', 'data/images/1508/20/goods_i3zbf9.png', 'data/images/1508/20/i3zbf9.png', 1, 0, 1, 1, 1, 1440056540, 0),
+(8, 'sn2015082087710', 3, 'iPhone 4s', '2388.00', '2588.00', 200, 0, '0.205', '', 'iPhone 4s', 'data/images/1508/20/thumb_fdl13t.jpg', 'data/images/1508/20/goods_fdl13t.jpg', 'data/images/1508/20/fdl13t.jpg', 1, 0, 1, 0, 0, 1440056577, 0),
+(9, 'sn2015082038480', 7, '小米4', '1288.00', '1488.00', 1236, 0, '0.238', '', '小米4', 'data/images/1508/20/thumb_jxka6f.jpg', 'data/images/1508/20/goods_jxka6f.jpg', 'data/images/1508/20/jxka6f.jpg', 1, 0, 0, 0, 1, 1440057216, 0);
 
 -- --------------------------------------------------------
 
