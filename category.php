@@ -9,8 +9,6 @@ define('ACC', true);
 
 require './include/init.php';
 
-session_start();
-
 $cat = new CatModel();
 $catList = $cat->getList();
 $catList = $cat->getListTree($catList, 0);

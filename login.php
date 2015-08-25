@@ -1,4 +1,6 @@
 <?php
+define('ACC', true);
+require('./include/init.php');
 /**
  * 用户登录页面
  * Created by PhpStorm.
@@ -6,9 +8,6 @@
  * Date: 2015/8/18 0018
  * Time: 10:04
  */
-
-define('ACC', true);
-require('./include/init.php');
 
 if(isset($_POST['act'])){
     //点击登录按钮后过来的
@@ -23,7 +22,6 @@ if(isset($_POST['act'])){
         $msg = '用户名、密码不匹配';
     }else{
         $msg = '登录成功!';
-        session_start();
         $_SESSION = $row;
 
         if(isset($_POST['remember'])){

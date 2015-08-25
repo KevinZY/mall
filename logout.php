@@ -8,7 +8,6 @@ require('./include/init.php');
  * Time: 11:37
  */
 
-session_start();
 session_destroy();
 
 $msg = '退出成功';

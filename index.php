@@ -7,8 +7,6 @@ define('ACC', true);
 
 require './include/init.php';
 
-session_start();
-
 $goods = new GoodsModel();
 
 $newList = $goods->getNew();

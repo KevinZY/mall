@@ -14,102 +14,7 @@
     <link href="./view/front/css/jqzoom.css" rel="stylesheet" type="text/css">
 </head>
 <body style="cursor: auto;">
-<div class="blockfull">
-    <div class="block" style="position:relative;z-index:999999">
-        <div class="page_header clearfix">
-            <div class="block" style="height:85px; ">
-                <div class="logo f_l">
-                    <a href="index.php">
-                        <img src="./view/front/images/logo.gif"></a>
-                </div>
-                <div class="member_login f_l"><font id="ECS_MEMBERZONE">
-                    <div id="append_parent"></div>
-                    欢迎光临！&nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#">登录</a>
-                    |
-                    <a href="#">注册</a></font>
-                </div>
-            </div>
-        </div>
-
-        <div class="mid_nav clearfix" id="mid_nav">
-            <div class="block">
-                <script type="text/javascript">
-                    //初始化主菜单
-                    function sw_nav(obj, tag) {
-                        var subdivs = obj.getElementsByTagName("DIV");
-                        var ifs = obj.getElementsByTagName("IFRAME");
-
-                        if (subdivs.length &amp; gt;
-                        0
-                    )
-                        {
-                            if (tag == 1) {
-                                subdivs[0].style.display = "block";
-                                ifs[0].style.display = "block";
-                            }
-                            else {
-                                subdivs[0].style.display = "none";
-                                ifs[0].style.display = "none";
-                            }
-
-                        }
-                    }
-                </script>
-            </div>
-        </div>
-    </div>
-    <div class="block">
-        <div class="f_l" style="width:822px; overflow:hidden">
-            <div class="block clearfix brand_list">
-                <div class="search_box f_l">
-                    <script type="text/javascript">
-
-                        &amp;
-                        lt;
-                        !--
-                                function checkSearchForm() {
-                                    if (document.getElementById('keyword').value) {
-                                        return true;
-                                    }
-                                    else {
-                                        alert("请输入搜索关键词！");
-                                        return false;
-                                    }
-                                }
-                        -- &amp; gt;
-
-                    </script>
-                    <form id="searchForm" name="searchForm" method="get" action="http://www.zhongyis.com/search.php"
-                          onsubmit="return checkSearchForm()">
-                        <select name="category" id="category" class="txt_style_1" style="vertical-align:middle">
-                            <option value="0">所有分类</option>
-                            <option value="103">待加分类2</option>
-                            <option value="148">配饰</option>
-                            <option value="36">&nbsp;&nbsp;&nbsp;&nbsp;领带</option>
-                            <option value="147">&nbsp;&nbsp;&nbsp;&nbsp;皮带</option>
-                        </select>
-                        <input type="text" name="keywords" id="keyword" value="" class="txt_style_search"
-                               style="vertical-align:middle; width:120px;">
-                        <input type="submit" class="btn_style_3" value="搜索" style="vertical-align:middle">&nbsp;</form>
-                </div>
-            </div>
-        </div>
-        <div class="cart_tip f_r" style="position:relative">
-            <img src="./view/front/images/car.gif">
-            <a href="#" title="查看购物车">
-                购物车中有 <b>1</b>
-                件商品 合计
-                <b>￥799.00元</b>
-            </a>
-            <a href="#" style="position:absolute; top:30px; right:0px;">
-                <img src="./view/front/images/jiesuan.gif"></a>
-        </div>
-    </div>
-    <div class="blank"></div>
-    <link href="./view/front/css/greybox.css" rel="stylesheet" type="text/css" media="all">
-    <link href="./view/front/css/polo.css" rel="stylesheet" type="text/css" media="all">
-</div>
+<?php include(ROOT . 'view/front/header.html'); ?>
 <div class="block clearfix">
     <div class="layout_4">
         <div class="layout_right">
@@ -399,18 +304,6 @@
 </div>
 <div class="blank"></div>
 <div style="text-align:center"></div>
-<div class="page_footer block">
-    <div class="foot_nav">
-        <div class="block">
-            <div class="nav_list">
-                <a href="#" style="padding:0 3px 0 5px">CopyRight: ZhangYang</a>
-                |
-                <a href="#" style="padding:0 3px 0 5px">2015</a>
-                |
-                <a href="mailto:zy1123581321@qq.com" style="padding:0 3px 0 5px">Email: zy1123581321@qq.com</a>
-            </div>
-        </div>
-    </div>
-</div>
+<?php include(ROOT . 'view/front/footer.html'); ?>
 </body>
 </html>
