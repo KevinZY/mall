@@ -56,6 +56,10 @@ class CarTool{
      * @param int $num
      */
     public function addItem($id, $name, $price, $num=1){
+        if($this->hasItem($id)){
+            $this->incNum($id, $num);
+            return;
+        }
         $this->items[$id] = array();
         $this->items[$id]['name'] = $name;
         $this->items[$id]['price'] = $price;
@@ -68,15 +72,115 @@ class CarTool{
     public function clear(){
         $this->items = array();
     }
+
+    /**
+     * 判断有无商品
+     * @param $id
+     * @return bool
+     */
+    public function hasItem($id){
+        return array_key_exists($id, $this->items);
+    }
+
+    /**
+     * 修改商品数量
+     * @param $id
+     * @param int $num
+     * @return bool
+     */
+    public function modNum($id, $num=1){
+        if(!$this->hasItem($id)){
+            return false;
+        }
+        $this->items[$id]['num'] = $num;
+    }
+
+    /**
+     * 删除商品
+     * @param $id
+     */
+    public function delItem($id){
+        unset($this->items[$id]);
+    }
+
+    /**
+     * 商品种类数量
+     * @return int
+     */
+    public function getCnt(){
+        return count($this->items);
+    }
+
+    /**
+     * 获取商品总数
+     * @return int
+     */
+    public function getNum(){
+        if($this->getCnt() == 0){
+            return 0;
+        }
+        $total = 0;
+        foreach($this->items as $item){
+            $total += $item['num'];
+        }
+        return $total;
+    }
+
+    public function getPrice(){
+        if($this->getCnt() == 0){
+            return 0;
+        }
+        $price = 0.0;
+        foreach($this->items as $item){
+            $price += $item['num'] * $item['price'];
+        }
+        return $price;
+    }
+
+    /**
+     * 数量加1
+     * @param $id
+     * @param int $num
+     */
+    public function incNum($id, $num=1){
+        if($this->hasItem($id)){
+            $this->items[$id]['num'] += $num;
+        }
+    }
+
+    /**
+     * 数量减1
+     * @param $id
+     * @param $num
+     */
+    public function decNum($id, $num){
+        if($this->hasItem($id)){
+            $this->items[$id]['num'] -= $num;
+            if($this->items[$id]['num'] <= 0){
+                $this->delItem($id);
+            }
+        }
+    }
+
+    /**
+     * 返回所有商品
+     */
+    public function getAll(){
+        return $this->items;
+    }
 }
 
-//TODO:从清空购物车开始
 function test(){
     session_start();
 //    print_r(CarTool::getCar());
     $car = CarTool::getCar();
     $car->addItem(1, '王八', 25);
-    print_r($car);
+    $car->addItem(2, '乌龟', 50, 3);
+    print_r($car->getAll());
+    echo '<br />';
+    echo $car->getCnt() . '<br />';
+    echo $car->getNum() . '<br />';
+    echo $car->getPrice() . '<br />';
 }
 
 test();
