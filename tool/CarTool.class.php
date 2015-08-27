@@ -170,17 +170,17 @@ class CarTool{
     }
 }
 
-function test(){
-    session_start();
+//function test(){
+//    session_start();
 //    print_r(CarTool::getCar());
-    $car = CarTool::getCar();
-    $car->addItem(1, '王八', 25);
-    $car->addItem(2, '乌龟', 50, 3);
-    print_r($car->getAll());
-    echo '<br />';
-    echo $car->getCnt() . '<br />';
-    echo $car->getNum() . '<br />';
-    echo $car->getPrice() . '<br />';
-}
-
-test();
+//    $car = CarTool::getCar();
+//    $car->addItem(1, '王八', 25);
+//    $car->addItem(2, '乌龟', 50, 3);
+//    print_r($car->getAll());
+//    echo '<br />';
+//    echo $car->getCnt() . '<br />';
+//    echo $car->getNum() . '<br />';
+//    echo $car->getPrice() . '<br />';
+//}
+//
+//test();
