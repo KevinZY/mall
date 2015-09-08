@@ -175,6 +175,7 @@ class CarTool{
 //    print_r(CarTool::getCar());
 //    $car = CarTool::getCar();
 //    $car->addItem(1, '王八', 25);
+//    print_r(CarTool::getCar());
 //    $car->addItem(2, '乌龟', 50, 3);
 //    print_r($car->getAll());
 //    echo '<br />';

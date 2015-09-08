@@ -35,25 +35,26 @@
               <th style="background:#7a7f89; color:#333">小计</th>
               <th style="background:#7a7f89; color:#333">操作</th>
             </tr>
+            <?php foreach($allItems as $item){ ?>
             <tr>
-              <td bgcolor="#ffffff" align="center">
+              < bgcolor="#ffffff" align="center">
                 <a target="_blank" href="#">
-                  <img border="0" title="两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶" src="./view/front/images/315_thumb_G_1346659439530.jpg"></a>
+                  <img border="0" title="<?php echo $item['name']; ?>" src="./view/front/images/315_thumb_G_1346659439530.jpg"></a>
                 <br>
-                <a class="f6" target="_blank" href="#">两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶</a>
-              </td>
+                < class="f6" target="_blank" href="#"><?php echo $item['name']
               <td bgcolor="#ffffff">
                 尺码:165/84A
                 <br></td>
               <td bgcolor="#ffffff" align="right">￥1598.00元</td>
-              <td bgcolor="#ffffff" align="right">￥799.00元</td>
+              <td bgcolor="#ffffff" align="right">￥<?php echo $item['price']; ?>元</td>
               <td bgcolor="#ffffff" align="right">
-                <input type="text" onkeydown="showdiv(this)" style="text-align:center " class="inputBg" size="4" value="1" id="goods_number_449" name="goods_number[449]"></td>
-              <td bgcolor="#ffffff" align="right">￥799.00元</td>
+                <input type="text" onkeydown="showdiv(this)" style="text-align:center " class="inputBg" size="4" value="<?php echo $item['num']; ?>" id="goods_number_449" name="goods_number[449]"></td>
+              <td bgcolor="#ffffff" align="right">￥<?php echo $item['price']*$item['num']; ?>元</td>
               <td bgcolor="#ffffff" align="center">
                 <a class="f6" href="#">删除</a>
               </td>
             </tr>
+          <?php } ?>
           </tbody>
         </table>
         <table width="100%" cellspacing="1" cellpadding="5" border="0" bgcolor="#dddddd" align="center">
