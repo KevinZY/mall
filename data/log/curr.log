@@ -7321,3 +7321,887 @@
 09-08 04:06 : set names utf8
 09-08 04:06 : select * from goods where goods_id=2
 09-08 04:06 : select * from goods where goods_id=2
+09-10 05:35 : use mall
+09-10 05:35 : set names utf8
+09-10 05:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-10 05:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-10 05:35 : select cat_id,cat_name,parent_id from category
+09-10 05:35 : select cat_id,cat_name,parent_id from category
+09-10 05:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-10 05:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-10 05:35 : select cat_id,cat_name,parent_id from category
+09-10 05:35 : select cat_id,cat_name,parent_id from category
+09-10 05:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-10 05:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 09:05 : use mall
+09-14 09:05 : set names utf8
+09-14 09:05 : select * from goods where goods_id=2
+09-14 09:05 : select * from goods where goods_id=2
+09-14 09:05 : use mall
+09-14 09:05 : set names utf8
+09-14 09:05 : select * from goods where goods_id=2
+09-14 09:05 : select * from goods where goods_id=2
+09-14 09:06 : use mall
+09-14 09:06 : set names utf8
+09-14 09:06 : select * from goods where goods_id=2
+09-14 09:06 : select * from goods where goods_id=2
+09-14 09:07 : use mall
+09-14 09:07 : set names utf8
+09-14 09:07 : select * from goods where goods_id=2
+09-14 09:07 : select * from goods where goods_id=2
+09-14 09:08 : use mall
+09-14 09:08 : set names utf8
+09-14 09:08 : select * from goods where goods_id=2
+09-14 09:08 : select * from goods where goods_id=2
+09-14 09:09 : use mall
+09-14 09:09 : set names utf8
+09-14 09:09 : select * from goods where goods_id=2
+09-14 09:09 : select * from goods where goods_id=2
+09-14 09:09 : use mall
+09-14 09:09 : set names utf8
+09-14 09:09 : select * from goods where goods_id=2
+09-14 09:09 : select * from goods where goods_id=2
+09-14 09:11 : use mall
+09-14 09:11 : set names utf8
+09-14 09:11 : select * from goods where goods_id=2
+09-14 09:11 : select * from goods where goods_id=2
+09-14 09:12 : use mall
+09-14 09:12 : set names utf8
+09-14 09:12 : select * from goods where goods_id=2
+09-14 09:12 : select * from goods where goods_id=2
+09-14 09:13 : use mall
+09-14 09:13 : set names utf8
+09-14 09:13 : select * from goods where goods_id=2
+09-14 09:13 : select * from goods where goods_id=2
+09-14 09:13 : use mall
+09-14 09:13 : set names utf8
+09-14 09:13 : select * from goods where goods_id=2
+09-14 09:13 : select * from goods where goods_id=2
+09-14 09:13 : use mall
+09-14 09:13 : set names utf8
+09-14 09:13 : select * from goods where goods_id=2
+09-14 09:13 : select * from goods where goods_id=2
+09-14 09:14 : use mall
+09-14 09:14 : set names utf8
+09-14 09:14 : select * from goods where goods_id=2
+09-14 09:14 : select * from goods where goods_id=2
+09-14 09:14 : use mall
+09-14 09:14 : set names utf8
+09-14 09:14 : select * from goods where goods_id=2
+09-14 09:14 : select * from goods where goods_id=2
+09-14 09:16 : use mall
+09-14 09:16 : set names utf8
+09-14 09:16 : select * from goods where goods_id=2
+09-14 09:16 : select * from goods where goods_id=2
+09-14 09:16 : use mall
+09-14 09:16 : set names utf8
+09-14 09:16 : select * from goods where goods_id=2
+09-14 09:16 : select * from goods where goods_id=2
+09-14 09:16 : use mall
+09-14 09:16 : set names utf8
+09-14 09:16 : select * from goods where goods_id=2
+09-14 09:16 : select * from goods where goods_id=2
+09-14 09:17 : use mall
+09-14 09:17 : set names utf8
+09-14 09:17 : select * from goods where goods_id=2
+09-14 09:17 : select * from goods where goods_id=2
+09-14 09:17 : use mall
+09-14 09:17 : set names utf8
+09-14 09:17 : select * from goods where goods_id=2
+09-14 09:17 : select * from goods where goods_id=2
+09-14 09:18 : use mall
+09-14 09:18 : set names utf8
+09-14 09:18 : select * from goods where goods_id=2
+09-14 09:18 : select * from goods where goods_id=2
+09-14 09:18 : use mall
+09-14 09:18 : set names utf8
+09-14 09:18 : select * from goods where goods_id=2
+09-14 09:18 : select * from goods where goods_id=2
+09-14 09:19 : use mall
+09-14 09:19 : set names utf8
+09-14 09:19 : select * from goods where goods_id=2
+09-14 09:19 : select * from goods where goods_id=2
+09-14 09:20 : use mall
+09-14 09:20 : set names utf8
+09-14 09:20 : select * from goods where goods_id=2
+09-14 09:20 : select * from goods where goods_id=2
+09-14 09:24 : use mall
+09-14 09:24 : set names utf8
+09-14 09:24 : select * from goods where goods_id=2
+09-14 09:24 : select * from goods where goods_id=2
+09-14 09:25 : use mall
+09-14 09:25 : set names utf8
+09-14 09:25 : select * from goods where goods_id=2
+09-14 09:25 : select * from goods where goods_id=2
+09-14 09:25 : use mall
+09-14 09:25 : set names utf8
+09-14 09:25 : select * from goods where goods_id=2
+09-14 09:25 : select * from goods where goods_id=2
+09-14 09:25 : use mall
+09-14 09:25 : set names utf8
+09-14 09:25 : select * from goods where goods_id=2
+09-14 09:25 : select * from goods where goods_id=2
+09-14 09:25 : use mall
+09-14 09:25 : set names utf8
+09-14 09:25 : select * from goods where goods_id=2
+09-14 09:25 : select * from goods where goods_id=2
+09-14 09:26 : use mall
+09-14 09:26 : set names utf8
+09-14 09:26 : select * from goods where goods_id=2
+09-14 09:26 : select * from goods where goods_id=2
+09-14 09:27 : use mall
+09-14 09:27 : set names utf8
+09-14 09:27 : select * from goods where goods_id=2
+09-14 09:27 : select * from goods where goods_id=2
+09-14 09:28 : use mall
+09-14 09:28 : set names utf8
+09-14 09:28 : select * from goods where goods_id=2
+09-14 09:28 : select * from goods where goods_id=2
+09-14 09:28 : use mall
+09-14 09:28 : set names utf8
+09-14 09:28 : select * from goods where goods_id=2
+09-14 09:28 : select * from goods where goods_id=2
+09-14 09:29 : use mall
+09-14 09:29 : set names utf8
+09-14 09:29 : select * from goods where goods_id=2
+09-14 09:29 : select * from goods where goods_id=2
+09-14 09:30 : use mall
+09-14 09:30 : set names utf8
+09-14 09:30 : select * from goods where goods_id=2
+09-14 09:30 : select * from goods where goods_id=2
+09-14 09:31 : use mall
+09-14 09:31 : set names utf8
+09-14 09:31 : select * from goods where goods_id=2
+09-14 09:31 : select * from goods where goods_id=2
+09-14 09:31 : use mall
+09-14 09:31 : set names utf8
+09-14 09:31 : select * from goods where goods_id=2
+09-14 09:31 : select * from goods where goods_id=2
+09-14 09:32 : use mall
+09-14 09:32 : set names utf8
+09-14 09:32 : select * from goods where goods_id=2
+09-14 09:32 : select * from goods where goods_id=2
+09-14 09:32 : use mall
+09-14 09:32 : set names utf8
+09-14 09:32 : select * from goods where goods_id=2
+09-14 09:32 : select * from goods where goods_id=2
+09-14 09:32 : use mall
+09-14 09:32 : set names utf8
+09-14 09:32 : select * from goods where goods_id=2
+09-14 09:32 : select * from goods where goods_id=2
+09-14 09:32 : use mall
+09-14 09:32 : set names utf8
+09-14 09:32 : select * from goods where goods_id=2
+09-14 09:32 : select * from goods where goods_id=2
+09-14 11:22 : use mall
+09-14 11:22 : set names utf8
+09-14 11:22 : select * from goods where goods_id=2
+09-14 11:22 : select * from goods where goods_id=2
+09-14 11:22 : use mall
+09-14 11:22 : set names utf8
+09-14 11:22 : select * from goods where goods_id=2
+09-14 11:22 : select * from goods where goods_id=2
+09-14 11:22 : use mall
+09-14 11:22 : set names utf8
+09-14 11:22 : select * from goods where goods_id=2
+09-14 11:22 : select * from goods where goods_id=2
+09-14 11:24 : use mall
+09-14 11:24 : set names utf8
+09-14 11:24 : select * from goods where goods_id=2
+09-14 11:24 : select * from goods where goods_id=2
+09-14 11:24 : use mall
+09-14 11:24 : set names utf8
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 11:24 : use mall
+09-14 11:24 : set names utf8
+09-14 11:24 : select * from goods where goods_id=2
+09-14 11:24 : select * from goods where goods_id=2
+09-14 11:24 : use mall
+09-14 11:24 : set names utf8
+09-14 11:24 : select * from goods where goods_id=2
+09-14 11:24 : select * from goods where goods_id=2
+09-14 11:24 : use mall
+09-14 11:24 : set names utf8
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 11:24 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 11:24 : use mall
+09-14 11:24 : set names utf8
+09-14 11:24 : select * from goods where goods_id=3
+09-14 11:24 : select * from goods where goods_id=3
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : select cat_id,cat_name,parent_id from category
+09-14 11:24 : use mall
+09-14 11:24 : set names utf8
+09-14 11:24 : select * from goods where goods_id=3
+09-14 11:24 : select * from goods where goods_id=3
+09-14 11:26 : use mall
+09-14 11:26 : set names utf8
+09-14 11:26 : select * from goods where goods_id=3
+09-14 11:26 : select * from goods where goods_id=3
+09-14 11:26 : use mall
+09-14 11:26 : set names utf8
+09-14 11:26 : select * from goods where goods_id=3
+09-14 11:26 : select * from goods where goods_id=3
+09-14 11:29 : use mall
+09-14 11:29 : set names utf8
+09-14 11:29 : select * from goods where goods_id=3
+09-14 11:29 : select * from goods where goods_id=3
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : select * from goods where goods_id=3
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 11:30 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=2
+09-14 11:30 : select * from goods where goods_id=2
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=2
+09-14 11:30 : select * from goods where goods_id=2
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : select cat_id,cat_name,parent_id from category
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=2
+09-14 11:30 : select * from goods where goods_id=2
+09-14 11:30 : use mall
+09-14 11:30 : set names utf8
+09-14 11:30 : select * from goods where goods_id=2
+09-14 11:30 : select * from goods where goods_id=2
+09-14 04:24 : use mall
+09-14 04:24 : set names utf8
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : use mall
+09-14 04:24 : set names utf8
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : use mall
+09-14 04:24 : set names utf8
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : use mall
+09-14 04:24 : set names utf8
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : use mall
+09-14 04:24 : set names utf8
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : use mall
+09-14 04:24 : set names utf8
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:24 : select * from goods where goods_id=2
+09-14 04:25 : use mall
+09-14 04:25 : set names utf8
+09-14 04:25 : select * from goods where goods_id=2
+09-14 04:25 : select * from goods where goods_id=2
+09-14 04:27 : use mall
+09-14 04:27 : set names utf8
+09-14 04:27 : select * from goods where goods_id=2
+09-14 04:27 : select * from goods where goods_id=2
+09-14 04:31 : use mall
+09-14 04:31 : set names utf8
+09-14 04:31 : select * from goods where goods_id=2
+09-14 04:31 : select * from goods where goods_id=2
+09-14 04:31 : use mall
+09-14 04:31 : set names utf8
+09-14 04:31 : select * from goods where goods_id=2
+09-14 04:31 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : use mall
+09-14 04:34 : set names utf8
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:34 : select * from goods where goods_id=2
+09-14 04:35 : use mall
+09-14 04:35 : set names utf8
+09-14 04:35 : select * from goods where goods_id=2
+09-14 04:35 : select * from goods where goods_id=2
+09-14 04:35 : use mall
+09-14 04:35 : set names utf8
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 04:35 : use mall
+09-14 04:35 : set names utf8
+09-14 04:35 : select * from goods where goods_id=2
+09-14 04:35 : select * from goods where goods_id=2
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : use mall
+09-14 04:35 : set names utf8
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where is_new=1 order by add_time limit 5
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (1,3,4) order by add_time
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 04:35 : select goods_id,goods_name,shop_price,market_price,thumb_img from goods where cat_id in (2,5,6) order by add_time
+09-14 04:35 : use mall
+09-14 04:35 : set names utf8
+09-14 04:35 : select * from goods where goods_id=1
+09-14 04:35 : select * from goods where goods_id=1
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:35 : select cat_id,cat_name,parent_id from category
+09-14 04:36 : use mall
+09-14 04:36 : set names utf8
+09-14 04:36 : select * from goods where goods_id=1
+09-14 04:36 : select * from goods where goods_id=1
+09-14 04:56 : use mall
+09-14 04:56 : set names utf8
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:56 : use mall
+09-14 04:56 : set names utf8
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:56 : select cat_id,cat_name,parent_id from category
+09-14 04:56 : select cat_id,cat_name,parent_id from category
+09-14 04:56 : use mall
+09-14 04:56 : set names utf8
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:56 : use mall
+09-14 04:56 : set names utf8
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:56 : use mall
+09-14 04:56 : set names utf8
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:56 : select * from goods where goods_id=1
+09-14 04:57 : use mall
+09-14 04:57 : set names utf8
+09-14 04:57 : select * from goods where goods_id=1
+09-14 04:57 : select * from goods where goods_id=1
+09-14 04:57 : use mall
+09-14 04:57 : set names utf8
+09-14 04:57 : select * from goods where goods_id=1
+09-14 04:57 : select * from goods where goods_id=1

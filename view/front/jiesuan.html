@@ -16,7 +16,7 @@
   <div class="blank"></div>
   <div class="block">
     当前位置:
-    <a href="#">首页</a>
+    <a href=".">首页</a>
     <code>&gt;</code>
     购物流程
     <div class="blank"></div>
@@ -37,19 +37,19 @@
             </tr>
             <?php foreach($allItems as $item){ ?>
             <tr>
-              < bgcolor="#ffffff" align="center">
+              <td bgcolor="#ffffff" align="center">
                 <a target="_blank" href="#">
-                  <img border="0" title="<?php echo $item['name']; ?>" src="./view/front/images/315_thumb_G_1346659439530.jpg"></a>
+                  <img border="0" title="<?php echo $item['name']; ?>" src="<?php echo $item['goods_img']; ?>"></a>
                 <br>
-                < class="f6" target="_blank" href="#"><?php echo $item['name']
+                <class="f6" target="_blank" href="#"><?php echo $item['name']; ?>
               <td bgcolor="#ffffff">
                 尺码:165/84A
                 <br></td>
-              <td bgcolor="#ffffff" align="right">￥1598.00元</td>
-              <td bgcolor="#ffffff" align="right">￥<?php echo $item['price']; ?>元</td>
+              <td bgcolor="#ffffff" align="right">￥<?php echo $item['market_price']; ?></td>
+              <td bgcolor="#ffffff" align="right">￥<?php echo $item['shop_price']; ?>元</td>
               <td bgcolor="#ffffff" align="right">
                 <input type="text" onkeydown="showdiv(this)" style="text-align:center " class="inputBg" size="4" value="<?php echo $item['num']; ?>" id="goods_number_449" name="goods_number[449]"></td>
-              <td bgcolor="#ffffff" align="right">￥<?php echo $item['price']*$item['num']; ?>元</td>
+              <td bgcolor="#ffffff" align="right">￥<?php echo $item['shop_price']*$item['num']; ?>元</td>
               <td bgcolor="#ffffff" align="center">
                 <a class="f6" href="#">删除</a>
               </td>
@@ -60,7 +60,7 @@
         <table width="100%" cellspacing="1" cellpadding="5" border="0" bgcolor="#dddddd" align="center">
           <tbody>
             <tr>
-              <td bgcolor="#ffffff">购物金额小计 ￥799.00元，比市场价 ￥1598.00元 节省了 ￥799.00元 (50%)</td>
+              <td bgcolor="#ffffff">购物金额小计 ￥<?php echo $shop_total; ?>元，比市场价 ￥<?php echo $market_total; ?>元 节省了 ￥<?php echo $save; ?>元 (<?php echo $percent; ?>%)</td>
               <td bgcolor="#ffffff" align="right">
                 <input type="button" onclick="location.href='flow.php?step=clear'" class="bnt_blue_1" value="清空购物车">
                 <input type="submit" value="更新购物车" class="bnt_blue_1" name="submit"></td>

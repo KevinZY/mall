@@ -52,17 +52,21 @@ class CarTool{
      * 添加商品
      * @param $id
      * @param $name
-     * @param $price
+     * @param $shop_price
+     * @param $market_price
+     * @param $goods_img
      * @param int $num
      */
-    public function addItem($id, $name, $price, $num=1){
+    public function addItem($id, $name, $shop_price, $market_price, $goods_img, $num=1){
         if($this->hasItem($id)){
             $this->incNum($id, $num);
             return;
         }
         $this->items[$id] = array();
         $this->items[$id]['name'] = $name;
-        $this->items[$id]['price'] = $price;
+        $this->items[$id]['market_price'] = $market_price;
+        $this->items[$id]['shop_price'] = $shop_price;
+        $this->items[$id]['goods_img'] = $goods_img;
         $this->items[$id]['num'] = $num;
     }
 
@@ -126,15 +130,26 @@ class CarTool{
         return $total;
     }
 
-    public function getPrice(){
+    public function getShopPrice(){
         if($this->getCnt() == 0){
             return 0;
         }
-        $price = 0.0;
+        $shop_price = 0.0;
         foreach($this->items as $item){
-            $price += $item['num'] * $item['price'];
+            $shop_price += $item['num'] * $item['shop_price'];
         }
-        return $price;
+        return $shop_price;
+    }
+
+    public function getMarketPrice(){
+        if($this->getCnt() == 0){
+            return 0;
+        }
+        $market_price = 0.0;
+        foreach($this->items as $item){
+            $market_price += $item['num'] * $item['market_price'];
+        }
+        return $market_price;
     }
 
     /**
@@ -172,7 +187,7 @@ class CarTool{
 
 //function test(){
 //    session_start();
-//    print_r(CarTool::getCar());
+//    //print_r(CarTool::getCar());
 //    $car = CarTool::getCar();
 //    $car->addItem(1, '王八', 25);
 //    print_r(CarTool::getCar());

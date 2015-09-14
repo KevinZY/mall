@@ -19,10 +19,22 @@ if($act == 'buy'){
     if($goods_id){
         $g = $goods->find($goods_id);
         if(!empty($g)){
-            $car->addItem($goods_id, $g['goods_name'], $g['shop_price'], $num);
+            if($g['is_delete'] == 1 || $g['is_on_sale'] == 0){
+                $msg = '此商品以下架，不能购买！';
+                include(ROOT . 'view/front/msg.html');
+            }
+            $car->addItem($goods_id, $g['goods_name'], $g['shop_price'],$g['market_price'], $g['goods_img'], $num);
         }
 //        print_r($car->getAll());
         $allItems = $car->getAll();
+        if(empty($allItems)){
+            header('location:index.php');
+            exit;
+        }
+        $shop_total = $car->getShopPrice();
+        $market_total = $car->getMarketPrice();
+        $save = $market_total - $shop_total;
+        $percent = number_format(($save*100.0)/$market_total, 2);
         include(ROOT . '/view/front/jiesuan.html');
     }
 }
